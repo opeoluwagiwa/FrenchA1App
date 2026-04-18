@@ -33,16 +33,16 @@ export default function HomeScreen({ navigation }) {
     : 100;
 
   const features = [
-    { title: 'Cartes', icon: '🃏', desc: 'Flashcards', screen: 'FlashcardCategories', color: COLORS.primary },
-    { title: 'Quiz', icon: '🎯', desc: 'Test knowledge', screen: 'QuizMenu', color: COLORS.secondary },
-    { title: 'Composer', icon: '✍️', desc: 'Build sentences', screen: 'SentenceComposer', color: COLORS.accent },
-    { title: 'Grammaire', icon: '📚', desc: 'Learn rules', screen: 'GrammarList', color: COLORS.xp },
-    { title: 'Dialogues', icon: '💬', desc: 'Conversations', screen: 'DialogueList', color: COLORS.feminine },
-    { title: 'Prononciation', icon: '🗣️', desc: 'Sound it out', screen: 'Pronunciation', color: '#00C9A7' },
-    { title: 'Dictionnaire', icon: '📖', desc: '2,000+ mots', screen: 'Dictionary', color: COLORS.accent },
-    { title: 'Audio', icon: '🎙️', desc: 'Record & compare', screen: 'AudioPractice', color: COLORS.wrong },
-    { title: 'Défis', icon: '🎯', desc: 'Themed quizzes', screen: 'ThemedChallenge', color: COLORS.gold },
-    { title: 'Progrès', icon: '📊', desc: 'Your stats', screen: 'ProgressCharts', color: COLORS.xp },
+    { title: 'Flashcards', icon: '▦', desc: 'SRS vocab cards', screen: 'FlashcardCategories', color: COLORS.primary },
+    { title: 'Quiz', icon: '◎', desc: 'Test knowledge', screen: 'QuizMenu', color: COLORS.secondary },
+    { title: 'Composer', icon: '⊞', desc: 'Build sentences', screen: 'SentenceComposer', color: COLORS.accent },
+    { title: 'Grammar', icon: '≡', desc: 'Learn the rules', screen: 'GrammarList', color: COLORS.xp },
+    { title: 'Dialogues', icon: '⊡', desc: 'Conversations', screen: 'DialogueList', color: COLORS.feminine },
+    { title: 'Pronunciation', icon: '♪', desc: 'Sound it out', screen: 'Pronunciation', color: '#00C9A7' },
+    { title: 'Dictionary', icon: '⊟', desc: '2,000+ words', screen: 'Dictionary', color: COLORS.accent },
+    { title: 'Audio', icon: '●', desc: 'Record & compare', screen: 'AudioPractice', color: COLORS.wrong },
+    { title: 'Challenges', icon: '◆', desc: 'Themed quizzes', screen: 'ThemedChallenge', color: COLORS.gold },
+    { title: 'Progress', icon: '▤', desc: 'Your stats', screen: 'ProgressCharts', color: COLORS.xp },
   ];
 
   if (!state.isLoaded) {
@@ -102,12 +102,12 @@ export default function HomeScreen({ navigation }) {
         activeOpacity={0.85}
       >
         <View style={styles.heroContent}>
-          <Text style={styles.heroLabel}>LECON DU JOUR</Text>
+          <Text style={styles.heroLabel}>TODAY'S LESSON</Text>
           <Text style={styles.heroTitle}>
             {state.dailyChallengeCompleted && state.dailyChallengeDate === new Date().toDateString()
-              ? 'Terminé !' : 'Défi quotidien'}
+              ? 'Completed!' : 'Daily Challenge'}
           </Text>
-          <Text style={styles.heroDesc}>10 questions mélangées · 8 min</Text>
+          <Text style={styles.heroDesc}>10 mixed questions · 8 min</Text>
           <View style={styles.heroBottom}>
             <View style={{ flex: 1 }}>
               <ProgressBar
@@ -127,7 +127,7 @@ export default function HomeScreen({ navigation }) {
       {wordOfDay && (
         <View style={styles.wodCard}>
           <View style={styles.wodHeader}>
-            <Text style={styles.wodLabel}>MOT DU JOUR</Text>
+            <Text style={styles.wodLabel}>WORD OF THE DAY</Text>
             <Text style={{ fontSize: 16 }}>🔊</Text>
           </View>
           <Text style={styles.wodFrench}>{wordOfDay.french}</Text>
@@ -137,12 +137,12 @@ export default function HomeScreen({ navigation }) {
       )}
 
       {/* Continue learning */}
-      <Text style={styles.sectionLabel}>CONTINUER</Text>
+      <Text style={styles.sectionLabel}>CONTINUE</Text>
       <View style={styles.continueCard}>
         {[
-          { icon: '🃏', fr: 'Cartes mémoire', en: 'Flashcards', pct: Math.min(100, (state.wordsLearned / 10) * 100), screen: 'FlashcardCategories' },
+          { icon: '🃏', fr: 'Flashcards', en: 'Flashcards', pct: Math.min(100, (state.wordsLearned / 10) * 100), screen: 'FlashcardCategories' },
           { icon: '💬', fr: 'Dialogue', en: 'Conversations', pct: Math.min(100, (state.dialoguesCompleted / 8) * 100), screen: 'DialogueList' },
-          { icon: '📚', fr: 'Grammaire', en: 'Les articles', pct: Math.min(100, (state.grammarCompleted / 20) * 100), screen: 'GrammarList' },
+          { icon: '📚', fr: 'Grammaire', en: 'Articles', pct: Math.min(100, (state.grammarCompleted / 20) * 100), screen: 'GrammarList' },
         ].map((r, i, arr) => (
           <TouchableOpacity
             key={i}
@@ -162,7 +162,7 @@ export default function HomeScreen({ navigation }) {
             </View>
             <View style={[styles.continuePill, r.pct >= 100 && styles.continuePillDone]}>
               <Text style={[styles.continuePillText, r.pct >= 100 && { color: COLORS.correct }]}>
-                {r.pct >= 100 ? 'Terminé' : 'En cours'}
+                {r.pct >= 100 ? 'Done' : 'In progress'}
               </Text>
             </View>
           </TouchableOpacity>
@@ -170,7 +170,7 @@ export default function HomeScreen({ navigation }) {
       </View>
 
       {/* Feature Grid */}
-      <Text style={styles.sectionLabel}>APPRENDRE</Text>
+      <Text style={styles.sectionLabel}>LEARN</Text>
       <View style={styles.featureGrid}>
         {features.map((f, i) => (
           <TouchableOpacity
@@ -195,7 +195,7 @@ export default function HomeScreen({ navigation }) {
         >
           <Text style={{ fontSize: 24, marginRight: 12 }}>🔄</Text>
           <View style={{ flex: 1 }}>
-            <Text style={{ color: COLORS.text, fontSize: 14, fontWeight: '700' }}>Revoir les erreurs</Text>
+            <Text style={{ color: COLORS.text, fontSize: 14, fontWeight: '700' }}>Review Mistakes</Text>
             <Text style={{ color: COLORS.textSecondary, fontSize: 12, marginTop: 2 }}>{state.mistakes.length} items</Text>
           </View>
         </TouchableOpacity>
@@ -240,7 +240,7 @@ const styles = StyleSheet.create({
   },
   heroContent: {},
   heroLabel: { fontSize: 10, fontWeight: '700', color: 'rgba(255,255,255,0.85)', letterSpacing: 1.5 },
-  heroTitle: { fontSize: 28, fontWeight: 'bold', fontStyle: 'italic', color: '#fff', marginTop: 6, lineHeight: 30 },
+  heroTitle: { fontSize: 28, fontWeight: 'bold', color: '#fff', marginTop: 6, lineHeight: 30 },
   heroDesc: { fontSize: 13, color: 'rgba(255,255,255,0.9)', marginTop: 4 },
   heroBottom: { flexDirection: 'row', alignItems: 'center', marginTop: 14 },
   heroBadge: { backgroundColor: 'rgba(0,0,0,0.18)', paddingHorizontal: 10, paddingVertical: 5, borderRadius: RADIUS.full, marginLeft: 10 },
@@ -257,7 +257,7 @@ const styles = StyleSheet.create({
     borderColor: COLORS.borderSoft,
   },
   wodHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 10 },
-  wodLabel: { fontSize: 10, fontWeight: '700', color: COLORS.gold, letterSpacing: 2 },
+  wodLabel: { fontSize: 10, fontWeight: '700', color: COLORS.gold, letterSpacing: 1.5 },
   wodFrench: { color: COLORS.text, fontSize: FONTS.size.display, fontWeight: 'bold', fontStyle: 'italic', letterSpacing: -1, lineHeight: 44 },
   wodPron: { color: COLORS.textSecondary, fontSize: FONTS.size.sm, fontStyle: 'italic', marginTop: 6 },
   wodEnglish: { color: COLORS.text, fontSize: 14, marginTop: 10, lineHeight: 20 },

@@ -121,10 +121,10 @@ export default function FlashcardScreen({ route, navigation }) {
     return (
       <View style={[styles.container, { justifyContent: 'center', alignItems: 'center' }]}>
         <Text style={{ fontSize: 60 }}>🎉</Text>
-        <Text style={styles.doneTitle}>Tout est revu !</Text>
-        <Text style={styles.doneText}>Pas de cartes à revoir dans cette catégorie.</Text>
+        <Text style={styles.doneTitle}>All caught up!</Text>
+        <Text style={styles.doneText}>No cards due for review in this category.</Text>
         <TouchableOpacity style={styles.backBtn} onPress={() => navigation.goBack()}>
-          <Text style={styles.backBtnText}>Retour</Text>
+          <Text style={styles.backBtnText}>Go Back</Text>
         </TouchableOpacity>
       </View>
     );
@@ -150,9 +150,9 @@ export default function FlashcardScreen({ route, navigation }) {
 
       {/* Swipe hints */}
       <View style={styles.swipeHints}>
-        <Text style={[styles.swipeHint, { color: COLORS.wrong }]}>← Difficile</Text>
-        <Text style={[styles.swipeHint, { color: COLORS.textMuted }]}>Touchez pour retourner</Text>
-        <Text style={[styles.swipeHint, { color: COLORS.correct }]}>Facile →</Text>
+        <Text style={[styles.swipeHint, { color: COLORS.wrong }]}>← Hard</Text>
+        <Text style={[styles.swipeHint, { color: COLORS.textMuted }]}>Tap to flip</Text>
+        <Text style={[styles.swipeHint, { color: COLORS.correct }]}>Easy →</Text>
       </View>
 
       {/* Card */}
@@ -178,7 +178,7 @@ export default function FlashcardScreen({ route, navigation }) {
                     <Text style={{ fontSize: 22 }}>🐢</Text>
                   </TouchableOpacity>
                 </View>
-                <Text style={styles.revealHint}>TOUCHEZ POUR REVELER</Text>
+                <Text style={styles.revealHint}>TAP TO REVEAL</Text>
               </View>
             ) : (
               <View style={[styles.cardFace, styles.cardBack]}>
@@ -195,9 +195,9 @@ export default function FlashcardScreen({ route, navigation }) {
 
       {/* 3D Rating buttons */}
       <View style={styles.ratingRow}>
-        <RatingButton color={COLORS.wrong} emoji="😣" label="DUR" hint="1" days="< 1 min" onPress={() => handleSwipe(1)} />
-        <RatingButton color="#FF9600" emoji="🤔" label="CORRECT" hint="2" days="10 min" onPress={() => handleSwipe(3)} />
-        <RatingButton color={COLORS.correct} emoji="😄" label="FACILE" hint="3" days="4 jours" onPress={() => handleSwipe(5)} />
+        <RatingButton color={COLORS.wrong} emoji="😣" label="HARD" hint="1" days="< 1 min" onPress={() => handleSwipe(1)} />
+        <RatingButton color="#FF9600" emoji="🤔" label="GOOD" hint="2" days="10 min" onPress={() => handleSwipe(3)} />
+        <RatingButton color={COLORS.correct} emoji="😄" label="EASY" hint="3" days="4 jours" onPress={() => handleSwipe(5)} />
       </View>
     </View>
   );

@@ -1,13 +1,14 @@
 import React from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
-import { COLORS, FONTS, RADIUS } from '../utils/theme';
+import { COLORS } from '../utils/theme';
 
 const TABS = [
-  { key: 'home', label: 'Accueil', icon: '🏠' },
-  { key: 'learn', label: 'Apprendre', icon: '📖' },
-  { key: 'quiz', label: 'Quiz', icon: '🎯' },
-  { key: 'ai', label: 'Tuteur', icon: '✨' },
-  { key: 'profile', label: 'Profil', icon: '👤' },
+  { key: 'home', label: 'Home', icon: '⌂' },
+  { key: 'journey', label: 'Journey', icon: '◆' },
+  { key: 'learn', label: 'Learn', icon: '▦' },
+  { key: 'quiz', label: 'Quiz', icon: '◎' },
+  { key: 'ai', label: 'AI Tutor', icon: '◈' },
+  { key: 'profile', label: 'Profile', icon: '○' },
 ];
 
 export default function CustomTabBar({ activeTab, onTabPress }) {
@@ -22,7 +23,7 @@ export default function CustomTabBar({ activeTab, onTabPress }) {
             onPress={() => onTabPress(tab.key)}
             activeOpacity={0.7}
           >
-            <Text style={[styles.icon, isActive && styles.iconActive]}>
+            <Text style={[styles.icon, isActive && { color: COLORS.primary, fontSize: 22 }]}>
               {tab.icon}
             </Text>
             <Text style={[styles.label, isActive && styles.labelActive]}>
@@ -53,19 +54,14 @@ const styles = StyleSheet.create({
     position: 'relative',
   },
   icon: {
-    fontSize: 20,
-    opacity: 0.45,
-  },
-  iconActive: {
-    fontSize: 24,
-    opacity: 1,
+    fontSize: 18,
+    color: COLORS.textMuted,
   },
   label: {
     color: COLORS.textMuted,
-    fontSize: 10,
+    fontSize: 9,
     marginTop: 3,
     fontWeight: '500',
-    letterSpacing: 0.1,
   },
   labelActive: {
     color: COLORS.primary,
@@ -74,7 +70,7 @@ const styles = StyleSheet.create({
   indicator: {
     position: 'absolute',
     top: -1,
-    width: 24,
+    width: 20,
     height: 2,
     borderRadius: 1,
   },
