@@ -1,0 +1,181 @@
+[
+  {
+    "title": "Dialogue 1: At a Cafe",
+    "setting": "Marie enters a small cafe in Paris.",
+    "lines": [
+      {
+        "speaker": "Serveur",
+        "french": "Bonjour, madame ! Vous desirez ?",
+        "english": "Hello, ma'am! What would you like?"
+      },
+      {
+        "speaker": "Marie",
+        "french": "Bonjour ! Je voudrais un cafe et un croissant, s'il vous plait.",
+        "english": "Hello! I would like a coffee and a croissant, please."
+      },
+      {
+        "speaker": "Serveur",
+        "french": "Tres bien. Un cafe creme ou un cafe noir ?",
+        "english": "Very good. A latte or a black coffee?"
+      },
+      {
+        "speaker": "Marie",
+        "french": "Un cafe creme, s'il vous plait.",
+        "english": "A latte, please."
+      },
+      {
+        "speaker": "Serveur",
+        "french": "Voila, madame. Ca fait trois euros cinquante.",
+        "english": "Here you are, ma'am. That's three euros fifty."
+      },
+      {
+        "speaker": "Marie",
+        "french": "Merci beaucoup ! C'est delicieux.",
+        "english": "Thank you very much! It's delicious."
+      }
+    ]
+  },
+  {
+    "title": "Dialogue 2: Asking for Directions",
+    "setting": "Lucas is lost near the train station.",
+    "lines": [
+      {
+        "speaker": "Lucas",
+        "french": "Excusez-moi, ou est la gare, s'il vous plait ?",
+        "english": "Excuse me, where is the train station, please?"
+      },
+      {
+        "speaker": "Passant",
+        "french": "C'est tout droit, puis tournez a gauche.",
+        "english": "It's straight ahead, then turn left."
+      },
+      {
+        "speaker": "Lucas",
+        "french": "C'est loin d'ici ?",
+        "english": "Is it far from here?"
+      },
+      {
+        "speaker": "Passant",
+        "french": "Non, c'est a cinq minutes a pied.",
+        "english": "No, it's five minutes on foot."
+      },
+      {
+        "speaker": "Lucas",
+        "french": "Merci beaucoup, monsieur !",
+        "english": "Thank you very much, sir!"
+      },
+      {
+        "speaker": "Passant",
+        "french": "De rien, bonne journee !",
+        "english": "You're welcome, have a good day!"
+      }
+    ]
+  },
+  {
+    "title": "Dialogue 3: Meeting a New Classmate",
+    "setting": "First day at a French class in Luxembourg.",
+    "lines": [
+      {
+        "speaker": "Sophie",
+        "french": "Bonjour ! Je m'appelle Sophie. Et toi ?",
+        "english": "Hello! My name is Sophie. And you?"
+      },
+      {
+        "speaker": "Tobi",
+        "french": "Salut ! Je m'appelle Tobi. Enchanté.",
+        "english": "Hi! My name is Tobi. Nice to meet you."
+      },
+      {
+        "speaker": "Sophie",
+        "french": "D'ou viens-tu ?",
+        "english": "Where are you from?"
+      },
+      {
+        "speaker": "Tobi",
+        "french": "Je viens du Nigeria. Et toi ?",
+        "english": "I come from Nigeria. And you?"
+      },
+      {
+        "speaker": "Sophie",
+        "french": "Je suis luxembourgeoise. Tu parles francais ?",
+        "english": "I'm Luxembourgish. Do you speak French?"
+      },
+      {
+        "speaker": "Tobi",
+        "french": "Un peu ! J'apprends le francais depuis trois mois.",
+        "english": "A little! I've been learning French for three months."
+      },
+      {
+        "speaker": "Sophie",
+        "french": "Tres bien ! On peut pratiquer ensemble.",
+        "english": "Very good! We can practice together."
+      }
+    ]
+  },
+  {
+    "title": "Dialogue 4: At the Doctor's Office",
+    "setting": "Paul doesn't feel well and visits the doctor.",
+    "lines": [
+      {
+        "speaker": "Client",
+        "french": "Bonjour, ou sont les fruits, s'il vous plait ?",
+        "english": "Hello, where are the fruits, please?"
+      },
+      {
+        "speaker": "Employe",
+        "french": "Au fond du magasin, a gauche.",
+        "english": "At the back of the store, on the left."
+      },
+      {
+        "speaker": "Client",
+        "french": "Merci. Et le fromage ?",
+        "english": "Thanks. And the cheese?"
+      },
+      {
+        "speaker": "Employe",
+        "french": "Rayon trois, juste apres le pain.",
+        "english": "Aisle three, just past the bread."
+      },
+      {
+        "speaker": "Client",
+        "french": "Est-ce que les tomates sont en promotion ?",
+        "english": "Are the tomatoes on sale?"
+      },
+      {
+        "speaker": "Employe",
+        "french": "Oui, un euro le kilo aujourd'hui.",
+        "english": "Yes, one euro per kilo today."
+      },
+      {
+        "speaker": "Client",
+        "french": "Parfait, j'en prends deux kilos.",
+        "english": "Perfect, I'll take two kilos."
+      }
+    ]
+  },
+  {
+    "title": "Dialogue 5: Shopping for Clothes",
+    "setting": "Emma is looking for a new dress.",
+    "lines": []
+  },
+  {
+    "title": "Dialogue 6: At the Hotel Reception",
+    "setting": "Checking into a hotel in Nice.",
+    "lines": []
+  },
+  {
+    "title": "Dialogue 7: At the Supermarket",
+    "setting": "Buying groceries for dinner.",
+    "lines": []
+  },
+  {
+    "title": "Dialogue 8: Making Weekend Plans",
+    "setting": "Two friends plan their Saturday.",
+    "lines": []
+  },
+  {
+    "title": "Dialogue 8: Making Weekend Plans",
+    "setting": "Two friends plan their Saturday.",
+    "lines": []
+  }
+]

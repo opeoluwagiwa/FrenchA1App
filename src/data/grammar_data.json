@@ -1,0 +1,242 @@
+[
+  {
+    "title": "1. Articles: Le, La, Les, Un, Une, Des",
+    "content": "French nouns have gender (masculine/feminine). 'Le' (the, masc.), 'La' (the, fem.), 'Les' (the, plural). 'Un' (a, masc.), 'Une' (a, fem.), 'Des' (some, plural). Example: Le livre (the book), La table (the table), Les enfants (the children).\n",
+    "tips": "Words ending in -tion, -sion, -ure, -ée are usually feminine. Words ending in -ment, -age, -eau are usually masculine.",
+    "exercises": [
+      {"q": "___ chat est noir.", "a": "Le", "hint": "cat = masculine"},
+      {"q": "___ maison est grande.", "a": "La", "hint": "house = feminine"},
+      {"q": "___ enfants jouent.", "a": "Les", "hint": "children = plural"},
+      {"q": "J'ai ___ livre.", "a": "un", "hint": "a book = masculine singular"},
+      {"q": "C'est ___ bonne idée.", "a": "une", "hint": "idea = feminine"}
+    ]
+  },
+  {
+    "title": "2. Subject Pronouns",
+    "content": "Je (I), Tu (you, informal), Il/Elle/On (he/she/one), Nous (we), Vous (you, formal/plural), Ils/Elles (they, masc./fem.). Use 'tu' with friends and 'vous' with strangers or in formal situations.\n",
+    "tips": "'On' is very common in spoken French and often replaces 'nous'. 'On mange' = We eat (informal).",
+    "exercises": [
+      {"q": "___ suis étudiant.", "a": "Je", "hint": "I am a student"},
+      {"q": "___ es français ?", "a": "Tu", "hint": "Are you French? (informal)"},
+      {"q": "___ est docteur.", "a": "Il", "hint": "He is a doctor"},
+      {"q": "___ sommes amis.", "a": "Nous", "hint": "We are friends"},
+      {"q": "___ êtes très gentil.", "a": "Vous", "hint": "You are very kind (formal)"}
+    ]
+  },
+  {
+    "title": "3. Negation: Ne...Pas",
+    "content": "To make a sentence negative, put 'ne' before the verb and 'pas' after it. Je parle -> Je ne parle pas. Je comprends -> Je ne comprends pas. In spoken French, 'ne' is often dropped.\n",
+    "tips": "Before a vowel, 'ne' becomes 'n'': Je n'aime pas (I don't like). Other negations: ne...jamais (never), ne...rien (nothing), ne...plus (no more).",
+    "exercises": [
+      {"q": "Je ___ parle ___ anglais.", "a": "ne...pas", "hint": "I don't speak English"},
+      {"q": "Il ___ aime ___ le fromage.", "a": "n'...pas", "hint": "He doesn't like cheese"},
+      {"q": "Nous ___ avons ___ de chat.", "a": "n'...pas", "hint": "We don't have a cat"},
+      {"q": "Je ne mange ___.", "a": "pas", "hint": "I don't eat"},
+      {"q": "Elle ___ comprend ___.", "a": "ne...pas", "hint": "She doesn't understand"}
+    ]
+  },
+  {
+    "title": "4. Asking Questions",
+    "content": "Three ways to ask: (1) Add 'Est-ce que' before a statement: Est-ce que tu parles français ? (2) Raise intonation: Tu parles français ? (3) Inversion: Parles-tu français ? Method 1 and 2 are most common at A1.\n",
+    "tips": "Question words: Qui (who), Que/Quoi (what), Où (where), Quand (when), Comment (how), Pourquoi (why), Combien (how much/many).",
+    "exercises": [
+      {"q": "___ tu habites ?", "a": "Où", "hint": "Where do you live?"},
+      {"q": "___ est-ce que tu t'appelles ?", "a": "Comment", "hint": "What is your name?"},
+      {"q": "___ est-ce que tu fais ?", "a": "Qu'", "hint": "What are you doing?"},
+      {"q": "___ coûte ce livre ?", "a": "Combien", "hint": "How much does this book cost?"},
+      {"q": "___ est-ce que tu pars ?", "a": "Quand", "hint": "When are you leaving?"}
+    ]
+  },
+  {
+    "title": "5. -ER Verb Conjugation (Present)",
+    "content": "Most French verbs end in -ER. To conjugate: remove -er, add endings. Je parle, Tu parles, Il/Elle parle, Nous parlons, Vous parlez, Ils/Elles parlent. Works for: aimer, habiter, travailler, manger, jouer.\n",
+    "tips": "Je, Tu, Il/Elle, and Ils/Elles forms all SOUND the same! Only Nous (-ons) and Vous (-ez) sound different.",
+    "exercises": [
+      {"q": "Je _____ (parler) français.", "a": "parle", "hint": "I speak French"},
+      {"q": "Tu _____ (habiter) à Paris ?", "a": "habites", "hint": "Do you live in Paris?"},
+      {"q": "Nous _____ (travailler) ensemble.", "a": "travaillons", "hint": "We work together"},
+      {"q": "Ils _____ (manger) au restaurant.", "a": "mangent", "hint": "They eat at the restaurant"},
+      {"q": "Vous _____ (aimer) la musique ?", "a": "aimez", "hint": "Do you like music?"}
+    ]
+  },
+  {
+    "title": "6. Avoir (to have) & Être (to be)",
+    "content": "AVOIR: J'ai, Tu as, Il/Elle a, Nous avons, Vous avez, Ils/Elles ont. ÊTRE: Je suis, Tu es, Il/Elle est, Nous sommes, Vous êtes, Ils/Elles sont. These are the two most important verbs in French.\n",
+    "tips": "Avoir is used for age (J'ai 20 ans), hunger (J'ai faim), thirst (J'ai soif), cold (J'ai froid), hot (J'ai chaud), and fear (J'ai peur).",
+    "exercises": [
+      {"q": "J'_____ vingt ans.", "a": "ai", "hint": "I am 20 years old (use avoir!)"},
+      {"q": "Nous _____ français.", "a": "sommes", "hint": "We are French (use être)"},
+      {"q": "Tu _____ faim ?", "a": "as", "hint": "Are you hungry? (use avoir!)"},
+      {"q": "Elles _____ étudiantes.", "a": "sont", "hint": "They are students (use être)"},
+      {"q": "Il _____ trois enfants.", "a": "a", "hint": "He has three children"}
+    ]
+  },
+  {
+    "title": "7. Possessive Adjectives",
+    "content": "Mon/Ma/Mes (my), Ton/Ta/Tes (your inf.), Son/Sa/Ses (his/her), Notre/Nos (our), Votre/Vos (your formal), Leur/Leurs (their). The possessive agrees with the OWNED object, not the owner.\n",
+    "tips": "Before feminine nouns starting with a vowel, use mon/ton/son instead of ma/ta/sa: mon amie (my friend, fem.).",
+    "exercises": [
+      {"q": "C'est _____ livre. (my, masc.)", "a": "mon", "hint": "my book"},
+      {"q": "Où est _____ maison ? (your, fem.)", "a": "ta", "hint": "your house (informal)"},
+      {"q": "_____ enfants sont gentils. (his/her)", "a": "Ses", "hint": "His/her children"},
+      {"q": "C'est _____ voiture. (our)", "a": "notre", "hint": "our car"},
+      {"q": "_____ amie s'appelle Marie. (my)", "a": "Mon", "hint": "my friend (fem. but starts with vowel!)"}
+    ]
+  },
+  {
+    "title": "8. Near Future: Aller + Infinitive",
+    "content": "To express the near future, use the verb 'aller' + infinitive. Je vais manger (I am going to eat). Tu vas partir (You are going to leave). Nous allons voyager (We are going to travel).\n",
+    "tips": "Aller conjugation: Je vais, Tu vas, Il/Elle va, Nous allons, Vous allez, Ils/Elles vont. This is the EASIEST way to talk about the future!",
+    "exercises": [
+      {"q": "Je _____ manger.", "a": "vais", "hint": "I am going to eat"},
+      {"q": "Tu _____ partir demain ?", "a": "vas", "hint": "Are you going to leave tomorrow?"},
+      {"q": "Nous _____ voyager en France.", "a": "allons", "hint": "We are going to travel to France"},
+      {"q": "Ils _____ arriver à huit heures.", "a": "vont", "hint": "They are going to arrive at 8"},
+      {"q": "Elle _____ travailler demain.", "a": "va", "hint": "She is going to work tomorrow"}
+    ]
+  },
+  {
+    "title": "9. -IR Verb Conjugation",
+    "content": "Regular -IR verbs (like finir, choisir, réussir) follow a pattern: remove -ir, add: -is, -is, -it, -issons, -issez, -issent. Je finis, Tu finis, Il finit, Nous finissons, Vous finissez, Ils finissent.\n",
+    "tips": "Common -IR verbs: finir (finish), choisir (choose), réussir (succeed), grandir (grow), remplir (fill), réfléchir (think).",
+    "exercises": [
+      {"q": "Je _____ (finir) mes devoirs.", "a": "finis", "hint": "I finish my homework"},
+      {"q": "Nous _____ (choisir) un restaurant.", "a": "choisissons", "hint": "We choose a restaurant"},
+      {"q": "Ils _____ (finir) à midi.", "a": "finissent", "hint": "They finish at noon"},
+      {"q": "Tu _____ (réfléchir) trop.", "a": "réfléchis", "hint": "You think too much"},
+      {"q": "Elle _____ (choisir) une robe.", "a": "choisit", "hint": "She chooses a dress"}
+    ]
+  },
+  {
+    "title": "10. -RE Verb Conjugation",
+    "content": "Regular -RE verbs (like attendre, vendre, répondre): remove -re, add: -s, -s, nothing, -ons, -ez, -ent. J'attends, Tu attends, Il attend, Nous attendons, Vous attendez, Ils attendent.\n",
+    "tips": "Common -RE verbs: attendre (wait), vendre (sell), répondre (answer), entendre (hear), perdre (lose), descendre (go down).",
+    "exercises": [
+      {"q": "J'_____ (attendre) le bus.", "a": "attends", "hint": "I wait for the bus"},
+      {"q": "Il _____ (vendre) sa voiture.", "a": "vend", "hint": "He sells his car (no ending for il!)"},
+      {"q": "Nous _____ (répondre) au professeur.", "a": "répondons", "hint": "We answer the teacher"},
+      {"q": "Tu _____ (entendre) la musique ?", "a": "entends", "hint": "Do you hear the music?"},
+      {"q": "Ils _____ (attendre) depuis une heure.", "a": "attendent", "hint": "They have been waiting for an hour"}
+    ]
+  },
+  {
+    "title": "11. Definite vs Indefinite Articles",
+    "content": "Definite (le/la/les) = THE, refers to specific things or general concepts. Indefinite (un/une/des) = A/SOME. J'aime le chocolat (I like chocolate in general). Je mange un chocolat (I'm eating a chocolate).\n",
+    "tips": "In French, you MUST use articles with nouns (unlike English). 'J'aime musique' is WRONG — say 'J'aime la musique'. After negation, un/une/des become 'de': Je n'ai pas de chat.",
+    "exercises": [
+      {"q": "J'aime _____ musique.", "a": "la", "hint": "I like music (in general)"},
+      {"q": "Je mange _____ pomme.", "a": "une", "hint": "I'm eating an apple (one specific)"},
+      {"q": "_____ chiens sont fidèles.", "a": "Les", "hint": "Dogs are loyal (in general)"},
+      {"q": "Je n'ai pas _____ frères.", "a": "de", "hint": "After negation, des becomes de"},
+      {"q": "Tu veux _____ café ?", "a": "du", "hint": "Do you want some coffee?"}
+    ]
+  },
+  {
+    "title": "12. Partitive Articles: Du, De la, Des",
+    "content": "Use du (masc.), de la (fem.), de l' (before vowel), des (plural) to express 'some' or an unspecified quantity. Je bois du café. Je mange de la salade. J'achète des fruits.\n",
+    "tips": "After negation, ALL partitives become 'de/d'': Je ne bois pas de café. After expressions of quantity (beaucoup, peu, trop), also use 'de': beaucoup de travail.",
+    "exercises": [
+      {"q": "Je bois _____ eau.", "a": "de l'", "hint": "I drink (some) water"},
+      {"q": "Tu manges _____ pain ?", "a": "du", "hint": "Do you eat (some) bread?"},
+      {"q": "Il achète _____ fruits.", "a": "des", "hint": "He buys (some) fruits"},
+      {"q": "Je ne bois pas _____ lait.", "a": "de", "hint": "After negation, use de"},
+      {"q": "Elle mange _____ salade.", "a": "de la", "hint": "She eats (some) salad"}
+    ]
+  },
+  {
+    "title": "13. Adjective Agreement & Placement",
+    "content": "French adjectives agree in gender and number with the noun. Add -e for feminine, -s for plural, -es for feminine plural. Most adjectives go AFTER the noun: une voiture rouge (a red car).\n",
+    "tips": "BANGS adjectives go BEFORE the noun: Beauty (beau), Age (jeune, vieux, nouveau), Number (premier), Goodness (bon, mauvais), Size (grand, petit, gros). Un grand homme vs Un homme intelligent.",
+    "exercises": [
+      {"q": "Une fille _____ (intelligent)", "a": "intelligente", "hint": "Add -e for feminine"},
+      {"q": "Des livres _____ (intéressant)", "a": "intéressants", "hint": "Add -s for masculine plural"},
+      {"q": "Un _____ homme (grand)", "a": "grand", "hint": "BANGS: size goes before noun"},
+      {"q": "Une robe _____ (bleu)", "a": "bleue", "hint": "Add -e for feminine"},
+      {"q": "De _____ amis (bon)", "a": "bons", "hint": "BANGS: goodness goes before, add -s for plural"}
+    ]
+  },
+  {
+    "title": "14. Prepositions of Place",
+    "content": "à (at/to), de (from/of), dans (in/inside), sur (on), sous (under), devant (in front of), derrière (behind), entre (between), à côté de (next to), en face de (opposite).\n",
+    "tips": "à + le = au, à + les = aux. de + le = du, de + les = des. Je vais au cinéma (not 'à le'). Je viens du marché (not 'de le').",
+    "exercises": [
+      {"q": "Le chat est _____ la table.", "a": "sur", "hint": "The cat is ON the table"},
+      {"q": "Je vais _____ cinéma.", "a": "au", "hint": "I go to the cinema (à + le = au)"},
+      {"q": "Le livre est _____ le sac.", "a": "dans", "hint": "The book is IN the bag"},
+      {"q": "La pharmacie est _____ de la banque.", "a": "à côté", "hint": "The pharmacy is NEXT TO the bank"},
+      {"q": "Il vient _____ France.", "a": "de", "hint": "He comes FROM France"}
+    ]
+  },
+  {
+    "title": "15. Telling Time",
+    "content": "Il est + number + heure(s). Il est huit heures (It's 8 o'clock). Et quart (quarter past), et demie (half past), moins le quart (quarter to). Il est midi (noon), Il est minuit (midnight).\n",
+    "tips": "French uses 24-hour time formally: 14h00 = 2 PM. In conversation: Il est deux heures de l'après-midi. Minutes after: et (and). Minutes before: moins (minus).",
+    "exercises": [
+      {"q": "Il est huit _____.", "a": "heures", "hint": "It's 8 o'clock"},
+      {"q": "Il est neuf heures et _____.", "a": "demie", "hint": "It's 9:30"},
+      {"q": "Il est dix heures _____ le quart.", "a": "moins", "hint": "It's 9:45 (quarter TO ten)"},
+      {"q": "Il est _____.", "a": "midi", "hint": "It's noon"},
+      {"q": "Il est trois heures et _____.", "a": "quart", "hint": "It's 3:15"}
+    ]
+  },
+  {
+    "title": "16. Reflexive Verbs",
+    "content": "Reflexive verbs use se/s' and describe actions done to oneself. Se lever (get up), se laver (wash), se coucher (go to bed). Je me lève, Tu te lèves, Il se lève, Nous nous levons.\n",
+    "tips": "Common reflexive verbs for daily routine: se réveiller (wake up), se lever (get up), se doucher (shower), se brosser les dents (brush teeth), s'habiller (get dressed), se coucher (go to bed).",
+    "exercises": [
+      {"q": "Je _____ lève à sept heures.", "a": "me", "hint": "I get up at 7"},
+      {"q": "Tu _____ couches tard ?", "a": "te", "hint": "Do you go to bed late?"},
+      {"q": "Il _____ lave les mains.", "a": "se", "hint": "He washes his hands"},
+      {"q": "Nous _____ habillons vite.", "a": "nous", "hint": "We get dressed quickly"},
+      {"q": "Elles _____ réveillent tôt.", "a": "se", "hint": "They wake up early"}
+    ]
+  },
+  {
+    "title": "17. Passé Composé with Avoir",
+    "content": "To talk about the past, use avoir + past participle. -ER verbs: mangé, parlé, travaillé. -IR verbs: fini, choisi. -RE verbs: attendu, vendu. J'ai mangé (I ate), Tu as parlé (You spoke).\n",
+    "tips": "Irregular past participles to memorize: être→été, avoir→eu, faire→fait, voir→vu, prendre→pris, mettre→mis, dire→dit, écrire→écrit, boire→bu, lire→lu.",
+    "exercises": [
+      {"q": "J'ai _____ (manger) une pizza.", "a": "mangé", "hint": "I ate a pizza (-ER → -é)"},
+      {"q": "Tu as _____ (finir) tes devoirs ?", "a": "fini", "hint": "Did you finish? (-IR → -i)"},
+      {"q": "Nous avons _____ (voir) un film.", "a": "vu", "hint": "We saw a movie (irregular!)"},
+      {"q": "Elle a _____ (faire) du sport.", "a": "fait", "hint": "She did sports (irregular!)"},
+      {"q": "Ils ont _____ (prendre) le bus.", "a": "pris", "hint": "They took the bus (irregular!)"}
+    ]
+  },
+  {
+    "title": "18. Passé Composé with Être",
+    "content": "Some verbs use être instead of avoir in passé composé. DR MRS VANDERTRAMP: Devenir, Revenir, Mourir, Retourner, Sortir, Venir, Aller, Naître, Descendre, Entrer, Rentrer, Tomber, Rester, Arriver, Monter, Partir. Plus all reflexive verbs.\n",
+    "tips": "With être, the past participle AGREES with the subject! Elle est allée (she went), Ils sont partis (they left), Elles sont arrivées (they arrived, fem.).",
+    "exercises": [
+      {"q": "Je suis _____ (aller) au cinéma.", "a": "allé", "hint": "I went to the cinema"},
+      {"q": "Elle est _____ (arriver) hier.", "a": "arrivée", "hint": "She arrived yesterday (add -e for fem!)"},
+      {"q": "Nous sommes _____ (partir) tôt.", "a": "partis", "hint": "We left early (add -s for plural!)"},
+      {"q": "Ils sont _____ (venir) chez moi.", "a": "venus", "hint": "They came to my place"},
+      {"q": "Tu es _____ (tomber) ?", "a": "tombé", "hint": "Did you fall?"}
+    ]
+  },
+  {
+    "title": "19. Demonstratives: Ce, Cette, Ces",
+    "content": "Ce (this/that, masc.), Cette (this/that, fem.), Ces (these/those, plural). Ce livre (this book), Cette maison (this house), Ces enfants (these children). Cet before masc. vowel: Cet homme.\n",
+    "tips": "To distinguish 'this' from 'that', add -ci or -là: Ce livre-ci (this book), Ce livre-là (that book).",
+    "exercises": [
+      {"q": "_____ livre est intéressant.", "a": "Ce", "hint": "This book is interesting (masc.)"},
+      {"q": "_____ fille est ma soeur.", "a": "Cette", "hint": "This girl is my sister (fem.)"},
+      {"q": "_____ chaussures sont belles.", "a": "Ces", "hint": "These shoes are beautiful (plural)"},
+      {"q": "_____ homme est grand.", "a": "Cet", "hint": "This man is tall (masc. before vowel)"},
+      {"q": "Tu connais _____ chanson ?", "a": "cette", "hint": "Do you know this song? (fem.)"}
+    ]
+  },
+  {
+    "title": "20. Adverbs of Frequency & Time",
+    "content": "toujours (always), souvent (often), parfois/quelquefois (sometimes), rarement (rarely), jamais (never). Time: aujourd'hui (today), demain (tomorrow), hier (yesterday), maintenant (now), bientôt (soon).\n",
+    "tips": "Adverbs usually go AFTER the conjugated verb: Je mange souvent au restaurant. With passé composé, short adverbs go between avoir/être and the participle: J'ai souvent mangé ici.",
+    "exercises": [
+      {"q": "Je vais _____ au cinéma. (often)", "a": "souvent", "hint": "I often go to the cinema"},
+      {"q": "Il ne mange _____ de viande. (never)", "a": "jamais", "hint": "He never eats meat"},
+      {"q": "Nous partons _____. (tomorrow)", "a": "demain", "hint": "We leave tomorrow"},
+      {"q": "Elle est _____ en retard. (always)", "a": "toujours", "hint": "She is always late"},
+      {"q": "Tu viens _____ ? (now)", "a": "maintenant", "hint": "Are you coming now?"}
+    ]
+  }
+]

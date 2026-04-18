@@ -1,0 +1,7016 @@
+[
+  {
+    "id": 1,
+    "french": "Bonjour.",
+    "pronunciation": "bohn-ZHOOR",
+    "english": "Hello / Good morning.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 2,
+    "french": "Bonsoir.",
+    "pronunciation": "bohn-SWAHR",
+    "english": "Good evening.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 3,
+    "french": "Bonne nuit.",
+    "pronunciation": "bun NWEE",
+    "english": "Good night.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 4,
+    "french": "Salut !",
+    "pronunciation": "sah-LOO",
+    "english": "Hi! / Bye! (informal)",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 5,
+    "french": "Au revoir.",
+    "pronunciation": "oh ruh-VWAHR",
+    "english": "Goodbye.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 6,
+    "french": "Comment allez-vous ?",
+    "pronunciation": "koh-MAHN tah-lay VOO",
+    "english": "How are you? (formal)",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 7,
+    "french": "Comment vas-tu ?",
+    "pronunciation": "koh-MAHN vah TOO",
+    "english": "How are you? (informal)",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 8,
+    "french": "Je vais bien, merci.",
+    "pronunciation": "zhuh vay BYEHN, mair-SEE",
+    "english": "I am fine, thank you.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 9,
+    "french": "Pas mal.",
+    "pronunciation": "pah MAHL",
+    "english": "Not bad.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 10,
+    "french": "Comme ci, comme ca.",
+    "pronunciation": "kum SEE kum SAH",
+    "english": "So-so.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 11,
+    "french": "Merci beaucoup.",
+    "pronunciation": "mair-SEE boh-KOO",
+    "english": "Thank you very much.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 12,
+    "french": "De rien.",
+    "pronunciation": "duh RYEHN",
+    "english": "You're welcome.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 13,
+    "french": "Il n'y a pas de quoi.",
+    "pronunciation": "eel nyah PAH duh KWAH",
+    "english": "Don't mention it.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 14,
+    "french": "S'il vous plait.",
+    "pronunciation": "seel voo PLAY",
+    "english": "Please (formal).",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 15,
+    "french": "S'il te plait.",
+    "pronunciation": "seel tuh PLAY",
+    "english": "Please (informal).",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 16,
+    "french": "Excusez-moi.",
+    "pronunciation": "ek-skoo-zay MWAH",
+    "english": "Excuse me (formal).",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 17,
+    "french": "Pardon.",
+    "pronunciation": "par-DOHN",
+    "english": "Sorry / Pardon.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 18,
+    "french": "Je suis desole(e).",
+    "pronunciation": "zhuh swee day-zoh-LAY",
+    "english": "I am sorry.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 19,
+    "french": "A bientot !",
+    "pronunciation": "ah byehn-TOH",
+    "english": "See you soon!",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 20,
+    "french": "A demain.",
+    "pronunciation": "ah duh-MEHN",
+    "english": "See you tomorrow.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 21,
+    "french": "A tout a l'heure.",
+    "pronunciation": "ah too tah LUHR",
+    "english": "See you later (same day).",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 22,
+    "french": "Bienvenue !",
+    "pronunciation": "byehn-vuh-NOO",
+    "english": "Welcome!",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 23,
+    "french": "Enchanté(e).",
+    "pronunciation": "ahn-shahn-TAY",
+    "english": "Nice to meet you.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 24,
+    "french": "Comment vous appelez-vous ?",
+    "pronunciation": "koh-MAHN voo zah-play VOO",
+    "english": "What is your name? (formal)",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 25,
+    "french": "Je m'appelle...",
+    "pronunciation": "zhuh mah-PEL",
+    "english": "My name is...",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 26,
+    "french": "Ravi(e) de vous connaitre.",
+    "pronunciation": "rah-VEE duh voo koh-NET-ruh",
+    "english": "Pleased to know you.",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 27,
+    "french": "Bonne journee !",
+    "pronunciation": "bun zhoor-NAY",
+    "english": "Have a good day!",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 28,
+    "french": "Bon week-end !",
+    "pronunciation": "bohn week-EHND",
+    "english": "Have a good weekend!",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 29,
+    "french": "Bon courage !",
+    "pronunciation": "bohn koo-RAZH",
+    "english": "Good luck! / Hang in there!",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 30,
+    "french": "Felicitations !",
+    "pronunciation": "fay-lee-see-tah-SYOHN",
+    "english": "Congratulations!",
+    "category": "Greetings & Basic Courtesy"
+  },
+  {
+    "id": 31,
+    "french": "Je suis etudiant(e).",
+    "pronunciation": "zhuh swee ay-too-DYAHN(t)",
+    "english": "I am a student.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 32,
+    "french": "J'ai vingt ans.",
+    "pronunciation": "zhay VEHN tahn",
+    "english": "I am twenty years old.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 33,
+    "french": "Je viens de...",
+    "pronunciation": "zhuh vyehn duh",
+    "english": "I come from...",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 34,
+    "french": "J'habite a...",
+    "pronunciation": "zhah-BEET ah",
+    "english": "I live in...",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 35,
+    "french": "Je suis francais(e).",
+    "pronunciation": "zhuh swee frahn-SAY(z)",
+    "english": "I am French.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 36,
+    "french": "Je suis americain(e).",
+    "pronunciation": "zhuh swee ah-may-ree-KEHN",
+    "english": "I am American.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 37,
+    "french": "Je parle anglais.",
+    "pronunciation": "zhuh PARL ahn-GLAY",
+    "english": "I speak English.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 38,
+    "french": "Je parle un peu francais.",
+    "pronunciation": "zhuh PARL uhn PUH frahn-SAY",
+    "english": "I speak a little French.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 39,
+    "french": "Voici mon ami(e).",
+    "pronunciation": "vwah-SEE mohn ah-MEE",
+    "english": "This is my friend.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 40,
+    "french": "Il s'appelle Pierre.",
+    "pronunciation": "eel sah-PEL PYEHR",
+    "english": "His name is Pierre.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 41,
+    "french": "Elle s'appelle Marie.",
+    "pronunciation": "el sah-PEL mah-REE",
+    "english": "Her name is Marie.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 42,
+    "french": "Je suis celibataire.",
+    "pronunciation": "zhuh swee say-lee-bah-TEHR",
+    "english": "I am single.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 43,
+    "french": "Je suis marie(e).",
+    "pronunciation": "zhuh swee mah-RYAY",
+    "english": "I am married.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 44,
+    "french": "J'ai un frere et une soeur.",
+    "pronunciation": "zhay uhn FREHR ay oon SUHR",
+    "english": "I have a brother and a sister.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 45,
+    "french": "Mes parents habitent a Paris.",
+    "pronunciation": "may pah-RAHN ah-BEET ah pah-REE",
+    "english": "My parents live in Paris.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 46,
+    "french": "Je travaille comme...",
+    "pronunciation": "zhuh trah-VAHY kum",
+    "english": "I work as...",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 47,
+    "french": "Je suis au chomage.",
+    "pronunciation": "zhuh swee oh shoh-MAZH",
+    "english": "I am unemployed.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 48,
+    "french": "Quelle est votre nationalite ?",
+    "pronunciation": "kel ay VOT-ruh nah-syoh-nah-lee-TAY",
+    "english": "What is your nationality?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 49,
+    "french": "D'ou venez-vous ?",
+    "pronunciation": "doo vuh-nay VOO",
+    "english": "Where do you come from?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 50,
+    "french": "Quel age avez-vous ?",
+    "pronunciation": "kel AHZH ah-vay VOO",
+    "english": "How old are you?",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 51,
+    "french": "Je suis ne(e) en...",
+    "pronunciation": "zhuh swee NAY ahn",
+    "english": "I was born in...",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 52,
+    "french": "J'ai deux enfants.",
+    "pronunciation": "zhay duh zahn-FAHN",
+    "english": "I have two children.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 53,
+    "french": "Mon fils a cinq ans.",
+    "pronunciation": "mohn FEES ah sehnk AHN",
+    "english": "My son is five years old.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 54,
+    "french": "Ma fille est petite.",
+    "pronunciation": "mah FEE-yuh ay puh-TEET",
+    "english": "My daughter is small.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 55,
+    "french": "Je suis ici en vacances.",
+    "pronunciation": "zhuh swee ee-SEE ahn vah-KAHNS",
+    "english": "I am here on vacation.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 56,
+    "french": "Je suis ici pour le travail.",
+    "pronunciation": "zhuh swee ee-SEE poor luh trah-VAHY",
+    "english": "I am here for work.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 57,
+    "french": "J'etudie le francais.",
+    "pronunciation": "zhay-TOO-dee luh frahn-SAY",
+    "english": "I study French.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 58,
+    "french": "Mon numero de telephone est...",
+    "pronunciation": "mohn noo-may-ROH duh tay-lay-FUN ay",
+    "english": "My phone number is...",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 59,
+    "french": "Mon adresse email est...",
+    "pronunciation": "mohn ah-DRESS ee-MAYL ay",
+    "english": "My email address is...",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 60,
+    "french": "Je suis content(e) d'etre ici.",
+    "pronunciation": "zhuh swee kohn-TAHN day-truh ee-SEE",
+    "english": "I am happy to be here.",
+    "category": "Introducing Yourself"
+  },
+  {
+    "id": 61,
+    "french": "Quelle heure est-il ?",
+    "pronunciation": "kel UHR ay TEEL",
+    "english": "What time is it?",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 62,
+    "french": "Il est huit heures.",
+    "pronunciation": "eel ay weet UHR",
+    "english": "It is eight o'clock.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 63,
+    "french": "Il est midi.",
+    "pronunciation": "eel ay mee-DEE",
+    "english": "It is noon.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 64,
+    "french": "Il est minuit.",
+    "pronunciation": "eel ay mee-NWEE",
+    "english": "It is midnight.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 65,
+    "french": "Il est trois heures et demie.",
+    "pronunciation": "eel ay trwah zuhr ay duh-MEE",
+    "english": "It is half past three.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 66,
+    "french": "Il est cinq heures moins le quart.",
+    "pronunciation": "eel ay sehnk uhr mwehn luh KAR",
+    "english": "It is a quarter to five.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 67,
+    "french": "Aujourd'hui c'est lundi.",
+    "pronunciation": "oh-zhoor-DWEE say luhn-DEE",
+    "english": "Today is Monday.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 68,
+    "french": "Demain c'est mardi.",
+    "pronunciation": "duh-MEHN say mar-DEE",
+    "english": "Tomorrow is Tuesday.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 69,
+    "french": "Hier c'etait dimanche.",
+    "pronunciation": "ee-YEHR say-TAY dee-MAHNSH",
+    "english": "Yesterday was Sunday.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 70,
+    "french": "Nous sommes en janvier.",
+    "pronunciation": "noo sum ahn zhahn-VYAY",
+    "english": "We are in January.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 71,
+    "french": "Mon anniversaire est en mai.",
+    "pronunciation": "mohn ah-nee-vehr-SEHR ay tahn MAY",
+    "english": "My birthday is in May.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 72,
+    "french": "Un, deux, trois.",
+    "pronunciation": "uhn, duh, trwah",
+    "english": "One, two, three.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 73,
+    "french": "Quatre, cinq, six.",
+    "pronunciation": "KAT-ruh, sehnk, sees",
+    "english": "Four, five, six.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 74,
+    "french": "Sept, huit, neuf, dix.",
+    "pronunciation": "set, weet, nuhf, dees",
+    "english": "Seven, eight, nine, ten.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 75,
+    "french": "Vingt, trente, quarante.",
+    "pronunciation": "vehn, TRAHNT, kah-RAHNT",
+    "english": "Twenty, thirty, forty.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 76,
+    "french": "Cinquante, soixante.",
+    "pronunciation": "sehn-KAHNT, swah-SAHNT",
+    "english": "Fifty, sixty.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 77,
+    "french": "Soixante-dix, quatre-vingts.",
+    "pronunciation": "swah-sahnt DEES, kat-ruh VEHN",
+    "english": "Seventy, eighty.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 78,
+    "french": "Quatre-vingt-dix, cent.",
+    "pronunciation": "kat-ruh-vehn DEES, sahn",
+    "english": "Ninety, one hundred.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 79,
+    "french": "Mille.",
+    "pronunciation": "MEEL",
+    "english": "One thousand.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 80,
+    "french": "Premier, deuxieme, troisieme.",
+    "pronunciation": "pruh-MYAY, duh-ZYEM, trwah-ZYEM",
+    "english": "First, second, third.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 81,
+    "french": "Le matin.",
+    "pronunciation": "luh mah-TEHN",
+    "english": "The morning.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 82,
+    "french": "L'apres-midi.",
+    "pronunciation": "lah-preh mee-DEE",
+    "english": "The afternoon.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 83,
+    "french": "Le soir.",
+    "pronunciation": "luh SWAHR",
+    "english": "The evening.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 84,
+    "french": "La nuit.",
+    "pronunciation": "lah NWEE",
+    "english": "The night.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 85,
+    "french": "La semaine prochaine.",
+    "pronunciation": "lah suh-MEN proh-SHEN",
+    "english": "Next week.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 86,
+    "french": "Le mois dernier.",
+    "pronunciation": "luh MWAH dehr-NYAY",
+    "english": "Last month.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 87,
+    "french": "Cette annee.",
+    "pronunciation": "set ah-NAY",
+    "english": "This year.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 88,
+    "french": "Il est tot.",
+    "pronunciation": "eel ay TOH",
+    "english": "It is early.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 89,
+    "french": "Il est tard.",
+    "pronunciation": "eel ay TAR",
+    "english": "It is late.",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 90,
+    "french": "A quelle heure ?",
+    "pronunciation": "ah kel UHR",
+    "english": "At what time?",
+    "category": "Numbers, Days & Time"
+  },
+  {
+    "id": 91,
+    "french": "Je voudrais une table pour deux.",
+    "pronunciation": "zhuh voo-DRAY oon TAHBL poor DUH",
+    "english": "I would like a table for two.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 92,
+    "french": "La carte, s'il vous plait.",
+    "pronunciation": "lah KART, seel voo PLAY",
+    "english": "The menu, please.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 93,
+    "french": "Qu'est-ce que vous recommandez ?",
+    "pronunciation": "kes kuh voo ruh-koh-mahn-DAY",
+    "english": "What do you recommend?",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 94,
+    "french": "Je voudrais commander.",
+    "pronunciation": "zhuh voo-DRAY koh-mahn-DAY",
+    "english": "I would like to order.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 95,
+    "french": "Je prends le plat du jour.",
+    "pronunciation": "zhuh PRAHN luh plah doo ZHOOR",
+    "english": "I'll have the dish of the day.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 96,
+    "french": "Un cafe, s'il vous plait.",
+    "pronunciation": "uhn kah-FAY seel voo PLAY",
+    "english": "A coffee, please.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 97,
+    "french": "Un the au lait.",
+    "pronunciation": "uhn TAY oh LAY",
+    "english": "A tea with milk.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 98,
+    "french": "Un verre d'eau.",
+    "pronunciation": "uhn VEHR doh",
+    "english": "A glass of water.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 99,
+    "french": "Une biere, s'il vous plait.",
+    "pronunciation": "oon BYEHR seel voo PLAY",
+    "english": "A beer, please.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 100,
+    "french": "Un jus d'orange.",
+    "pronunciation": "uhn ZHOO doh-RAHNZH",
+    "english": "An orange juice.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 101,
+    "french": "L'addition, s'il vous plait.",
+    "pronunciation": "lah-dee-SYOHN seel voo PLAY",
+    "english": "The check, please.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 102,
+    "french": "C'est delicieux !",
+    "pronunciation": "say day-lee-SYUH",
+    "english": "It's delicious!",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 103,
+    "french": "C'est trop sale.",
+    "pronunciation": "say troh sah-LAY",
+    "english": "It's too salty.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 104,
+    "french": "C'est trop sucre.",
+    "pronunciation": "say troh soo-KRAY",
+    "english": "It's too sweet.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 105,
+    "french": "Je suis vegetarien(ne).",
+    "pronunciation": "zhuh swee vay-zhay-tah-RYEHN",
+    "english": "I am vegetarian.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 106,
+    "french": "Je suis allergique aux noix.",
+    "pronunciation": "zhuh swee ah-lehr-ZHEEK oh NWAH",
+    "english": "I am allergic to nuts.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 107,
+    "french": "Sans gluten, s'il vous plait.",
+    "pronunciation": "sahn gloo-TEN seel voo PLAY",
+    "english": "Gluten-free, please.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 108,
+    "french": "Encore un peu de pain.",
+    "pronunciation": "ahn-KOR uhn PUH duh PEHN",
+    "english": "A little more bread.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 109,
+    "french": "Pouvez-vous repeter ?",
+    "pronunciation": "poo-vay VOO ray-pay-TAY",
+    "english": "Can you repeat?",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 110,
+    "french": "Ou sont les toilettes ?",
+    "pronunciation": "oo sohn lay twah-LET",
+    "english": "Where are the restrooms?",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 111,
+    "french": "Est-ce que le service est compris ?",
+    "pronunciation": "es kuh luh sehr-VEES ay kohn-PREE",
+    "english": "Is the service included?",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 112,
+    "french": "Je voudrais payer par carte.",
+    "pronunciation": "zhuh voo-DRAY pay-YAY par KART",
+    "english": "I would like to pay by card.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 113,
+    "french": "Je voudrais payer en especes.",
+    "pronunciation": "zhuh voo-DRAY pay-YAY ahn es-PES",
+    "english": "I would like to pay in cash.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 114,
+    "french": "Un dessert, s'il vous plait.",
+    "pronunciation": "uhn day-SEHR seel voo PLAY",
+    "english": "A dessert, please.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 115,
+    "french": "C'est pour emporter.",
+    "pronunciation": "say poor ahm-por-TAY",
+    "english": "It's for takeaway.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 116,
+    "french": "Une salade, s'il vous plait.",
+    "pronunciation": "oon sah-LAD seel voo PLAY",
+    "english": "A salad, please.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 117,
+    "french": "Un croissant et un cafe.",
+    "pronunciation": "uhn kwah-SAHN ay uhn kah-FAY",
+    "english": "A croissant and a coffee.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 118,
+    "french": "Je voudrais une omelette.",
+    "pronunciation": "zhuh voo-DRAY oon om-LET",
+    "english": "I would like an omelette.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 119,
+    "french": "Du fromage, s'il vous plait.",
+    "pronunciation": "doo froh-MAZH seel voo PLAY",
+    "english": "Some cheese, please.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 120,
+    "french": "C'etait tres bon.",
+    "pronunciation": "say-tay tray BOHN",
+    "english": "It was very good.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 121,
+    "french": "Avez-vous un menu enfant ?",
+    "pronunciation": "ah-vay VOO uhn muh-NOO ahn-FAHN",
+    "english": "Do you have a children's menu?",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 122,
+    "french": "Je ne mange pas de viande.",
+    "pronunciation": "zhuh nuh MAHNZH pah duh VYAHND",
+    "english": "I don't eat meat.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 123,
+    "french": "Une bouteille de vin rouge.",
+    "pronunciation": "oon boo-TAY duh vehn ROOZH",
+    "english": "A bottle of red wine.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 124,
+    "french": "Je voudrais reserver une table.",
+    "pronunciation": "zhuh voo-DRAY ray-zehr-VAY oon TAHBL",
+    "english": "I would like to reserve a table.",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 125,
+    "french": "Pour quelle heure ?",
+    "pronunciation": "poor kel UHR",
+    "english": "For what time?",
+    "category": "At the Restaurant"
+  },
+  {
+    "id": 126,
+    "french": "Combien ca coute ?",
+    "pronunciation": "kohm-BYEHN sah KOOT",
+    "english": "How much does it cost?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 127,
+    "french": "C'est trop cher.",
+    "pronunciation": "say troh SHEHR",
+    "english": "It's too expensive.",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 128,
+    "french": "Avez-vous quelque chose de moins cher ?",
+    "pronunciation": "ah-vay VOO kel-kuh SHOHZ duh mwehn SHEHR",
+    "english": "Do you have something cheaper?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 129,
+    "french": "Je cherche...",
+    "pronunciation": "zhuh SHEHRSH",
+    "english": "I am looking for...",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 130,
+    "french": "Est-ce que je peux essayer ?",
+    "pronunciation": "es kuh zhuh PUH eh-say-YAY",
+    "english": "Can I try it on?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 131,
+    "french": "Quelle taille ?",
+    "pronunciation": "kel TAHY",
+    "english": "What size?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 132,
+    "french": "C'est trop grand.",
+    "pronunciation": "say troh GRAHN",
+    "english": "It's too big.",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 133,
+    "french": "C'est trop petit.",
+    "pronunciation": "say troh puh-TEE",
+    "english": "It's too small.",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 134,
+    "french": "Je prends celui-ci.",
+    "pronunciation": "zhuh PRAHN suh-lwee SEE",
+    "english": "I'll take this one.",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 135,
+    "french": "Vous acceptez la carte ?",
+    "pronunciation": "voo zahk-sep-TAY lah KART",
+    "english": "Do you accept cards?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 136,
+    "french": "Ou est la caisse ?",
+    "pronunciation": "oo ay lah KESS",
+    "english": "Where is the cash register?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 137,
+    "french": "Un sac, s'il vous plait.",
+    "pronunciation": "uhn SAK seel voo PLAY",
+    "english": "A bag, please.",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 138,
+    "french": "Je voudrais un kilo de pommes.",
+    "pronunciation": "zhuh voo-DRAY uhn KEE-loh duh PUM",
+    "english": "I would like a kilo of apples.",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 139,
+    "french": "Avez-vous du lait ?",
+    "pronunciation": "ah-vay VOO doo LAY",
+    "english": "Do you have milk?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 140,
+    "french": "Je voudrais du pain.",
+    "pronunciation": "zhuh voo-DRAY doo PEHN",
+    "english": "I would like some bread.",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 141,
+    "french": "C'est en solde ?",
+    "pronunciation": "say tahn SOLD",
+    "english": "Is it on sale?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 142,
+    "french": "Je regarde seulement.",
+    "pronunciation": "zhuh ruh-GARD suhl-MAHN",
+    "english": "I'm just looking.",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 143,
+    "french": "Est-ce que vous avez ca en bleu ?",
+    "pronunciation": "es kuh voo zah-VAY sah ahn BLUH",
+    "english": "Do you have this in blue?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 144,
+    "french": "Ou est le rayon fruits ?",
+    "pronunciation": "oo ay luh ray-YOHN FRWEE",
+    "english": "Where is the fruit section?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 145,
+    "french": "Je voudrais une baguette.",
+    "pronunciation": "zhuh voo-DRAY oon bah-GET",
+    "english": "I would like a baguette.",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 146,
+    "french": "Deux croissants, s'il vous plait.",
+    "pronunciation": "duh kwah-SAHN seel voo PLAY",
+    "english": "Two croissants, please.",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 147,
+    "french": "Est-ce que c'est frais ?",
+    "pronunciation": "es kuh say FRAY",
+    "english": "Is it fresh?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 148,
+    "french": "Je voudrais des legumes.",
+    "pronunciation": "zhuh voo-DRAY day lay-GOOM",
+    "english": "I would like some vegetables.",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 149,
+    "french": "A quelle heure fermez-vous ?",
+    "pronunciation": "ah kel UHR fehr-may VOO",
+    "english": "At what time do you close?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 150,
+    "french": "Est-ce que vous avez un recu ?",
+    "pronunciation": "es kuh voo zah-VAY uhn ruh-SOO",
+    "english": "Do you have a receipt?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 151,
+    "french": "Un bouquet de fleurs.",
+    "pronunciation": "uhn boo-KAY duh FLUHR",
+    "english": "A bouquet of flowers.",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 152,
+    "french": "Je voudrais echanger ca.",
+    "pronunciation": "zhuh voo-DRAY ay-shahn-ZHAY sah",
+    "english": "I would like to exchange this.",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 153,
+    "french": "Ca fait combien en tout ?",
+    "pronunciation": "sah FAY kohm-BYEHN ahn TOO",
+    "english": "How much is it in total?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 154,
+    "french": "Gardez la monnaie.",
+    "pronunciation": "gar-DAY lah moh-NAY",
+    "english": "Keep the change.",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 155,
+    "french": "Ou est le supermarche ?",
+    "pronunciation": "oo ay luh soo-pair-mar-SHAY",
+    "english": "Where is the supermarket?",
+    "category": "Shopping & Market"
+  },
+  {
+    "id": 156,
+    "french": "Ou est la gare ?",
+    "pronunciation": "oo ay lah GAR",
+    "english": "Where is the train station?",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 157,
+    "french": "Ou est l'arret de bus ?",
+    "pronunciation": "oo ay lah-RAY duh BOOS",
+    "english": "Where is the bus stop?",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 158,
+    "french": "Comment aller a... ?",
+    "pronunciation": "koh-MAHN ah-LAY ah",
+    "english": "How to get to...?",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 159,
+    "french": "Tournez a droite.",
+    "pronunciation": "toor-NAY ah DRWAHT",
+    "english": "Turn right.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 160,
+    "french": "Tournez a gauche.",
+    "pronunciation": "toor-NAY ah GOHSH",
+    "english": "Turn left.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 161,
+    "french": "Allez tout droit.",
+    "pronunciation": "ah-LAY too DRWAH",
+    "english": "Go straight ahead.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 162,
+    "french": "C'est loin ?",
+    "pronunciation": "say LWEHN",
+    "english": "Is it far?",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 163,
+    "french": "C'est pres d'ici.",
+    "pronunciation": "say PRAY dee-SEE",
+    "english": "It's close to here.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 164,
+    "french": "C'est a cinq minutes a pied.",
+    "pronunciation": "say tah sehnk mee-NOOT ah PYAY",
+    "english": "It's five minutes on foot.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 165,
+    "french": "Je suis perdu(e).",
+    "pronunciation": "zhuh swee pehr-DOO",
+    "english": "I am lost.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 166,
+    "french": "Pouvez-vous m'aider ?",
+    "pronunciation": "poo-vay VOO may-DAY",
+    "english": "Can you help me?",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 167,
+    "french": "Un billet aller simple.",
+    "pronunciation": "uhn bee-YAY ah-LAY SEHMPL",
+    "english": "A one-way ticket.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 168,
+    "french": "Un billet aller-retour.",
+    "pronunciation": "uhn bee-YAY ah-LAY ruh-TOOR",
+    "english": "A round-trip ticket.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 169,
+    "french": "Le prochain train part a quelle heure ?",
+    "pronunciation": "luh proh-SHEHN trehn PAR ah kel UHR",
+    "english": "What time does the next train leave?",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 170,
+    "french": "Ou est le metro ?",
+    "pronunciation": "oo ay luh may-TROH",
+    "english": "Where is the metro?",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 171,
+    "french": "Quelle ligne ?",
+    "pronunciation": "kel LEEN-yuh",
+    "english": "Which line?",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 172,
+    "french": "Je voudrais un taxi.",
+    "pronunciation": "zhuh voo-DRAY uhn tak-SEE",
+    "english": "I would like a taxi.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 173,
+    "french": "Arretez-vous ici, s'il vous plait.",
+    "pronunciation": "ah-reh-tay VOO ee-SEE seel voo PLAY",
+    "english": "Stop here, please.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 174,
+    "french": "C'est a gauche apres le feu.",
+    "pronunciation": "say tah GOHSH ah-PRAY luh FUH",
+    "english": "It's on the left after the traffic light.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 175,
+    "french": "En face de la pharmacie.",
+    "pronunciation": "ahn FAHS duh lah far-mah-SEE",
+    "english": "Opposite the pharmacy.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 176,
+    "french": "A cote de la banque.",
+    "pronunciation": "ah koh-TAY duh lah BAHNK",
+    "english": "Next to the bank.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 177,
+    "french": "Entre le parc et l'eglise.",
+    "pronunciation": "AHN-truh luh PARK ay lay-GLEEZ",
+    "english": "Between the park and the church.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 178,
+    "french": "Le train est en retard.",
+    "pronunciation": "luh TREHN ay tahn ruh-TAR",
+    "english": "The train is late.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 179,
+    "french": "Le bus arrive dans dix minutes.",
+    "pronunciation": "luh BOOS ah-REEV dahn dee mee-NOOT",
+    "english": "The bus arrives in ten minutes.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 180,
+    "french": "Ou est l'aeroport ?",
+    "pronunciation": "oo ay lah-ay-roh-POR",
+    "english": "Where is the airport?",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 181,
+    "french": "Je voudrais louer une voiture.",
+    "pronunciation": "zhuh voo-DRAY loo-AY oon vwah-TOOR",
+    "english": "I would like to rent a car.",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 182,
+    "french": "Ou puis-je garer la voiture ?",
+    "pronunciation": "oo PWEE-zhuh gah-RAY lah vwah-TOOR",
+    "english": "Where can I park the car?",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 183,
+    "french": "Y a-t-il un parking ?",
+    "pronunciation": "ee ah TEEL uhn par-KEENG",
+    "english": "Is there a parking lot?",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 184,
+    "french": "Le tramway passe par ici ?",
+    "pronunciation": "luh tram-WAY pahs par ee-SEE",
+    "english": "Does the tram pass through here?",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 185,
+    "french": "Combien de temps pour y aller ?",
+    "pronunciation": "kohm-BYEHN duh TAHN poor ee ah-LAY",
+    "english": "How long to get there?",
+    "category": "Directions & Transport"
+  },
+  {
+    "id": 186,
+    "french": "Je suis en classe de francais.",
+    "pronunciation": "zhuh swee ahn KLAHS duh frahn-SAY",
+    "english": "I am in French class.",
+    "category": "At School"
+  },
+  {
+    "id": 187,
+    "french": "Pouvez-vous repeter, s'il vous plait ?",
+    "pronunciation": "poo-vay VOO ray-pay-TAY seel voo PLAY",
+    "english": "Can you repeat, please?",
+    "category": "At School"
+  },
+  {
+    "id": 188,
+    "french": "Je ne comprends pas.",
+    "pronunciation": "zhuh nuh kohm-PRAHN pah",
+    "english": "I don't understand.",
+    "category": "At School"
+  },
+  {
+    "id": 189,
+    "french": "Comment dit-on... en francais ?",
+    "pronunciation": "koh-MAHN dee TOHN... ahn frahn-SAY",
+    "english": "How do you say... in French?",
+    "category": "At School"
+  },
+  {
+    "id": 190,
+    "french": "Pouvez-vous parler plus lentement ?",
+    "pronunciation": "poo-vay VOO par-LAY ploo lahnt-MAHN",
+    "english": "Can you speak more slowly?",
+    "category": "At School"
+  },
+  {
+    "id": 191,
+    "french": "Pouvez-vous ecrire ca ?",
+    "pronunciation": "poo-vay VOO ay-KREER sah",
+    "english": "Can you write that down?",
+    "category": "At School"
+  },
+  {
+    "id": 192,
+    "french": "J'ai une question.",
+    "pronunciation": "zhay oon kes-TYOHN",
+    "english": "I have a question.",
+    "category": "At School"
+  },
+  {
+    "id": 193,
+    "french": "Ouvrez vos livres a la page dix.",
+    "pronunciation": "oo-VRAY voh LEEV-ruh ah lah PAHZH dees",
+    "english": "Open your books to page ten.",
+    "category": "At School"
+  },
+  {
+    "id": 194,
+    "french": "Fermez vos cahiers.",
+    "pronunciation": "fehr-MAY voh kah-YAY",
+    "english": "Close your notebooks.",
+    "category": "At School"
+  },
+  {
+    "id": 195,
+    "french": "Ecoutez bien.",
+    "pronunciation": "ay-koo-TAY BYEHN",
+    "english": "Listen carefully.",
+    "category": "At School"
+  },
+  {
+    "id": 196,
+    "french": "Lisez le texte.",
+    "pronunciation": "lee-ZAY luh TEKST",
+    "english": "Read the text.",
+    "category": "At School"
+  },
+  {
+    "id": 197,
+    "french": "Ecrivez la reponse.",
+    "pronunciation": "ay-kree-VAY lah ray-POHNSS",
+    "english": "Write the answer.",
+    "category": "At School"
+  },
+  {
+    "id": 198,
+    "french": "Travaillez en groupes.",
+    "pronunciation": "trah-vahy-YAY ahn GROOP",
+    "english": "Work in groups.",
+    "category": "At School"
+  },
+  {
+    "id": 199,
+    "french": "Les devoirs sont pour demain.",
+    "pronunciation": "lay duh-VWAHR sohn poor duh-MEHN",
+    "english": "The homework is for tomorrow.",
+    "category": "At School"
+  },
+  {
+    "id": 200,
+    "french": "J'ai oublie mon cahier.",
+    "pronunciation": "zhay oo-blee-AY mohn kah-YAY",
+    "english": "I forgot my notebook.",
+    "category": "At School"
+  },
+  {
+    "id": 201,
+    "french": "Est-ce que je peux aller aux toilettes ?",
+    "pronunciation": "es kuh zhuh PUH ah-LAY oh twah-LET",
+    "english": "Can I go to the restroom?",
+    "category": "At School"
+  },
+  {
+    "id": 202,
+    "french": "La lecon est interessante.",
+    "pronunciation": "lah luh-SOHN ay tehn-tay-reh-SAHNT",
+    "english": "The lesson is interesting.",
+    "category": "At School"
+  },
+  {
+    "id": 203,
+    "french": "L'examen est lundi.",
+    "pronunciation": "leg-zah-MEHN ay luhn-DEE",
+    "english": "The exam is on Monday.",
+    "category": "At School"
+  },
+  {
+    "id": 204,
+    "french": "Je dois etudier ce soir.",
+    "pronunciation": "zhuh DWAH ay-too-DYAY suh SWAHR",
+    "english": "I have to study tonight.",
+    "category": "At School"
+  },
+  {
+    "id": 205,
+    "french": "Mon professeur est sympa.",
+    "pronunciation": "mohn proh-feh-SUHR ay sehm-PAH",
+    "english": "My teacher is nice.",
+    "category": "At School"
+  },
+  {
+    "id": 206,
+    "french": "Quel est le sujet ?",
+    "pronunciation": "kel ay luh soo-ZHAY",
+    "english": "What is the topic?",
+    "category": "At School"
+  },
+  {
+    "id": 207,
+    "french": "Comment ca s'ecrit ?",
+    "pronunciation": "koh-MAHN sah say-KREE",
+    "english": "How is that spelled?",
+    "category": "At School"
+  },
+  {
+    "id": 208,
+    "french": "J'ai besoin d'un stylo.",
+    "pronunciation": "zhay buh-ZWEHN duhn stee-LOH",
+    "english": "I need a pen.",
+    "category": "At School"
+  },
+  {
+    "id": 209,
+    "french": "Ou est la bibliotheque ?",
+    "pronunciation": "oo ay lah bee-blee-oh-TEK",
+    "english": "Where is the library?",
+    "category": "At School"
+  },
+  {
+    "id": 210,
+    "french": "Je suis en retard.",
+    "pronunciation": "zhuh swee ahn ruh-TAR",
+    "english": "I am late.",
+    "category": "At School"
+  },
+  {
+    "id": 211,
+    "french": "La classe commence a neuf heures.",
+    "pronunciation": "lah KLAHS koh-MAHNS ah nuhf UHR",
+    "english": "The class starts at nine.",
+    "category": "At School"
+  },
+  {
+    "id": 212,
+    "french": "Les vacances commencent vendredi.",
+    "pronunciation": "lay vah-KAHNS koh-MAHNS vahn-druh-DEE",
+    "english": "The holidays start on Friday.",
+    "category": "At School"
+  },
+  {
+    "id": 213,
+    "french": "J'apprends le francais depuis trois mois.",
+    "pronunciation": "zhah-PRAHN luh frahn-SAY duh-PWEE trwah MWAH",
+    "english": "I have been learning French for three months.",
+    "category": "At School"
+  },
+  {
+    "id": 214,
+    "french": "C'est facile.",
+    "pronunciation": "say fah-SEEL",
+    "english": "It's easy.",
+    "category": "At School"
+  },
+  {
+    "id": 215,
+    "french": "C'est difficile.",
+    "pronunciation": "say dee-fee-SEEL",
+    "english": "It's difficult.",
+    "category": "At School"
+  },
+  {
+    "id": 216,
+    "french": "Je me reveille a sept heures.",
+    "pronunciation": "zhuh muh ray-VAY ah set UHR",
+    "english": "I wake up at seven.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 217,
+    "french": "Je me leve.",
+    "pronunciation": "zhuh muh LEV",
+    "english": "I get up.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 218,
+    "french": "Je me douche.",
+    "pronunciation": "zhuh muh DOOSH",
+    "english": "I take a shower.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 219,
+    "french": "Je me brosse les dents.",
+    "pronunciation": "zhuh muh BROSS lay DAHN",
+    "english": "I brush my teeth.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 220,
+    "french": "Je m'habille.",
+    "pronunciation": "zhuh mah-BEE-yuh",
+    "english": "I get dressed.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 221,
+    "french": "Je prends le petit dejeuner.",
+    "pronunciation": "zhuh PRAHN luh puh-TEE day-zhuh-NAY",
+    "english": "I have breakfast.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 222,
+    "french": "Je quitte la maison a huit heures.",
+    "pronunciation": "zhuh KEET lah may-ZOHN ah weet UHR",
+    "english": "I leave home at eight.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 223,
+    "french": "Je rentre a la maison a six heures.",
+    "pronunciation": "zhuh RAHN-truh ah lah may-ZOHN ah sees UHR",
+    "english": "I come home at six.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 224,
+    "french": "Je prepare le diner.",
+    "pronunciation": "zhuh pray-PAR luh dee-NAY",
+    "english": "I prepare dinner.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 225,
+    "french": "Je fais le menage.",
+    "pronunciation": "zhuh FAY luh may-NAZH",
+    "english": "I do the housework.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 226,
+    "french": "Je fais la vaisselle.",
+    "pronunciation": "zhuh FAY lah vay-SEL",
+    "english": "I do the dishes.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 227,
+    "french": "Je fais la lessive.",
+    "pronunciation": "zhuh FAY lah leh-SEEV",
+    "english": "I do the laundry.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 228,
+    "french": "Je regarde la television.",
+    "pronunciation": "zhuh ruh-GARD lah tay-lay-vee-ZYOHN",
+    "english": "I watch television.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 229,
+    "french": "Je lis un livre.",
+    "pronunciation": "zhuh LEE uhn LEEV-ruh",
+    "english": "I read a book.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 230,
+    "french": "Je me couche a dix heures.",
+    "pronunciation": "zhuh muh KOOSH ah dees UHR",
+    "english": "I go to bed at ten.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 231,
+    "french": "La chambre est au premier etage.",
+    "pronunciation": "lah SHAHM-bruh ay toh pruh-MYAY ay-TAZH",
+    "english": "The bedroom is on the first floor.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 232,
+    "french": "La cuisine est grande.",
+    "pronunciation": "lah kwee-ZEEN ay GRAHND",
+    "english": "The kitchen is big.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 233,
+    "french": "Le salon est confortable.",
+    "pronunciation": "luh sah-LOHN ay kohn-for-TAHBL",
+    "english": "The living room is comfortable.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 234,
+    "french": "La salle de bain est petite.",
+    "pronunciation": "lah SAL duh BEHN ay puh-TEET",
+    "english": "The bathroom is small.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 235,
+    "french": "J'ai un jardin.",
+    "pronunciation": "zhay uhn zhar-DEHN",
+    "english": "I have a garden.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 236,
+    "french": "J'habite dans un appartement.",
+    "pronunciation": "zhah-BEET dahn zuhn nah-par-tuh-MAHN",
+    "english": "I live in an apartment.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 237,
+    "french": "Je fais les courses le samedi.",
+    "pronunciation": "zhuh FAY lay KOORS luh sam-DEE",
+    "english": "I do the shopping on Saturday.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 238,
+    "french": "Je cuisine le soir.",
+    "pronunciation": "zhuh kwee-ZEEN luh SWAHR",
+    "english": "I cook in the evening.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 239,
+    "french": "Il fait froid dans la maison.",
+    "pronunciation": "eel FAY FRWAH dahn lah may-ZOHN",
+    "english": "It's cold in the house.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 240,
+    "french": "Je range ma chambre.",
+    "pronunciation": "zhuh RAHNZH mah SHAHM-bruh",
+    "english": "I tidy my room.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 241,
+    "french": "Ou sont mes cles ?",
+    "pronunciation": "oo sohn may KLAY",
+    "english": "Where are my keys?",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 242,
+    "french": "La porte est fermee.",
+    "pronunciation": "lah PORT ay fehr-MAY",
+    "english": "The door is closed.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 243,
+    "french": "La fenetre est ouverte.",
+    "pronunciation": "lah fuh-NEHT-ruh ay oo-VEHRT",
+    "english": "The window is open.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 244,
+    "french": "Allume la lumiere.",
+    "pronunciation": "ah-LOOM lah loo-MYEHR",
+    "english": "Turn on the light.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 245,
+    "french": "Eteins la lumiere.",
+    "pronunciation": "ay-TEHN lah loo-MYEHR",
+    "english": "Turn off the light.",
+    "category": "At Home & Daily Routine"
+  },
+  {
+    "id": 246,
+    "french": "Quel temps fait-il ?",
+    "pronunciation": "kel TAHN fay TEEL",
+    "english": "What's the weather like?",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 247,
+    "french": "Il fait beau.",
+    "pronunciation": "eel FAY BOH",
+    "english": "The weather is nice.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 248,
+    "french": "Il fait mauvais.",
+    "pronunciation": "eel FAY moh-VAY",
+    "english": "The weather is bad.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 249,
+    "french": "Il fait chaud.",
+    "pronunciation": "eel FAY SHOH",
+    "english": "It's hot.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 250,
+    "french": "Il fait froid.",
+    "pronunciation": "eel FAY FRWAH",
+    "english": "It's cold.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 251,
+    "french": "Il pleut.",
+    "pronunciation": "eel PLUH",
+    "english": "It's raining.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 252,
+    "french": "Il neige.",
+    "pronunciation": "eel NEZH",
+    "english": "It's snowing.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 253,
+    "french": "Il y a du vent.",
+    "pronunciation": "eel ee ah doo VAHN",
+    "english": "It's windy.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 254,
+    "french": "Il y a du soleil.",
+    "pronunciation": "eel ee ah doo soh-LAY",
+    "english": "It's sunny.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 255,
+    "french": "Il y a des nuages.",
+    "pronunciation": "eel ee ah day noo-AHZH",
+    "english": "It's cloudy.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 256,
+    "french": "Il y a du brouillard.",
+    "pronunciation": "eel ee ah doo broo-YAR",
+    "english": "It's foggy.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 257,
+    "french": "Il fait doux.",
+    "pronunciation": "eel FAY DOO",
+    "english": "It's mild.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 258,
+    "french": "C'est l'ete.",
+    "pronunciation": "say lay-TAY",
+    "english": "It's summer.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 259,
+    "french": "C'est l'hiver.",
+    "pronunciation": "say lee-VEHR",
+    "english": "It's winter.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 260,
+    "french": "C'est le printemps.",
+    "pronunciation": "say luh prehn-TAHN",
+    "english": "It's spring.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 261,
+    "french": "C'est l'automne.",
+    "pronunciation": "say loh-TUN",
+    "english": "It's autumn.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 262,
+    "french": "J'ai besoin d'un parapluie.",
+    "pronunciation": "zhay buh-ZWEHN duhn pah-rah-PLWEE",
+    "english": "I need an umbrella.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 263,
+    "french": "Il fait moins cinq degres.",
+    "pronunciation": "eel FAY mwehn sehnk duh-GRAY",
+    "english": "It's minus five degrees.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 264,
+    "french": "Il fait vingt-cinq degres.",
+    "pronunciation": "eel FAY vehn-sehnk duh-GRAY",
+    "english": "It's twenty-five degrees.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 265,
+    "french": "La meteo dit qu'il va pleuvoir.",
+    "pronunciation": "lah may-tay-OH dee keel vah pluh-VWAHR",
+    "english": "The forecast says it will rain.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 266,
+    "french": "Prends ta veste, il fait frais.",
+    "pronunciation": "PRAHN tah VEST, eel FAY FRAY",
+    "english": "Take your jacket, it's chilly.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 267,
+    "french": "Le ciel est bleu.",
+    "pronunciation": "luh SYEL ay BLUH",
+    "english": "The sky is blue.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 268,
+    "french": "Il y a un orage.",
+    "pronunciation": "eel ee ah uhn oh-RAZH",
+    "english": "There is a storm.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 269,
+    "french": "La temperature baisse.",
+    "pronunciation": "lah tahm-pay-rah-TOOR BESS",
+    "english": "The temperature is dropping.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 270,
+    "french": "Il gele ce matin.",
+    "pronunciation": "eel ZHEL suh mah-TEHN",
+    "english": "It's freezing this morning.",
+    "category": "Weather & Seasons"
+  },
+  {
+    "id": 271,
+    "french": "J'ai mal a la tete.",
+    "pronunciation": "zhay MAL ah lah TET",
+    "english": "I have a headache.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 272,
+    "french": "J'ai mal au ventre.",
+    "pronunciation": "zhay MAL oh VAHN-truh",
+    "english": "I have a stomachache.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 273,
+    "french": "J'ai mal a la gorge.",
+    "pronunciation": "zhay MAL ah lah GORZH",
+    "english": "I have a sore throat.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 274,
+    "french": "J'ai de la fievre.",
+    "pronunciation": "zhay duh lah FYEV-ruh",
+    "english": "I have a fever.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 275,
+    "french": "Je tousse.",
+    "pronunciation": "zhuh TOOSS",
+    "english": "I'm coughing.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 276,
+    "french": "Je suis fatigue(e).",
+    "pronunciation": "zhuh swee fah-tee-GAY",
+    "english": "I am tired.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 277,
+    "french": "Je suis malade.",
+    "pronunciation": "zhuh swee mah-LAD",
+    "english": "I am sick.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 278,
+    "french": "Je voudrais voir un medecin.",
+    "pronunciation": "zhuh voo-DRAY VWAHR uhn mayd-SEHN",
+    "english": "I would like to see a doctor.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 279,
+    "french": "Ou est la pharmacie ?",
+    "pronunciation": "oo ay lah far-mah-SEE",
+    "english": "Where is the pharmacy?",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 280,
+    "french": "Ou est l'hopital ?",
+    "pronunciation": "oo ay loh-pee-TAL",
+    "english": "Where is the hospital?",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 281,
+    "french": "J'ai besoin de medicaments.",
+    "pronunciation": "zhay buh-ZWEHN duh may-dee-kah-MAHN",
+    "english": "I need medicine.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 282,
+    "french": "Avez-vous de l'aspirine ?",
+    "pronunciation": "ah-vay VOO duh lahs-pee-REEN",
+    "english": "Do you have aspirin?",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 283,
+    "french": "Je suis allergique a...",
+    "pronunciation": "zhuh swee ah-lehr-ZHEEK ah",
+    "english": "I am allergic to...",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 284,
+    "french": "J'ai mal au dos.",
+    "pronunciation": "zhay MAL oh DOH",
+    "english": "I have a backache.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 285,
+    "french": "J'ai mal aux dents.",
+    "pronunciation": "zhay MAL oh DAHN",
+    "english": "I have a toothache.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 286,
+    "french": "Je me suis blesse(e).",
+    "pronunciation": "zhuh muh swee bleh-SAY",
+    "english": "I hurt myself.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 287,
+    "french": "Appelez une ambulance !",
+    "pronunciation": "ah-play OON ahm-boo-LAHNSS",
+    "english": "Call an ambulance!",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 288,
+    "french": "Au secours !",
+    "pronunciation": "oh suh-KOOR",
+    "english": "Help!",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 289,
+    "french": "C'est urgent.",
+    "pronunciation": "say toor-ZHAHN",
+    "english": "It's urgent.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 290,
+    "french": "Je prends des medicaments.",
+    "pronunciation": "zhuh PRAHN day may-dee-kah-MAHN",
+    "english": "I take medication.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 291,
+    "french": "Je me sens bien maintenant.",
+    "pronunciation": "zhuh muh SAHN byehn mehn-tuh-NAHN",
+    "english": "I feel fine now.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 292,
+    "french": "J'ai le nez bouche.",
+    "pronunciation": "zhay luh NAY boo-SHAY",
+    "english": "My nose is blocked.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 293,
+    "french": "J'ai des courbatures.",
+    "pronunciation": "zhay day koor-bah-TOOR",
+    "english": "I have body aches.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 294,
+    "french": "Je dois me reposer.",
+    "pronunciation": "zhuh DWAH muh ruh-poh-ZAY",
+    "english": "I need to rest.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 295,
+    "french": "Prenez ce medicament trois fois par jour.",
+    "pronunciation": "pruh-NAY suh may-dee-kah-MAHN trwah FWAH par ZHOOR",
+    "english": "Take this medicine three times a day.",
+    "category": "Health & Doctor"
+  },
+  {
+    "id": 296,
+    "french": "Je suis content(e).",
+    "pronunciation": "zhuh swee kohn-TAHN(t)",
+    "english": "I am happy.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 297,
+    "french": "Je suis triste.",
+    "pronunciation": "zhuh swee TREEST",
+    "english": "I am sad.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 298,
+    "french": "Je suis en colere.",
+    "pronunciation": "zhuh swee ahn koh-LEHR",
+    "english": "I am angry.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 299,
+    "french": "J'ai peur.",
+    "pronunciation": "zhay PUHR",
+    "english": "I am afraid.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 300,
+    "french": "Je suis surpris(e).",
+    "pronunciation": "zhuh swee soor-PREE(z)",
+    "english": "I am surprised.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 301,
+    "french": "Je suis stresse(e).",
+    "pronunciation": "zhuh swee stray-SAY",
+    "english": "I am stressed.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 302,
+    "french": "Je suis inquiet/inquiete.",
+    "pronunciation": "zhuh swee ehn-KYAY/ehn-KYET",
+    "english": "I am worried.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 303,
+    "french": "Je m'ennuie.",
+    "pronunciation": "zhuh mahn-NWEE",
+    "english": "I am bored.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 304,
+    "french": "Je suis excite(e).",
+    "pronunciation": "zhuh swee ek-see-TAY",
+    "english": "I am excited.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 305,
+    "french": "J'ai faim.",
+    "pronunciation": "zhay FEHN",
+    "english": "I am hungry.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 306,
+    "french": "J'ai soif.",
+    "pronunciation": "zhay SWAF",
+    "english": "I am thirsty.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 307,
+    "french": "J'ai sommeil.",
+    "pronunciation": "zhay soh-MAY",
+    "english": "I am sleepy.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 308,
+    "french": "J'ai honte.",
+    "pronunciation": "zhay OHNT",
+    "english": "I am ashamed.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 309,
+    "french": "J'ai froid.",
+    "pronunciation": "zhay FRWAH",
+    "english": "I am cold.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 310,
+    "french": "J'ai chaud.",
+    "pronunciation": "zhay SHOH",
+    "english": "I am hot.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 311,
+    "french": "Je suis nerveux/nerveuse.",
+    "pronunciation": "zhuh swee nehr-VUH/nehr-VUHZ",
+    "english": "I am nervous.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 312,
+    "french": "Je suis fier/fiere.",
+    "pronunciation": "zhuh swee FYEHR/FYEHR",
+    "english": "I am proud.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 313,
+    "french": "Je suis decu(e).",
+    "pronunciation": "zhuh swee day-SOO",
+    "english": "I am disappointed.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 314,
+    "french": "Ca me fait plaisir.",
+    "pronunciation": "sah muh FAY play-ZEER",
+    "english": "That makes me happy.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 315,
+    "french": "Ca m'enerve.",
+    "pronunciation": "sah may-NEHRV",
+    "english": "That annoys me.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 316,
+    "french": "Je suis amoureux/amoureuse.",
+    "pronunciation": "zhuh swee ah-moo-RUH/ah-moo-RUHZ",
+    "english": "I am in love.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 317,
+    "french": "Ca m'est egal.",
+    "pronunciation": "sah may tay-GAL",
+    "english": "I don't mind.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 318,
+    "french": "Je m'en fiche.",
+    "pronunciation": "zhuh mahn FEESH",
+    "english": "I don't care. (informal)",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 319,
+    "french": "J'ai de la chance.",
+    "pronunciation": "zhay duh lah SHAHNSS",
+    "english": "I am lucky.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 320,
+    "french": "Je me sens seul(e).",
+    "pronunciation": "zhuh muh SAHN SUHL",
+    "english": "I feel lonely.",
+    "category": "Feelings & Emotions"
+  },
+  {
+    "id": 321,
+    "french": "Je travaille dans un bureau.",
+    "pronunciation": "zhuh trah-VAHY dahn zuhn boo-ROH",
+    "english": "I work in an office.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 322,
+    "french": "Je suis en reunion.",
+    "pronunciation": "zhuh swee ahn ray-oo-NYOHN",
+    "english": "I am in a meeting.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 323,
+    "french": "Je commence a neuf heures.",
+    "pronunciation": "zhuh koh-MAHNSS ah nuhf UHR",
+    "english": "I start at nine o'clock.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 324,
+    "french": "Je finis a cinq heures.",
+    "pronunciation": "zhuh fee-NEE ah sehnk UHR",
+    "english": "I finish at five o'clock.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 325,
+    "french": "J'ai beaucoup de travail.",
+    "pronunciation": "zhay boh-KOO duh trah-VAHY",
+    "english": "I have a lot of work.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 326,
+    "french": "Mon collegue est sympa.",
+    "pronunciation": "mohn koh-LEG ay sehm-PAH",
+    "english": "My colleague is nice.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 327,
+    "french": "Le patron est en voyage.",
+    "pronunciation": "luh pah-TROHN ay tahn vwah-YAZH",
+    "english": "The boss is traveling.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 328,
+    "french": "Je dois envoyer un email.",
+    "pronunciation": "zhuh DWAH ahn-vwah-YAY uhn ee-MAYL",
+    "english": "I have to send an email.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 329,
+    "french": "J'ai un entretien demain.",
+    "pronunciation": "zhay uhn ahn-truh-TYEHN duh-MEHN",
+    "english": "I have an interview tomorrow.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 330,
+    "french": "Je cherche un emploi.",
+    "pronunciation": "zhuh SHEHRSH uhn ahm-PLWAH",
+    "english": "I am looking for a job.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 331,
+    "french": "Le salaire est bon.",
+    "pronunciation": "luh sah-LEHR ay BOHN",
+    "english": "The salary is good.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 332,
+    "french": "Je prends ma pause dejeuner.",
+    "pronunciation": "zhuh PRAHN mah POHZ day-zhuh-NAY",
+    "english": "I'm taking my lunch break.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 333,
+    "french": "Je suis en vacances la semaine prochaine.",
+    "pronunciation": "zhuh swee ahn vah-KAHNS lah suh-MEN proh-SHEN",
+    "english": "I'm on vacation next week.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 334,
+    "french": "J'ai un rendez-vous a deux heures.",
+    "pronunciation": "zhay uhn rahn-day VOO ah duh UHR",
+    "english": "I have an appointment at two.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 335,
+    "french": "Le bureau est au troisieme etage.",
+    "pronunciation": "luh boo-ROH ay oh trwah-ZYEM ay-TAZH",
+    "english": "The office is on the third floor.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 336,
+    "french": "Pouvez-vous me rappeler ?",
+    "pronunciation": "poo-vay VOO muh rah-play",
+    "english": "Can you call me back?",
+    "category": "Work & Office"
+  },
+  {
+    "id": 337,
+    "french": "Je travaille a temps plein.",
+    "pronunciation": "zhuh trah-VAHY ah TAHN PLEHN",
+    "english": "I work full-time.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 338,
+    "french": "Je travaille a temps partiel.",
+    "pronunciation": "zhuh trah-VAHY ah TAHN par-SYEL",
+    "english": "I work part-time.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 339,
+    "french": "Je suis en stage.",
+    "pronunciation": "zhuh swee ahn STAZH",
+    "english": "I am doing an internship.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 340,
+    "french": "La date limite est vendredi.",
+    "pronunciation": "lah DAT lee-MEET ay vahn-druh-DEE",
+    "english": "The deadline is Friday.",
+    "category": "Work & Office"
+  },
+  {
+    "id": 341,
+    "french": "J'aime le sport.",
+    "pronunciation": "ZHEM luh SPOR",
+    "english": "I like sports.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 342,
+    "french": "Je fais du jogging.",
+    "pronunciation": "zhuh FAY doo zhoh-GEENG",
+    "english": "I go jogging.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 343,
+    "french": "Je joue au football.",
+    "pronunciation": "zhuh ZHOO oh foot-BOL",
+    "english": "I play football.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 344,
+    "french": "J'aime la musique.",
+    "pronunciation": "ZHEM lah moo-ZEEK",
+    "english": "I like music.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 345,
+    "french": "Je joue de la guitare.",
+    "pronunciation": "zhuh ZHOO duh lah gee-TAR",
+    "english": "I play guitar.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 346,
+    "french": "J'aime lire.",
+    "pronunciation": "ZHEM LEER",
+    "english": "I like reading.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 347,
+    "french": "J'aime cuisiner.",
+    "pronunciation": "ZHEM kwee-zee-NAY",
+    "english": "I like cooking.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 348,
+    "french": "J'aime voyager.",
+    "pronunciation": "ZHEM vwah-yah-ZHAY",
+    "english": "I like traveling.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 349,
+    "french": "Je fais de la natation.",
+    "pronunciation": "zhuh FAY duh lah nah-tah-SYOHN",
+    "english": "I go swimming.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 350,
+    "french": "Je fais du velo.",
+    "pronunciation": "zhuh FAY doo vay-LOH",
+    "english": "I ride a bicycle.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 351,
+    "french": "J'aime le cinema.",
+    "pronunciation": "ZHEM luh see-nay-MAH",
+    "english": "I like cinema.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 352,
+    "french": "Je regarde des films.",
+    "pronunciation": "zhuh ruh-GARD day FEELM",
+    "english": "I watch movies.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 353,
+    "french": "J'ecoute de la musique.",
+    "pronunciation": "zhay-KOOT duh lah moo-ZEEK",
+    "english": "I listen to music.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 354,
+    "french": "Je fais de la musculation.",
+    "pronunciation": "zhuh FAY duh lah moos-koo-lah-SYOHN",
+    "english": "I do weight training.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 355,
+    "french": "J'aime danser.",
+    "pronunciation": "ZHEM dahn-SAY",
+    "english": "I like dancing.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 356,
+    "french": "Je fais de la peinture.",
+    "pronunciation": "zhuh FAY duh lah pehn-TOOR",
+    "english": "I paint.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 357,
+    "french": "J'aime prendre des photos.",
+    "pronunciation": "ZHEM PRAHN-druh day FOH-toh",
+    "english": "I like taking photos.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 358,
+    "french": "Je joue aux jeux video.",
+    "pronunciation": "zhuh ZHOO oh ZHUH vee-day-OH",
+    "english": "I play video games.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 359,
+    "french": "J'aime le jardinage.",
+    "pronunciation": "ZHEM luh zhar-dee-NAZH",
+    "english": "I like gardening.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 360,
+    "french": "Je fais du yoga.",
+    "pronunciation": "zhuh FAY doo yoh-GAH",
+    "english": "I do yoga.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 361,
+    "french": "Je sors avec mes amis.",
+    "pronunciation": "zhuh SOR ah-VEK may zah-MEE",
+    "english": "I go out with my friends.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 362,
+    "french": "Quel est ton passe-temps prefere ?",
+    "pronunciation": "kel ay tohn pass TAHN pray-fay-RAY",
+    "english": "What is your favorite hobby?",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 363,
+    "french": "J'aime me promener.",
+    "pronunciation": "ZHEM muh prom-NAY",
+    "english": "I like going for walks.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 364,
+    "french": "Je collectionne les timbres.",
+    "pronunciation": "zhuh koh-lek-SYONN lay TEHM-bruh",
+    "english": "I collect stamps.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 365,
+    "french": "J'apprends a jouer du piano.",
+    "pronunciation": "zhah-PRAHN ah zhoo-AY doo pyah-NOH",
+    "english": "I'm learning to play piano.",
+    "category": "Hobbies & Free Time"
+  },
+  {
+    "id": 366,
+    "french": "J'ai une reservation.",
+    "pronunciation": "zhay oon ray-zehr-vah-SYOHN",
+    "english": "I have a reservation.",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 367,
+    "french": "Je voudrais une chambre simple.",
+    "pronunciation": "zhuh voo-DRAY oon SHAHM-bruh SEHM-pluh",
+    "english": "I would like a single room.",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 368,
+    "french": "Je voudrais une chambre double.",
+    "pronunciation": "zhuh voo-DRAY oon SHAHM-bruh DOO-bluh",
+    "english": "I would like a double room.",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 369,
+    "french": "Pour combien de nuits ?",
+    "pronunciation": "poor kohm-BYEHN duh NWEE",
+    "english": "For how many nights?",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 370,
+    "french": "Le petit dejeuner est inclus ?",
+    "pronunciation": "luh puh-TEE day-zhuh-NAY ay tehn-KLOO",
+    "english": "Is breakfast included?",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 371,
+    "french": "A quelle heure est le check-out ?",
+    "pronunciation": "ah kel UHR ay luh check OUT",
+    "english": "What time is check-out?",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 372,
+    "french": "Y a-t-il le wifi ?",
+    "pronunciation": "ee ah TEEL luh wee-FEE",
+    "english": "Is there WiFi?",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 373,
+    "french": "Quel est le mot de passe ?",
+    "pronunciation": "kel ay luh MOH duh PAHS",
+    "english": "What is the password?",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 374,
+    "french": "J'ai besoin d'une serviette.",
+    "pronunciation": "zhay buh-ZWEHN doon sehr-VYET",
+    "english": "I need a towel.",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 375,
+    "french": "La climatisation ne marche pas.",
+    "pronunciation": "lah klee-mah-tee-zah-SYOHN nuh MARSH pah",
+    "english": "The air conditioning doesn't work.",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 376,
+    "french": "Pouvez-vous nettoyer la chambre ?",
+    "pronunciation": "poo-vay VOO neh-twah-YAY lah SHAHM-bruh",
+    "english": "Can you clean the room?",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 377,
+    "french": "Je voudrais un oreiller supplementaire.",
+    "pronunciation": "zhuh voo-DRAY uhn oh-ray-YAY soo-play-mahn-TEHR",
+    "english": "I would like an extra pillow.",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 378,
+    "french": "Ou est l'ascenseur ?",
+    "pronunciation": "oo ay lah-sahn-SUHR",
+    "english": "Where is the elevator?",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 379,
+    "french": "Ou est la sortie de secours ?",
+    "pronunciation": "oo ay lah sor-TEE duh suh-KOOR",
+    "english": "Where is the emergency exit?",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 380,
+    "french": "Mon passeport, s'il vous plait.",
+    "pronunciation": "mohn pahs-POR seel voo PLAY",
+    "english": "My passport, please.",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 381,
+    "french": "Je voudrais prolonger mon sejour.",
+    "pronunciation": "zhuh voo-DRAY proh-lohn-ZHAY mohn say-ZHOOR",
+    "english": "I would like to extend my stay.",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 382,
+    "french": "Y a-t-il un coffre-fort ?",
+    "pronunciation": "ee ah TEEL uhn KOF-ruh FOR",
+    "english": "Is there a safe?",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 383,
+    "french": "A quelle heure ouvre le restaurant ?",
+    "pronunciation": "ah kel UHR OOV-ruh luh res-toh-RAHN",
+    "english": "What time does the restaurant open?",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 384,
+    "french": "Je pars demain matin.",
+    "pronunciation": "zhuh PAR duh-MEHN mah-TEHN",
+    "english": "I leave tomorrow morning.",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 385,
+    "french": "Pouvez-vous appeler un taxi ?",
+    "pronunciation": "poo-vay VOO ah-play uhn tak-SEE",
+    "english": "Can you call a taxi?",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 386,
+    "french": "J'ai perdu ma cle.",
+    "pronunciation": "zhay pehr-DOO mah KLAY",
+    "english": "I lost my key.",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 387,
+    "french": "Ou puis-je laisser mes bagages ?",
+    "pronunciation": "oo PWEE-zhuh lay-SAY may bah-GAZH",
+    "english": "Where can I leave my luggage?",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 388,
+    "french": "Avez-vous une chambre avec vue ?",
+    "pronunciation": "ah-vay VOO oon SHAHM-bruh ah-VEK VOO",
+    "english": "Do you have a room with a view?",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 389,
+    "french": "La chambre est au deuxieme etage.",
+    "pronunciation": "lah SHAHM-bruh ay oh duh-ZYEM ay-TAZH",
+    "english": "The room is on the second floor.",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 390,
+    "french": "Combien coute la chambre par nuit ?",
+    "pronunciation": "kohm-BYEHN KOOT lah SHAHM-bruh par NWEE",
+    "english": "How much does the room cost per night?",
+    "category": "Travel & Hotel"
+  },
+  {
+    "id": 391,
+    "french": "Tu es libre ce soir ?",
+    "pronunciation": "too ay LEE-bruh suh SWAHR",
+    "english": "Are you free tonight?",
+    "category": "Making Plans"
+  },
+  {
+    "id": 392,
+    "french": "On se retrouve ou ?",
+    "pronunciation": "ohn suh ruh-TROOV OO",
+    "english": "Where shall we meet?",
+    "category": "Making Plans"
+  },
+  {
+    "id": 393,
+    "french": "A quelle heure on se retrouve ?",
+    "pronunciation": "ah kel UHR ohn suh ruh-TROOV",
+    "english": "What time shall we meet?",
+    "category": "Making Plans"
+  },
+  {
+    "id": 394,
+    "french": "Tu veux venir avec moi ?",
+    "pronunciation": "too VUH vuh-NEER ah-VEK MWAH",
+    "english": "Do you want to come with me?",
+    "category": "Making Plans"
+  },
+  {
+    "id": 395,
+    "french": "Je t'invite au restaurant.",
+    "pronunciation": "zhuh tehn-VEET oh res-toh-RAHN",
+    "english": "I'm inviting you to the restaurant.",
+    "category": "Making Plans"
+  },
+  {
+    "id": 396,
+    "french": "Avec plaisir !",
+    "pronunciation": "ah-VEK play-ZEER",
+    "english": "With pleasure!",
+    "category": "Making Plans"
+  },
+  {
+    "id": 397,
+    "french": "Desole(e), je ne peux pas.",
+    "pronunciation": "day-zoh-LAY zhuh nuh PUH pah",
+    "english": "Sorry, I can't.",
+    "category": "Making Plans"
+  },
+  {
+    "id": 398,
+    "french": "On va au cinema ?",
+    "pronunciation": "ohn VAH oh see-nay-MAH",
+    "english": "Shall we go to the cinema?",
+    "category": "Making Plans"
+  },
+  {
+    "id": 399,
+    "french": "Bonne idee !",
+    "pronunciation": "bun ee-DAY",
+    "english": "Good idea!",
+    "category": "Making Plans"
+  },
+  {
+    "id": 400,
+    "french": "Je suis d'accord.",
+    "pronunciation": "zhuh swee dah-KOR",
+    "english": "I agree.",
+    "category": "Making Plans"
+  },
+  {
+    "id": 401,
+    "french": "Ca depend.",
+    "pronunciation": "sah day-PAHN",
+    "english": "It depends.",
+    "category": "Making Plans"
+  },
+  {
+    "id": 402,
+    "french": "Peut-etre.",
+    "pronunciation": "puh-TAY-truh",
+    "english": "Maybe.",
+    "category": "Making Plans"
+  },
+  {
+    "id": 403,
+    "french": "On fait quoi ce week-end ?",
+    "pronunciation": "ohn FAY KWAH suh week-EHND",
+    "english": "What are we doing this weekend?",
+    "category": "Making Plans"
+  },
+  {
+    "id": 404,
+    "french": "Je prefere rester a la maison.",
+    "pronunciation": "zhuh pray-FEHR res-TAY ah lah may-ZOHN",
+    "english": "I prefer to stay home.",
+    "category": "Making Plans"
+  },
+  {
+    "id": 405,
+    "french": "Allons au parc !",
+    "pronunciation": "ah-LOHN oh PARK",
+    "english": "Let's go to the park!",
+    "category": "Making Plans"
+  },
+  {
+    "id": 406,
+    "french": "Tu veux prendre un verre ?",
+    "pronunciation": "too VUH PRAHN-druh uhn VEHR",
+    "english": "Do you want to have a drink?",
+    "category": "Making Plans"
+  },
+  {
+    "id": 407,
+    "french": "Je suis occupe(e) samedi.",
+    "pronunciation": "zhuh swee oh-koo-PAY sam-DEE",
+    "english": "I am busy on Saturday.",
+    "category": "Making Plans"
+  },
+  {
+    "id": 408,
+    "french": "On peut se voir dimanche ?",
+    "pronunciation": "ohn PUH suh VWAHR dee-MAHNSH",
+    "english": "Can we see each other on Sunday?",
+    "category": "Making Plans"
+  },
+  {
+    "id": 409,
+    "french": "Je propose qu'on aille a la plage.",
+    "pronunciation": "zhuh proh-POHZ kohn AHY ah lah PLAZH",
+    "english": "I suggest we go to the beach.",
+    "category": "Making Plans"
+  },
+  {
+    "id": 410,
+    "french": "Rendez-vous a huit heures.",
+    "pronunciation": "rahn-day VOO ah weet UHR",
+    "english": "Let's meet at eight.",
+    "category": "Making Plans"
+  },
+  {
+    "id": 411,
+    "french": "Je voudrais ouvrir un compte.",
+    "pronunciation": "zhuh voo-DRAY oo-VREER uhn KOHNT",
+    "english": "I would like to open an account.",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 412,
+    "french": "Je voudrais changer de l'argent.",
+    "pronunciation": "zhuh voo-DRAY shahn-ZHAY duh lar-ZHAHN",
+    "english": "I would like to exchange money.",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 413,
+    "french": "Quel est le taux de change ?",
+    "pronunciation": "kel ay luh TOH duh SHAHNZH",
+    "english": "What is the exchange rate?",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 414,
+    "french": "Je voudrais retirer de l'argent.",
+    "pronunciation": "zhuh voo-DRAY ruh-tee-RAY duh lar-ZHAHN",
+    "english": "I would like to withdraw money.",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 415,
+    "french": "Ou est le distributeur ?",
+    "pronunciation": "oo ay luh dees-tree-boo-TUHR",
+    "english": "Where is the ATM?",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 416,
+    "french": "Je voudrais envoyer un colis.",
+    "pronunciation": "zhuh voo-DRAY ahn-vwah-YAY uhn koh-LEE",
+    "english": "I would like to send a package.",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 417,
+    "french": "Combien coute un timbre ?",
+    "pronunciation": "kohm-BYEHN KOOT uhn TEHM-bruh",
+    "english": "How much is a stamp?",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 418,
+    "french": "Je voudrais envoyer cette lettre.",
+    "pronunciation": "zhuh voo-DRAY ahn-vwah-YAY set LET-ruh",
+    "english": "I would like to send this letter.",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 419,
+    "french": "C'est pour la France.",
+    "pronunciation": "say poor lah FRAHNS",
+    "english": "It's for France.",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 420,
+    "french": "En recommande, s'il vous plait.",
+    "pronunciation": "ahn ruh-koh-mahn-DAY seel voo PLAY",
+    "english": "Registered mail, please.",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 421,
+    "french": "Ca met combien de jours ?",
+    "pronunciation": "sah MAY kohm-BYEHN duh ZHOOR",
+    "english": "How many days does it take?",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 422,
+    "french": "Ma carte est bloquee.",
+    "pronunciation": "mah KART ay bloh-KAY",
+    "english": "My card is blocked.",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 423,
+    "french": "Je voudrais faire un virement.",
+    "pronunciation": "zhuh voo-DRAY FEHR uhn veer-MAHN",
+    "english": "I would like to make a transfer.",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 424,
+    "french": "Ou dois-je signer ?",
+    "pronunciation": "oo DWAH-zhuh see-NYAY",
+    "english": "Where do I sign?",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 425,
+    "french": "Voici ma piece d'identite.",
+    "pronunciation": "vwah-SEE mah PYESS dee-dahn-tee-TAY",
+    "english": "Here is my ID.",
+    "category": "Bank & Post Office"
+  },
+  {
+    "id": 426,
+    "french": "Aidez-moi !",
+    "pronunciation": "ay-DAY MWAH",
+    "english": "Help me!",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 427,
+    "french": "Appelez la police !",
+    "pronunciation": "ah-play lah poh-LEES",
+    "english": "Call the police!",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 428,
+    "french": "Appelez les pompiers !",
+    "pronunciation": "ah-play lay pohm-PYAY",
+    "english": "Call the firefighters!",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 429,
+    "french": "Il y a un incendie.",
+    "pronunciation": "eel ee ah uhn ehn-sahn-DEE",
+    "english": "There is a fire.",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 430,
+    "french": "J'ai eu un accident.",
+    "pronunciation": "zhay OO uhn ahk-see-DAHN",
+    "english": "I had an accident.",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 431,
+    "french": "On m'a vole mon sac.",
+    "pronunciation": "ohn mah voh-LAY mohn SAK",
+    "english": "Someone stole my bag.",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 432,
+    "french": "J'ai perdu mon portefeuille.",
+    "pronunciation": "zhay pehr-DOO mohn port-FUH-yuh",
+    "english": "I lost my wallet.",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 433,
+    "french": "J'ai perdu mon passeport.",
+    "pronunciation": "zhay pehr-DOO mohn pahs-POR",
+    "english": "I lost my passport.",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 434,
+    "french": "Ou est le commissariat ?",
+    "pronunciation": "oo ay luh koh-mee-sah-RYAH",
+    "english": "Where is the police station?",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 435,
+    "french": "Je dois faire une declaration.",
+    "pronunciation": "zhuh DWAH fehr oon day-klah-rah-SYOHN",
+    "english": "I need to file a report.",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 436,
+    "french": "C'est une urgence.",
+    "pronunciation": "say toon oor-ZHAHNS",
+    "english": "It's an emergency.",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 437,
+    "french": "Je ne me sens pas bien.",
+    "pronunciation": "zhuh nuh muh SAHN pah BYEHN",
+    "english": "I don't feel well.",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 438,
+    "french": "Attention !",
+    "pronunciation": "ah-tahn-SYOHN",
+    "english": "Watch out!",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 439,
+    "french": "Danger !",
+    "pronunciation": "dahn-ZHAY",
+    "english": "Danger!",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 440,
+    "french": "Ou est la sortie ?",
+    "pronunciation": "oo ay lah sor-TEE",
+    "english": "Where is the exit?",
+    "category": "Emergency Situations"
+  },
+  {
+    "id": 441,
+    "french": "Je n'ai pas de connexion internet.",
+    "pronunciation": "zhuh nay PAH duh koh-nek-SYOHN ehn-tehr-NET",
+    "english": "I don't have an internet connection.",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 442,
+    "french": "Le wifi ne marche pas.",
+    "pronunciation": "luh wee-FEE nuh MARSH pah",
+    "english": "The WiFi isn't working.",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 443,
+    "french": "Je peux utiliser votre telephone ?",
+    "pronunciation": "zhuh PUH oo-tee-lee-ZAY VOT-ruh tay-lay-FUN",
+    "english": "Can I use your phone?",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 444,
+    "french": "Mon telephone est decharge.",
+    "pronunciation": "mohn tay-lay-FUN ay day-shar-ZHAY",
+    "english": "My phone is dead.",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 445,
+    "french": "Je t'envoie un message.",
+    "pronunciation": "zhuh tahn-VWAH uhn meh-SAZH",
+    "english": "I'll send you a message.",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 446,
+    "french": "J'ai recu ton email.",
+    "pronunciation": "zhay ruh-SOO tohn ee-MAYL",
+    "english": "I received your email.",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 447,
+    "french": "Je te rappelle plus tard.",
+    "pronunciation": "zhuh tuh rah-PEL ploo TAR",
+    "english": "I'll call you back later.",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 448,
+    "french": "Tu peux me donner ton numero ?",
+    "pronunciation": "too PUH muh doh-NAY tohn noo-may-ROH",
+    "english": "Can you give me your number?",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 449,
+    "french": "J'ai besoin de charger mon telephone.",
+    "pronunciation": "zhay buh-ZWEHN duh shar-ZHAY mohn tay-lay-FUN",
+    "english": "I need to charge my phone.",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 450,
+    "french": "Ou est la prise electrique ?",
+    "pronunciation": "oo ay lah PREEZ ay-lek-TREEK",
+    "english": "Where is the electrical outlet?",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 451,
+    "french": "L'ordinateur est en panne.",
+    "pronunciation": "lor-dee-nah-TUHR ay tahn PAN",
+    "english": "The computer is broken.",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 452,
+    "french": "Je vais regarder sur internet.",
+    "pronunciation": "zhuh VAY ruh-gar-DAY soor ehn-tehr-NET",
+    "english": "I'll check on the internet.",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 453,
+    "french": "Tu m'as envoye le fichier ?",
+    "pronunciation": "too mah zahn-vwah-YAY luh fee-SHYAY",
+    "english": "Did you send me the file?",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 454,
+    "french": "Mon mot de passe ne fonctionne pas.",
+    "pronunciation": "mohn MOH duh PAHS nuh fonk-SYUNN pah",
+    "english": "My password doesn't work.",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 455,
+    "french": "Quel est ton compte Instagram ?",
+    "pronunciation": "kel ay tohn KOHNT een-stah-GRAM",
+    "english": "What is your Instagram account?",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 456,
+    "french": "Je voudrais un sandwich au jambon.",
+    "pronunciation": "zhuh voo-DRAY uhn sahnd-WEESH oh zhahm-BOHN",
+    "english": "I would like a ham sandwich.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 457,
+    "french": "Je voudrais une soupe.",
+    "pronunciation": "zhuh voo-DRAY oon SOOP",
+    "english": "I would like soup.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 458,
+    "french": "Du poulet, s'il vous plait.",
+    "pronunciation": "doo poo-LAY seel voo PLAY",
+    "english": "Chicken, please.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 459,
+    "french": "Du poisson frais.",
+    "pronunciation": "doo pwah-SOHN FRAY",
+    "english": "Fresh fish.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 460,
+    "french": "Des frites, s'il vous plait.",
+    "pronunciation": "day FREET seel voo PLAY",
+    "english": "Fries, please.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 461,
+    "french": "Une pizza margherita.",
+    "pronunciation": "oon pee-DZAH mar-guh-REE-tah",
+    "english": "A Margherita pizza.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 462,
+    "french": "Du riz blanc.",
+    "pronunciation": "doo REE BLAHN",
+    "english": "White rice.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 463,
+    "french": "Des pates a la sauce tomate.",
+    "pronunciation": "day PAHT ah lah SOHS toh-MAHT",
+    "english": "Pasta with tomato sauce.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 464,
+    "french": "Un steak bien cuit.",
+    "pronunciation": "uhn STEK byehn KWEE",
+    "english": "A well-done steak.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 465,
+    "french": "Un steak saignant.",
+    "pronunciation": "uhn STEK say-NYAHN",
+    "english": "A rare steak.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 466,
+    "french": "Du beurre et de la confiture.",
+    "pronunciation": "doo BUHR ay duh lah kohn-fee-TOOR",
+    "english": "Butter and jam.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 467,
+    "french": "Un yaourt aux fruits.",
+    "pronunciation": "uhn yah-OORT oh FRWEE",
+    "english": "A fruit yogurt.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 468,
+    "french": "Une pomme et une banane.",
+    "pronunciation": "oon PUM ay oon bah-NAN",
+    "english": "An apple and a banana.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 469,
+    "french": "Du chocolat chaud.",
+    "pronunciation": "doo shoh-koh-LAH SHOH",
+    "english": "Hot chocolate.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 470,
+    "french": "Un verre de lait.",
+    "pronunciation": "uhn VEHR duh LAY",
+    "english": "A glass of milk.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 471,
+    "french": "De l'eau gazeuse.",
+    "pronunciation": "duh LOH gah-ZUHZ",
+    "english": "Sparkling water.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 472,
+    "french": "De l'eau plate.",
+    "pronunciation": "duh LOH PLAHT",
+    "english": "Still water.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 473,
+    "french": "Un coca, s'il vous plait.",
+    "pronunciation": "uhn koh-KAH seel voo PLAY",
+    "english": "A Coke, please.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 474,
+    "french": "Je suis au regime.",
+    "pronunciation": "zhuh swee oh ray-ZHEEM",
+    "english": "I'm on a diet.",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 475,
+    "french": "C'est bio ?",
+    "pronunciation": "say BEE-oh",
+    "english": "Is it organic?",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 476,
+    "french": "Il est grand.",
+    "pronunciation": "eel ay GRAHN",
+    "english": "He is tall.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 477,
+    "french": "Elle est petite.",
+    "pronunciation": "el ay puh-TEET",
+    "english": "She is short.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 478,
+    "french": "Il est beau.",
+    "pronunciation": "eel ay BOH",
+    "english": "He is handsome.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 479,
+    "french": "Elle est belle.",
+    "pronunciation": "el ay BEL",
+    "english": "She is beautiful.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 480,
+    "french": "Il est jeune.",
+    "pronunciation": "eel ay ZHUHN",
+    "english": "He is young.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 481,
+    "french": "Elle est agee.",
+    "pronunciation": "el ay ah-ZHAY",
+    "english": "She is elderly.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 482,
+    "french": "Il a les cheveux bruns.",
+    "pronunciation": "eel ah lay shuh-VUH BRUHN",
+    "english": "He has brown hair.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 483,
+    "french": "Elle a les yeux bleus.",
+    "pronunciation": "el ah lay ZYUH BLUH",
+    "english": "She has blue eyes.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 484,
+    "french": "Il est mince.",
+    "pronunciation": "eel ay MEHNSS",
+    "english": "He is thin.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 485,
+    "french": "C'est nouveau.",
+    "pronunciation": "say noo-VOH",
+    "english": "It's new.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 486,
+    "french": "C'est vieux.",
+    "pronunciation": "say VYUH",
+    "english": "It's old.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 487,
+    "french": "C'est joli.",
+    "pronunciation": "say zhoh-LEE",
+    "english": "It's pretty.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 488,
+    "french": "C'est laid.",
+    "pronunciation": "say LAY",
+    "english": "It's ugly.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 489,
+    "french": "C'est grand.",
+    "pronunciation": "say GRAHN",
+    "english": "It's big.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 490,
+    "french": "C'est petit.",
+    "pronunciation": "say puh-TEE",
+    "english": "It's small.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 491,
+    "french": "C'est long.",
+    "pronunciation": "say LOHN",
+    "english": "It's long.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 492,
+    "french": "C'est court.",
+    "pronunciation": "say KOOR",
+    "english": "It's short.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 493,
+    "french": "C'est interessant.",
+    "pronunciation": "say ehn-tay-reh-SAHN",
+    "english": "It's interesting.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 494,
+    "french": "C'est ennuyeux.",
+    "pronunciation": "say ahn-nwee-YUH",
+    "english": "It's boring.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 495,
+    "french": "C'est important.",
+    "pronunciation": "say ehm-por-TAHN",
+    "english": "It's important.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 496,
+    "french": "C'est magnifique.",
+    "pronunciation": "say mah-nyee-FEEK",
+    "english": "It's magnificent.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 497,
+    "french": "Il est sympa.",
+    "pronunciation": "eel ay sehm-PAH",
+    "english": "He is nice.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 498,
+    "french": "Elle est intelligente.",
+    "pronunciation": "el ay ehn-teh-lee-ZHAHNT",
+    "english": "She is intelligent.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 499,
+    "french": "Il est drole.",
+    "pronunciation": "eel ay DROHL",
+    "english": "He is funny.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 500,
+    "french": "C'est parfait.",
+    "pronunciation": "say par-FAY",
+    "english": "It's perfect.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 501,
+    "french": "Il est fort.",
+    "pronunciation": "eel ay FOR",
+    "english": "He is strong.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 502,
+    "french": "Elle est gentille.",
+    "pronunciation": "el ay zhahn-TEE-yuh",
+    "english": "She is kind.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 503,
+    "french": "C'est lourd.",
+    "pronunciation": "say LOOR",
+    "english": "It's heavy.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 504,
+    "french": "C'est leger.",
+    "pronunciation": "say lay-ZHAY",
+    "english": "It's light.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 505,
+    "french": "C'est rapide.",
+    "pronunciation": "say rah-PEED",
+    "english": "It's fast.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 506,
+    "french": "C'est lent.",
+    "pronunciation": "say LAHN",
+    "english": "It's slow.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 507,
+    "french": "C'est propre.",
+    "pronunciation": "say PROP-ruh",
+    "english": "It's clean.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 508,
+    "french": "C'est sale.",
+    "pronunciation": "say SAL",
+    "english": "It's dirty.",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 509,
+    "french": "C'est chaud.",
+    "pronunciation": "say SHOH",
+    "english": "It's hot (to touch).",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 510,
+    "french": "C'est froid.",
+    "pronunciation": "say FRWAH",
+    "english": "It's cold (to touch).",
+    "category": "Describing People & Things"
+  },
+  {
+    "id": 511,
+    "french": "J'aime beaucoup le chocolat.",
+    "pronunciation": "ZHEM boh-KOO luh shoh-koh-LAH",
+    "english": "I really like chocolate.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 512,
+    "french": "Je n'aime pas le cafe.",
+    "pronunciation": "zhuh NEM pah luh kah-FAY",
+    "english": "I don't like coffee.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 513,
+    "french": "J'adore le fromage francais.",
+    "pronunciation": "zhah-DOR luh froh-MAZH frahn-SAY",
+    "english": "I love French cheese.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 514,
+    "french": "Je deteste les araignees.",
+    "pronunciation": "zhuh day-TEST lay ah-ray-NYAY",
+    "english": "I hate spiders.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 515,
+    "french": "Je prefere le the au cafe.",
+    "pronunciation": "zhuh pray-FEHR luh TAY oh kah-FAY",
+    "english": "I prefer tea to coffee.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 516,
+    "french": "J'aime bien la cuisine italienne.",
+    "pronunciation": "ZHEM byehn lah kwee-ZEEN ee-tah-LYENN",
+    "english": "I quite like Italian food.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 517,
+    "french": "Je n'aime pas du tout le froid.",
+    "pronunciation": "zhuh NEM pah doo TOO luh FRWAH",
+    "english": "I don't like the cold at all.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 518,
+    "french": "Mon plat prefere est le couscous.",
+    "pronunciation": "mohn PLAH pray-fay-RAY ay luh koos-KOOS",
+    "english": "My favorite dish is couscous.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 519,
+    "french": "Mon film prefere est...",
+    "pronunciation": "mohn FEELM pray-fay-RAY ay",
+    "english": "My favorite movie is...",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 520,
+    "french": "Ma couleur preferee est le bleu.",
+    "pronunciation": "mah koo-LUHR pray-fay-RAY ay luh BLUH",
+    "english": "My favorite color is blue.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 521,
+    "french": "J'aime passer du temps avec ma famille.",
+    "pronunciation": "ZHEM pah-SAY doo TAHN ah-VEK mah fah-MEE-yuh",
+    "english": "I like spending time with my family.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 522,
+    "french": "Je n'aime pas me lever tot.",
+    "pronunciation": "zhuh NEM pah muh luh-VAY TOH",
+    "english": "I don't like getting up early.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 523,
+    "french": "J'adore voyager en train.",
+    "pronunciation": "zhah-DOR vwah-yah-ZHAY ahn TREHN",
+    "english": "I love traveling by train.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 524,
+    "french": "Je prefere l'ete a l'hiver.",
+    "pronunciation": "zhuh pray-FEHR lay-TAY ah lee-VEHR",
+    "english": "I prefer summer to winter.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 525,
+    "french": "J'aime beaucoup cette ville.",
+    "pronunciation": "ZHEM boh-KOO set VEEL",
+    "english": "I really like this city.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 526,
+    "french": "Je deteste attendre.",
+    "pronunciation": "zhuh day-TEST ah-TAHN-druh",
+    "english": "I hate waiting.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 527,
+    "french": "J'aime marcher sous la pluie.",
+    "pronunciation": "ZHEM mar-SHAY soo lah PLWEE",
+    "english": "I like walking in the rain.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 528,
+    "french": "Mon chanteur prefere est...",
+    "pronunciation": "mohn shahn-TUHR pray-fay-RAY ay",
+    "english": "My favorite singer is...",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 529,
+    "french": "J'aime les films d'action.",
+    "pronunciation": "ZHEM lay FEELM dahk-SYOHN",
+    "english": "I like action movies.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 530,
+    "french": "Je n'aime pas les films d'horreur.",
+    "pronunciation": "zhuh NEM pah lay FEELM doh-RUHR",
+    "english": "I don't like horror movies.",
+    "category": "Likes & Preferences"
+  },
+  {
+    "id": 531,
+    "french": "Ou est l'enregistrement ?",
+    "pronunciation": "oo ay lahn-ruh-zhees-truh-MAHN",
+    "english": "Where is check-in?",
+    "category": "At the Airport"
+  },
+  {
+    "id": 532,
+    "french": "Voici mon passeport et mon billet.",
+    "pronunciation": "vwah-SEE mohn pahs-POR ay mohn bee-YAY",
+    "english": "Here is my passport and ticket.",
+    "category": "At the Airport"
+  },
+  {
+    "id": 533,
+    "french": "J'ai un bagage a main.",
+    "pronunciation": "zhay uhn bah-GAZH ah MEHN",
+    "english": "I have a carry-on bag.",
+    "category": "At the Airport"
+  },
+  {
+    "id": 534,
+    "french": "Ou est la porte d'embarquement ?",
+    "pronunciation": "oo ay lah PORT dahm-bar-kuh-MAHN",
+    "english": "Where is the boarding gate?",
+    "category": "At the Airport"
+  },
+  {
+    "id": 535,
+    "french": "Le vol est retarde.",
+    "pronunciation": "luh VOL ay ruh-tar-DAY",
+    "english": "The flight is delayed.",
+    "category": "At the Airport"
+  },
+  {
+    "id": 536,
+    "french": "A quelle heure est l'embarquement ?",
+    "pronunciation": "ah kel UHR ay lahm-bar-kuh-MAHN",
+    "english": "What time is boarding?",
+    "category": "At the Airport"
+  },
+  {
+    "id": 537,
+    "french": "Je voudrais un siege cote hublot.",
+    "pronunciation": "zhuh voo-DRAY uhn SYEZH koh-TAY oo-BLOH",
+    "english": "I'd like a window seat.",
+    "category": "At the Airport"
+  },
+  {
+    "id": 538,
+    "french": "Je voudrais un siege cote couloir.",
+    "pronunciation": "zhuh voo-DRAY uhn SYEZH koh-TAY koo-LWAHR",
+    "english": "I'd like an aisle seat.",
+    "category": "At the Airport"
+  },
+  {
+    "id": 539,
+    "french": "Ou est le retrait des bagages ?",
+    "pronunciation": "oo ay luh ruh-TRAY day bah-GAZH",
+    "english": "Where is baggage claim?",
+    "category": "At the Airport"
+  },
+  {
+    "id": 540,
+    "french": "Mon bagage est perdu.",
+    "pronunciation": "mohn bah-GAZH ay pehr-DOO",
+    "english": "My luggage is lost.",
+    "category": "At the Airport"
+  },
+  {
+    "id": 541,
+    "french": "J'ai une correspondance a Lyon.",
+    "pronunciation": "zhay oon koh-res-pohn-DAHNS ah lee-OHN",
+    "english": "I have a connection in Lyon.",
+    "category": "At the Airport"
+  },
+  {
+    "id": 542,
+    "french": "L'avion decolle dans une heure.",
+    "pronunciation": "lah-VYOHN day-KOL dahn zoon UHR",
+    "english": "The plane takes off in one hour.",
+    "category": "At the Airport"
+  },
+  {
+    "id": 543,
+    "french": "Attachez vos ceintures.",
+    "pronunciation": "ah-tah-SHAY voh sehn-TOOR",
+    "english": "Fasten your seatbelts.",
+    "category": "At the Airport"
+  },
+  {
+    "id": 544,
+    "french": "Le vol dure deux heures.",
+    "pronunciation": "luh VOL DOOR duh UHR",
+    "english": "The flight lasts two hours.",
+    "category": "At the Airport"
+  },
+  {
+    "id": 545,
+    "french": "Bienvenue a bord.",
+    "pronunciation": "byehn-vuh-NOO ah BOR",
+    "english": "Welcome aboard.",
+    "category": "At the Airport"
+  },
+  {
+    "id": 546,
+    "french": "Je vais a la salle de sport.",
+    "pronunciation": "zhuh VAY ah lah SAL duh SPOR",
+    "english": "I go to the gym.",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 547,
+    "french": "Je cours trois fois par semaine.",
+    "pronunciation": "zhuh KOOR trwah FWAH par suh-MEN",
+    "english": "I run three times a week.",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 548,
+    "french": "Tu aimes quel sport ?",
+    "pronunciation": "too EM kel SPOR",
+    "english": "Which sport do you like?",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 549,
+    "french": "Je joue au tennis.",
+    "pronunciation": "zhuh ZHOO oh teh-NEES",
+    "english": "I play tennis.",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 550,
+    "french": "J'aime nager.",
+    "pronunciation": "ZHEM nah-ZHAY",
+    "english": "I like swimming.",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 551,
+    "french": "Le match commence a huit heures.",
+    "pronunciation": "luh MATCH koh-MAHNSS ah weet UHR",
+    "english": "The game starts at eight.",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 552,
+    "french": "Qui a gagne ?",
+    "pronunciation": "kee ah gah-NYAY",
+    "english": "Who won?",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 553,
+    "french": "On a perdu.",
+    "pronunciation": "ohn ah pehr-DOO",
+    "english": "We lost.",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 554,
+    "french": "Le score est deux a un.",
+    "pronunciation": "luh SKOR ay duh ah UHN",
+    "english": "The score is two to one.",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 555,
+    "french": "Je fais de l'exercice tous les jours.",
+    "pronunciation": "zhuh FAY duh lek-sehr-SEES too lay ZHOOR",
+    "english": "I exercise every day.",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 556,
+    "french": "Il faut s'echauffer avant.",
+    "pronunciation": "eel FOH say-shoh-FAY ah-VAHN",
+    "english": "You need to warm up first.",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 557,
+    "french": "Je suis en bonne forme.",
+    "pronunciation": "zhuh swee ahn bun FORM",
+    "english": "I am in good shape.",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 558,
+    "french": "La piscine est fermee.",
+    "pronunciation": "lah pee-SEEN ay fehr-MAY",
+    "english": "The pool is closed.",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 559,
+    "french": "Je souleve des poids.",
+    "pronunciation": "zhuh soo-LEV day PWAH",
+    "english": "I lift weights.",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 560,
+    "french": "C'est bon pour la sante.",
+    "pronunciation": "say BOHN poor lah sahn-TAY",
+    "english": "It's good for health.",
+    "category": "Sports & Exercise"
+  },
+  {
+    "id": 561,
+    "french": "Je vais au musee.",
+    "pronunciation": "zhuh VAY oh moo-ZAY",
+    "english": "I go to the museum.",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 562,
+    "french": "L'exposition est interessante.",
+    "pronunciation": "lek-spoh-zee-SYOHN ay tehn-tay-reh-SAHNT",
+    "english": "The exhibition is interesting.",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 563,
+    "french": "Je vais au concert.",
+    "pronunciation": "zhuh VAY oh kohn-SEHR",
+    "english": "I go to the concert.",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 564,
+    "french": "Le spectacle commence a vingt heures.",
+    "pronunciation": "luh spek-TAK-luh koh-MAHNSS ah vehn UHR",
+    "english": "The show starts at 8 PM.",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 565,
+    "french": "Ou est le theatre ?",
+    "pronunciation": "oo ay luh tay-AH-truh",
+    "english": "Where is the theater?",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 566,
+    "french": "Je visite la cathedrale.",
+    "pronunciation": "zhuh vee-ZEET lah kah-tay-DRAL",
+    "english": "I visit the cathedral.",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 567,
+    "french": "Le monument est ancien.",
+    "pronunciation": "luh moh-noo-MAHN ay tahn-SYEHN",
+    "english": "The monument is ancient.",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 568,
+    "french": "Je prends des photos.",
+    "pronunciation": "zhuh PRAHN day FOH-toh",
+    "english": "I take photos.",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 569,
+    "french": "C'est une belle ville.",
+    "pronunciation": "say toon bel VEEL",
+    "english": "It's a beautiful city.",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 570,
+    "french": "Je visite le chateau.",
+    "pronunciation": "zhuh vee-ZEET luh shah-TOH",
+    "english": "I visit the castle.",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 571,
+    "french": "Il y a un festival ce week-end.",
+    "pronunciation": "eel ee ah uhn fes-tee-VAL suh week-EHND",
+    "english": "There is a festival this weekend.",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 572,
+    "french": "Combien coute l'entree ?",
+    "pronunciation": "kohm-BYEHN KOOT lahn-TRAY",
+    "english": "How much is the entrance fee?",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 573,
+    "french": "Y a-t-il une reduction etudiants ?",
+    "pronunciation": "ee ah TEEL oon ray-dook-SYOHN ay-too-DYAHN",
+    "english": "Is there a student discount?",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 574,
+    "french": "Le musee ferme a quelle heure ?",
+    "pronunciation": "luh moo-ZAY FEHRM ah kel UHR",
+    "english": "What time does the museum close?",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 575,
+    "french": "C'est magnifique !",
+    "pronunciation": "say mah-nyee-FEEK",
+    "english": "It's magnificent!",
+    "category": "Cultural Life"
+  },
+  {
+    "id": 576,
+    "french": "Allo ?",
+    "pronunciation": "ah-LOH",
+    "english": "Hello? (on the phone)",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 577,
+    "french": "C'est de la part de qui ?",
+    "pronunciation": "say duh lah PAR duh KEE",
+    "english": "Who is calling?",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 578,
+    "french": "Je voudrais parler a...",
+    "pronunciation": "zhuh voo-DRAY par-LAY ah",
+    "english": "I would like to speak to...",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 579,
+    "french": "Il n'est pas disponible.",
+    "pronunciation": "eel nay pah dees-poh-NEE-bluh",
+    "english": "He is not available.",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 580,
+    "french": "Pouvez-vous laisser un message ?",
+    "pronunciation": "poo-vay VOO lay-SAY uhn meh-SAZH",
+    "english": "Can you leave a message?",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 581,
+    "french": "Je rappelle plus tard.",
+    "pronunciation": "zhuh rah-PEL ploo TAR",
+    "english": "I'll call back later.",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 582,
+    "french": "Je voudrais prendre rendez-vous.",
+    "pronunciation": "zhuh voo-DRAY PRAHN-druh rahn-day VOO",
+    "english": "I'd like to make an appointment.",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 583,
+    "french": "Quand etes-vous disponible ?",
+    "pronunciation": "kahn ET voo dees-poh-NEE-bluh",
+    "english": "When are you available?",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 584,
+    "french": "Lundi a dix heures, ca vous convient ?",
+    "pronunciation": "luhn-DEE ah dee zuhr sah voo kohn-VYEHN",
+    "english": "Monday at 10, does that suit you?",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 585,
+    "french": "Je confirme le rendez-vous.",
+    "pronunciation": "zhuh kohn-FEERM luh rahn-day VOO",
+    "english": "I confirm the appointment.",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 586,
+    "french": "Je voudrais annuler mon rendez-vous.",
+    "pronunciation": "zhuh voo-DRAY ah-noo-LAY mohn rahn-day VOO",
+    "english": "I'd like to cancel my appointment.",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 587,
+    "french": "Pouvez-vous changer l'heure ?",
+    "pronunciation": "poo-vay VOO shahn-ZHAY LUHR",
+    "english": "Can you change the time?",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 588,
+    "french": "Merci, a lundi alors.",
+    "pronunciation": "mair-SEE ah luhn-DEE ah-LOR",
+    "english": "Thanks, see you Monday then.",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 589,
+    "french": "Je serai la a quatorze heures.",
+    "pronunciation": "zhuh suh-RAY LAH ah kah-TORZ UHR",
+    "english": "I will be there at 2 PM.",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 590,
+    "french": "C'est note, merci.",
+    "pronunciation": "say noh-TAY mair-SEE",
+    "english": "Noted, thank you.",
+    "category": "Phone & Appointments"
+  },
+  {
+    "id": 591,
+    "french": "Joyeux anniversaire !",
+    "pronunciation": "zhwah-YUH ah-nee-vehr-SEHR",
+    "english": "Happy birthday!",
+    "category": "Celebrations"
+  },
+  {
+    "id": 592,
+    "french": "Joyeux Noel !",
+    "pronunciation": "zhwah-YUH noh-EL",
+    "english": "Merry Christmas!",
+    "category": "Celebrations"
+  },
+  {
+    "id": 593,
+    "french": "Bonne annee !",
+    "pronunciation": "bun ah-NAY",
+    "english": "Happy New Year!",
+    "category": "Celebrations"
+  },
+  {
+    "id": 594,
+    "french": "Felicitations pour votre mariage !",
+    "pronunciation": "fay-lee-see-tah-SYOHN poor VOT-ruh mah-RYAZH",
+    "english": "Congratulations on your wedding!",
+    "category": "Celebrations"
+  },
+  {
+    "id": 595,
+    "french": "Sante !",
+    "pronunciation": "sahn-TAY",
+    "english": "Cheers!",
+    "category": "Celebrations"
+  },
+  {
+    "id": 596,
+    "french": "On fait la fete ce soir.",
+    "pronunciation": "ohn FAY lah FET suh SWAHR",
+    "english": "We're having a party tonight.",
+    "category": "Celebrations"
+  },
+  {
+    "id": 597,
+    "french": "J'apporte un cadeau.",
+    "pronunciation": "zhah-PORT uhn kah-DOH",
+    "english": "I'm bringing a gift.",
+    "category": "Celebrations"
+  },
+  {
+    "id": 598,
+    "french": "Merci pour l'invitation.",
+    "pronunciation": "mair-SEE poor lehn-vee-tah-SYOHN",
+    "english": "Thanks for the invitation.",
+    "category": "Celebrations"
+  },
+  {
+    "id": 599,
+    "french": "C'est une surprise.",
+    "pronunciation": "say toon soor-PREEZ",
+    "english": "It's a surprise.",
+    "category": "Celebrations"
+  },
+  {
+    "id": 600,
+    "french": "On mange du gateau.",
+    "pronunciation": "ohn MAHNZH doo gah-TOH",
+    "english": "We eat cake.",
+    "category": "Celebrations"
+  },
+  {
+    "id": 601,
+    "french": "La fete etait geniale.",
+    "pronunciation": "lah FET ay-tay zhay-NYAL",
+    "english": "The party was awesome.",
+    "category": "Celebrations"
+  },
+  {
+    "id": 602,
+    "french": "Meilleurs voeux !",
+    "pronunciation": "may-YUHR VUH",
+    "english": "Best wishes!",
+    "category": "Celebrations"
+  },
+  {
+    "id": 603,
+    "french": "Bon appetit !",
+    "pronunciation": "bohn ah-pay-TEE",
+    "english": "Enjoy your meal!",
+    "category": "Celebrations"
+  },
+  {
+    "id": 604,
+    "french": "Bonne fete !",
+    "pronunciation": "bun FET",
+    "english": "Happy celebration!",
+    "category": "Celebrations"
+  },
+  {
+    "id": 605,
+    "french": "Tout le monde est invite.",
+    "pronunciation": "too luh MOHND ay tehn-vee-TAY",
+    "english": "Everyone is invited.",
+    "category": "Celebrations"
+  },
+  {
+    "id": 606,
+    "french": "Bon, alors...",
+    "pronunciation": "BOHN ah-LOR",
+    "english": "Well, so...",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 607,
+    "french": "Tu vois ?",
+    "pronunciation": "too VWAH",
+    "english": "You see?",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 608,
+    "french": "C'est-a-dire...",
+    "pronunciation": "say tah DEER",
+    "english": "That is to say...",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 609,
+    "french": "Quand meme !",
+    "pronunciation": "kahn MEM",
+    "english": "All the same! / Still!",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 610,
+    "french": "Pas de souci.",
+    "pronunciation": "pah duh soo-SEE",
+    "english": "No worries.",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 611,
+    "french": "Tant pis.",
+    "pronunciation": "tahn PEE",
+    "english": "Too bad.",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 612,
+    "french": "Tant mieux.",
+    "pronunciation": "tahn MYUH",
+    "english": "So much the better.",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 613,
+    "french": "N'importe quoi.",
+    "pronunciation": "nehm-PORT KWAH",
+    "english": "Whatever. / Nonsense.",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 614,
+    "french": "Ca marche !",
+    "pronunciation": "sah MARSH",
+    "english": "That works! / Deal!",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 615,
+    "french": "C'est la vie.",
+    "pronunciation": "say lah VEE",
+    "english": "That's life.",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 616,
+    "french": "A tes souhaits !",
+    "pronunciation": "ah tay SWEH",
+    "english": "Bless you! (after sneezing)",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 617,
+    "french": "Voyons voir...",
+    "pronunciation": "vwah-YOHN VWAHR",
+    "english": "Let's see...",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 618,
+    "french": "En tout cas...",
+    "pronunciation": "ahn too KAH",
+    "english": "In any case...",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 619,
+    "french": "Allez !",
+    "pronunciation": "ah-LAY",
+    "english": "Come on! / Let's go!",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 620,
+    "french": "Ca alors !",
+    "pronunciation": "sah ah-LOR",
+    "english": "Well I never!",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 621,
+    "french": "Pas vrai ?",
+    "pronunciation": "pah VRAY",
+    "english": "Right? / Isn't it?",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 622,
+    "french": "Tu plaisantes ?",
+    "pronunciation": "too play-ZAHNT",
+    "english": "Are you joking?",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 623,
+    "french": "Zut !",
+    "pronunciation": "ZOOT",
+    "english": "Darn!",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 624,
+    "french": "Chouette !",
+    "pronunciation": "SHWET",
+    "english": "Great! / Cool!",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 625,
+    "french": "Super !",
+    "pronunciation": "soo-PAIR",
+    "english": "Super! / Awesome!",
+    "category": "Daily Expressions"
+  },
+  {
+    "id": 626,
+    "french": "Je cherche un appartement.",
+    "pronunciation": "zhuh SHEHRSH uhn ah-par-tuh-MAHN",
+    "english": "I'm looking for an apartment.",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 627,
+    "french": "Combien coute le loyer ?",
+    "pronunciation": "kohm-BYEHN KOOT luh lwah-YAY",
+    "english": "How much is the rent?",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 628,
+    "french": "L'appartement est meuble ?",
+    "pronunciation": "lah-par-tuh-MAHN ay muh-BLAY",
+    "english": "Is the apartment furnished?",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 629,
+    "french": "Il y a combien de pieces ?",
+    "pronunciation": "eel ee ah kohm-BYEHN duh PYESS",
+    "english": "How many rooms are there?",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 630,
+    "french": "Les charges sont comprises ?",
+    "pronunciation": "lay SHARZH sohn kohm-PREEZ",
+    "english": "Are utilities included?",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 631,
+    "french": "Il y a un ascenseur ?",
+    "pronunciation": "eel ee ah uhn ah-sahn-SUHR",
+    "english": "Is there an elevator?",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 632,
+    "french": "Le quartier est calme ?",
+    "pronunciation": "luh kar-TYAY ay KALM",
+    "english": "Is the neighborhood quiet?",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 633,
+    "french": "Je voudrais visiter l'appartement.",
+    "pronunciation": "zhuh voo-DRAY vee-zee-TAY lah-par-tuh-MAHN",
+    "english": "I'd like to visit the apartment.",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 634,
+    "french": "Quand est-ce que je peux emmenager ?",
+    "pronunciation": "kahn es kuh zhuh PUH ay-may-nah-ZHAY",
+    "english": "When can I move in?",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 635,
+    "french": "Il faut une caution ?",
+    "pronunciation": "eel FOH oon koh-SYOHN",
+    "english": "Is a deposit required?",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 636,
+    "french": "Il y a le chauffage central ?",
+    "pronunciation": "eel ee ah luh shoh-FAZH sahn-TRAL",
+    "english": "Is there central heating?",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 637,
+    "french": "Le proprietaire est sympa.",
+    "pronunciation": "luh proh-pree-ay-TEHR ay sehm-PAH",
+    "english": "The landlord is nice.",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 638,
+    "french": "Je voudrais renouveler le bail.",
+    "pronunciation": "zhuh voo-DRAY ruh-noo-vuh-LAY luh BAHY",
+    "english": "I'd like to renew the lease.",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 639,
+    "french": "L'immeuble est securise ?",
+    "pronunciation": "lee-MUHBL ay say-koo-ree-ZAY",
+    "english": "Is the building secure?",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 640,
+    "french": "Le bail est de combien de temps ?",
+    "pronunciation": "luh BAHY ay duh kohm-BYEHN duh TAHN",
+    "english": "How long is the lease?",
+    "category": "Renting & Housing"
+  },
+  {
+    "id": 641,
+    "french": "Et.",
+    "pronunciation": "AY",
+    "english": "And.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 642,
+    "french": "Mais.",
+    "pronunciation": "MAY",
+    "english": "But.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 643,
+    "french": "Ou.",
+    "pronunciation": "OO",
+    "english": "Or.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 644,
+    "french": "Donc.",
+    "pronunciation": "DOHNK",
+    "english": "So / Therefore.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 645,
+    "french": "Parce que...",
+    "pronunciation": "par-suh KUH",
+    "english": "Because...",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 646,
+    "french": "Quand.",
+    "pronunciation": "KAHN",
+    "english": "When.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 647,
+    "french": "Si.",
+    "pronunciation": "SEE",
+    "english": "If.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 648,
+    "french": "Comme.",
+    "pronunciation": "KUM",
+    "english": "Like / As.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 649,
+    "french": "Pendant.",
+    "pronunciation": "pahn-DAHN",
+    "english": "During.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 650,
+    "french": "Apres.",
+    "pronunciation": "ah-PRAY",
+    "english": "After.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 651,
+    "french": "Avant.",
+    "pronunciation": "ah-VAHN",
+    "english": "Before.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 652,
+    "french": "Ensuite.",
+    "pronunciation": "ahn-SWEET",
+    "english": "Then / Next.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 653,
+    "french": "D'abord.",
+    "pronunciation": "dah-BOR",
+    "english": "First of all.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 654,
+    "french": "Enfin.",
+    "pronunciation": "ahn-FEHN",
+    "english": "Finally.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 655,
+    "french": "Cependant.",
+    "pronunciation": "suh-pahn-DAHN",
+    "english": "However.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 656,
+    "french": "En plus.",
+    "pronunciation": "ahn PLOOS",
+    "english": "Moreover.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 657,
+    "french": "Par contre.",
+    "pronunciation": "par KOHN-truh",
+    "english": "On the other hand.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 658,
+    "french": "C'est pourquoi.",
+    "pronunciation": "say poor-KWAH",
+    "english": "That's why.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 659,
+    "french": "Grace a.",
+    "pronunciation": "grahs AH",
+    "english": "Thanks to.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 660,
+    "french": "Malgre.",
+    "pronunciation": "mal-GRAY",
+    "english": "Despite.",
+    "category": "Connecting Words"
+  },
+  {
+    "id": 661,
+    "french": "Je voudrais du sirop pour la toux.",
+    "pronunciation": "zhuh voo-DRAY doo see-ROH poor lah TOO",
+    "english": "I'd like cough syrup.",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 662,
+    "french": "Avez-vous de la creme solaire ?",
+    "pronunciation": "ah-vay VOO duh lah KREM soh-LEHR",
+    "english": "Do you have sunscreen?",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 663,
+    "french": "Je voudrais des pansements.",
+    "pronunciation": "zhuh voo-DRAY day pahn-suh-MAHN",
+    "english": "I'd like bandages.",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 664,
+    "french": "Est-ce que c'est sans ordonnance ?",
+    "pronunciation": "es kuh say sahn or-doh-NAHNS",
+    "english": "Is it without a prescription?",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 665,
+    "french": "J'ai besoin d'un thermometre.",
+    "pronunciation": "zhay buh-ZWEHN duhn tehr-moh-MET-ruh",
+    "english": "I need a thermometer.",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 666,
+    "french": "Combien de fois par jour ?",
+    "pronunciation": "kohm-BYEHN duh FWAH par ZHOOR",
+    "english": "How many times per day?",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 667,
+    "french": "Avant ou apres les repas ?",
+    "pronunciation": "ah-VAHN oo ah-PRAY lay ruh-PAH",
+    "english": "Before or after meals?",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 668,
+    "french": "J'ai des allergies.",
+    "pronunciation": "zhay day ah-lehr-ZHEE",
+    "english": "I have allergies.",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 669,
+    "french": "Je suis enrhume(e).",
+    "pronunciation": "zhuh swee ahn-roo-MAY",
+    "english": "I have a cold.",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 670,
+    "french": "Je voudrais du dentifrice.",
+    "pronunciation": "zhuh voo-DRAY doo dahn-tee-FREES",
+    "english": "I'd like toothpaste.",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 671,
+    "french": "Avez-vous du savon ?",
+    "pronunciation": "ah-vay VOO doo sah-VOHN",
+    "english": "Do you have soap?",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 672,
+    "french": "Je voudrais du desinfectant.",
+    "pronunciation": "zhuh voo-DRAY doo day-zehn-fek-TAHN",
+    "english": "I'd like disinfectant.",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 673,
+    "french": "J'ai une piqure d'insecte.",
+    "pronunciation": "zhay oon pee-KOOR dehn-SEKT",
+    "english": "I have an insect bite.",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 674,
+    "french": "Pouvez-vous me conseiller ?",
+    "pronunciation": "poo-vay VOO muh kohn-say-YAY",
+    "english": "Can you advise me?",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 675,
+    "french": "Ce medicament a des effets secondaires ?",
+    "pronunciation": "suh may-dee-kah-MAHN ah day zeh-FEH suh-gohn-DEHR",
+    "english": "Does this medicine have side effects?",
+    "category": "Pharmacy & Wellness"
+  },
+  {
+    "id": 676,
+    "french": "Vous etes d'ou ?",
+    "pronunciation": "voo ZET DOO",
+    "english": "Where are you from?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 677,
+    "french": "Qu'est-ce que vous faites dans la vie ?",
+    "pronunciation": "kes kuh voo FET dahn lah VEE",
+    "english": "What do you do for a living?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 678,
+    "french": "Vous habitez ou ?",
+    "pronunciation": "voo zah-bee-TAY OO",
+    "english": "Where do you live?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 679,
+    "french": "Vous etes ici depuis quand ?",
+    "pronunciation": "voo ZET ee-SEE duh-PWEE KAHN",
+    "english": "How long have you been here?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 680,
+    "french": "Vous parlez combien de langues ?",
+    "pronunciation": "voo par-LAY kohm-BYEHN duh LAHNGS",
+    "english": "How many languages do you speak?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 681,
+    "french": "Vous aimez la France ?",
+    "pronunciation": "voo zeh-MAY lah FRAHNS",
+    "english": "Do you like France?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 682,
+    "french": "Vous avez des freres et soeurs ?",
+    "pronunciation": "voo zah-VAY day FREHR ay SUHR",
+    "english": "Do you have siblings?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 683,
+    "french": "Qu'est-ce que vous aimez faire ?",
+    "pronunciation": "kes kuh voo zeh-MAY FEHR",
+    "english": "What do you like to do?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 684,
+    "french": "Vous restez combien de temps ?",
+    "pronunciation": "voo res-TAY kohm-BYEHN duh TAHN",
+    "english": "How long are you staying?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 685,
+    "french": "Ca vous plait ici ?",
+    "pronunciation": "sah voo PLAY ee-SEE",
+    "english": "Do you like it here?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 686,
+    "french": "C'est la premiere fois ?",
+    "pronunciation": "say lah pruh-MYEHR FWAH",
+    "english": "Is it the first time?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 687,
+    "french": "Vous etes venu comment ?",
+    "pronunciation": "voo ZET vuh-NOO koh-MAHN",
+    "english": "How did you get here?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 688,
+    "french": "Vous preferez quoi ?",
+    "pronunciation": "voo pray-fay-RAY KWAH",
+    "english": "What do you prefer?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 689,
+    "french": "Vous avez besoin d'aide ?",
+    "pronunciation": "voo zah-VAY buh-ZWEHN DED",
+    "english": "Do you need help?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 690,
+    "french": "Ca va ?",
+    "pronunciation": "sah VAH",
+    "english": "How's it going?",
+    "category": "Common Questions"
+  },
+  {
+    "id": 691,
+    "french": "Est-ce que je peux... ?",
+    "pronunciation": "es kuh zhuh PUH",
+    "english": "Can I...?",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 692,
+    "french": "Puis-je entrer ?",
+    "pronunciation": "PWEE-zhuh ahn-TRAY",
+    "english": "May I come in?",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 693,
+    "french": "Vous permettez ?",
+    "pronunciation": "voo pehr-meh-TAY",
+    "english": "Do you mind?",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 694,
+    "french": "Je peux m'asseoir ici ?",
+    "pronunciation": "zhuh PUH mah-SWAHR ee-SEE",
+    "english": "Can I sit here?",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 695,
+    "french": "Pouvez-vous m'expliquer ?",
+    "pronunciation": "poo-vay VOO mek-splee-KAY",
+    "english": "Can you explain to me?",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 696,
+    "french": "Je suis desole(e) de vous deranger.",
+    "pronunciation": "zhuh swee day-zoh-LAY duh voo day-rahn-ZHAY",
+    "english": "Sorry to bother you.",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 697,
+    "french": "Vous pourriez parler plus fort ?",
+    "pronunciation": "voo poo-ree-AY par-LAY ploo FOR",
+    "english": "Could you speak louder?",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 698,
+    "french": "Est-ce que vous avez cinq minutes ?",
+    "pronunciation": "es kuh voo zah-VAY sehnk mee-NOOT",
+    "english": "Do you have five minutes?",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 699,
+    "french": "Bien sur, avec plaisir.",
+    "pronunciation": "byehn SOOR ah-VEK play-ZEER",
+    "english": "Of course, with pleasure.",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 700,
+    "french": "C'est tres aimable.",
+    "pronunciation": "say tray eh-MAHBL",
+    "english": "That's very kind.",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 701,
+    "french": "Pas de probleme.",
+    "pronunciation": "pah duh proh-BLEM",
+    "english": "No problem.",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 702,
+    "french": "Ca ne vous derange pas ?",
+    "pronunciation": "sah nuh voo day-RAHNZH pah",
+    "english": "Does it not bother you?",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 703,
+    "french": "Excusez-moi de vous interrompre.",
+    "pronunciation": "ek-skoo-zay MWAH duh voo zehn-teh-ROHM-pruh",
+    "english": "Excuse me for interrupting.",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 704,
+    "french": "Pourriez-vous me montrer ?",
+    "pronunciation": "poo-ree-AY VOO muh mohn-TRAY",
+    "english": "Could you show me?",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 705,
+    "french": "Je vous en prie.",
+    "pronunciation": "zhuh voo zahn PREE",
+    "english": "You're welcome. (formal)",
+    "category": "Polite Requests"
+  },
+  {
+    "id": 706,
+    "french": "Je vis au Luxembourg.",
+    "pronunciation": "zhuh VEE oh look-sahm-BOOR",
+    "english": "I live in Luxembourg.",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 707,
+    "french": "Le Luxembourg est un petit pays.",
+    "pronunciation": "luh look-sahm-BOOR ay uhn puh-TEE pay-EE",
+    "english": "Luxembourg is a small country.",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 708,
+    "french": "On parle trois langues au Luxembourg.",
+    "pronunciation": "ohn PARL trwah LAHNGS oh look-sahm-BOOR",
+    "english": "They speak three languages in Luxembourg.",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 709,
+    "french": "Je prends le bus pour aller au travail.",
+    "pronunciation": "zhuh PRAHN luh BOOS poor ah-LAY oh trah-VAHY",
+    "english": "I take the bus to go to work.",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 710,
+    "french": "Les transports sont gratuits.",
+    "pronunciation": "lay trahnss-POR sohn grah-TWEE",
+    "english": "Public transport is free.",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 711,
+    "french": "Je dois aller a la Commune.",
+    "pronunciation": "zhuh DWAH ah-LAY ah lah koh-MOON",
+    "english": "I need to go to the Town Hall.",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 712,
+    "french": "Ou est le Kirchberg ?",
+    "pronunciation": "oo ay luh KEERSH-behrg",
+    "english": "Where is the Kirchberg?",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 713,
+    "french": "Le Luxembourg a beaucoup de banques.",
+    "pronunciation": "luh look-sahm-BOOR ah boh-KOO duh BAHNK",
+    "english": "Luxembourg has many banks.",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 714,
+    "french": "J'etudie a l'universite.",
+    "pronunciation": "zhay-TOO-dee ah loo-nee-vehr-see-TAY",
+    "english": "I study at the university.",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 715,
+    "french": "Le temps change souvent ici.",
+    "pronunciation": "luh TAHN SHAHNZH soo-VAHN ee-SEE",
+    "english": "The weather changes often here.",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 716,
+    "french": "Je vais au Auchan faire les courses.",
+    "pronunciation": "zhuh VAY oh oh-SHAHN fehr lay KOORS",
+    "english": "I go to Auchan to do shopping.",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 717,
+    "french": "La Petrusse est une jolie riviere.",
+    "pronunciation": "lah pay-TROOS ay oon zhoh-LEE ree-VYEHR",
+    "english": "The Petrusse is a pretty river.",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 718,
+    "french": "Je visite le Grund ce week-end.",
+    "pronunciation": "zhuh vee-ZEET luh GROOND suh week-EHND",
+    "english": "I'm visiting the Grund this weekend.",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 719,
+    "french": "J'ai un titre de sejour.",
+    "pronunciation": "zhay uhn TEE-truh duh say-ZHOOR",
+    "english": "I have a residence permit.",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 720,
+    "french": "Le Luxembourg est tres multiculturel.",
+    "pronunciation": "luh look-sahm-BOOR ay tray mool-tee-kool-too-REL",
+    "english": "Luxembourg is very multicultural.",
+    "category": "Luxembourg Phrases"
+  },
+  {
+    "id": 721,
+    "french": "Qu'est-ce que c'est ?",
+    "pronunciation": "kes kuh SAY",
+    "english": "What is this?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 722,
+    "french": "Qu'est-ce qui se passe ?",
+    "pronunciation": "kes kee suh PAHS",
+    "english": "What's happening?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 723,
+    "french": "Pourquoi ?",
+    "pronunciation": "poor-KWAH",
+    "english": "Why?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 724,
+    "french": "Comment ?",
+    "pronunciation": "koh-MAHN",
+    "english": "How?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 725,
+    "french": "Quand ?",
+    "pronunciation": "KAHN",
+    "english": "When?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 726,
+    "french": "Combien ?",
+    "pronunciation": "kohm-BYEHN",
+    "english": "How much? / How many?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 727,
+    "french": "Lequel / Laquelle ?",
+    "pronunciation": "luh-KEL / lah-KEL",
+    "english": "Which one?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 728,
+    "french": "Qui est-ce ?",
+    "pronunciation": "kee ES",
+    "english": "Who is it?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 729,
+    "french": "A qui est-ce ?",
+    "pronunciation": "ah kee ES",
+    "english": "Whose is it?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 730,
+    "french": "Est-ce que c'est ouvert ?",
+    "pronunciation": "es kuh say oo-VEHR",
+    "english": "Is it open?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 731,
+    "french": "Est-ce que c'est ferme ?",
+    "pronunciation": "es kuh say fehr-MAY",
+    "english": "Is it closed?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 732,
+    "french": "Est-ce que c'est gratuit ?",
+    "pronunciation": "es kuh say grah-TWEE",
+    "english": "Is it free?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 733,
+    "french": "Est-ce que c'est loin ?",
+    "pronunciation": "es kuh say LWEHN",
+    "english": "Is it far?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 734,
+    "french": "C'est quelle direction ?",
+    "pronunciation": "say kel dee-rek-SYOHN",
+    "english": "Which direction is it?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 735,
+    "french": "Vous savez ou c'est ?",
+    "pronunciation": "voo sah-VAY oo SAY",
+    "english": "Do you know where it is?",
+    "category": "Giving & Asking Info"
+  },
+  {
+    "id": 736,
+    "french": "Je marche jusqu'au travail.",
+    "pronunciation": "zhuh MARSH zhoos-KOH trah-VAHY",
+    "english": "I walk to work.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 737,
+    "french": "Je prends le metro.",
+    "pronunciation": "zhuh PRAHN luh may-TROH",
+    "english": "I take the metro.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 738,
+    "french": "Je mange a la cantine.",
+    "pronunciation": "zhuh MAHNZH ah lah kahn-TEEN",
+    "english": "I eat at the canteen.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 739,
+    "french": "Je bois du cafe le matin.",
+    "pronunciation": "zhuh BWAH doo kah-FAY luh mah-TEHN",
+    "english": "I drink coffee in the morning.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 740,
+    "french": "Je fais une sieste.",
+    "pronunciation": "zhuh FAY oon SYEST",
+    "english": "I take a nap.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 741,
+    "french": "Je promene le chien.",
+    "pronunciation": "zhuh prom-EN luh SHYEHN",
+    "english": "I walk the dog.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 742,
+    "french": "J'arrose les plantes.",
+    "pronunciation": "zhah-ROHZ lay PLAHNT",
+    "english": "I water the plants.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 743,
+    "french": "Je fais la cuisine.",
+    "pronunciation": "zhuh FAY lah kwee-ZEEN",
+    "english": "I cook.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 744,
+    "french": "Je passe l'aspirateur.",
+    "pronunciation": "zhuh PAHS lahs-pee-rah-TUHR",
+    "english": "I vacuum.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 745,
+    "french": "Je descends la poubelle.",
+    "pronunciation": "zhuh day-SAHN lah poo-BEL",
+    "english": "I take out the trash.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 746,
+    "french": "Je lave la voiture.",
+    "pronunciation": "zhuh LAV lah vwah-TOOR",
+    "english": "I wash the car.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 747,
+    "french": "Je vais au lit tot.",
+    "pronunciation": "zhuh VAY oh LEE TOH",
+    "english": "I go to bed early.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 748,
+    "french": "Je me reveille sans reveil.",
+    "pronunciation": "zhuh muh ray-VAY sahn ray-VAY",
+    "english": "I wake up without an alarm.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 749,
+    "french": "Je prends une douche froide.",
+    "pronunciation": "zhuh PRAHN oon DOOSH FRWAHD",
+    "english": "I take a cold shower.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 750,
+    "french": "Je fais les courses en ligne.",
+    "pronunciation": "zhuh FAY lay KOORS ahn LEEN-yuh",
+    "english": "I shop online.",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 751,
+    "french": "Je peux.",
+    "pronunciation": "zhuh PUH",
+    "english": "I can.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 752,
+    "french": "Je ne peux pas.",
+    "pronunciation": "zhuh nuh PUH pah",
+    "english": "I cannot.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 753,
+    "french": "Je veux.",
+    "pronunciation": "zhuh VUH",
+    "english": "I want.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 754,
+    "french": "Je ne veux pas.",
+    "pronunciation": "zhuh nuh VUH pah",
+    "english": "I don't want to.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 755,
+    "french": "Je dois.",
+    "pronunciation": "zhuh DWAH",
+    "english": "I must.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 756,
+    "french": "Je sais.",
+    "pronunciation": "zhuh SAY",
+    "english": "I know.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 757,
+    "french": "Je ne sais pas.",
+    "pronunciation": "zhuh nuh SAY pah",
+    "english": "I don't know.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 758,
+    "french": "Il faut.",
+    "pronunciation": "eel FOH",
+    "english": "It is necessary.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 759,
+    "french": "C'est possible.",
+    "pronunciation": "say poh-SEE-bluh",
+    "english": "It's possible.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 760,
+    "french": "C'est impossible.",
+    "pronunciation": "say ehm-poh-SEE-bluh",
+    "english": "It's impossible.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 761,
+    "french": "J'ai besoin de...",
+    "pronunciation": "zhay buh-ZWEHN duh",
+    "english": "I need...",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 762,
+    "french": "Je pense que...",
+    "pronunciation": "zhuh PAHNS kuh",
+    "english": "I think that...",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 763,
+    "french": "Je crois que...",
+    "pronunciation": "zhuh KRWAH kuh",
+    "english": "I believe that...",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 764,
+    "french": "Je cherche...",
+    "pronunciation": "zhuh SHEHRSH",
+    "english": "I'm looking for...",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 765,
+    "french": "Je comprends.",
+    "pronunciation": "zhuh kohm-PRAHN",
+    "english": "I understand.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 766,
+    "french": "Je ne comprends pas.",
+    "pronunciation": "zhuh nuh kohm-PRAHN pah",
+    "english": "I don't understand.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 767,
+    "french": "J'aime.",
+    "pronunciation": "ZHEM",
+    "english": "I like.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 768,
+    "french": "Je n'aime pas.",
+    "pronunciation": "zhuh NEM pah",
+    "english": "I don't like.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 769,
+    "french": "Je deteste.",
+    "pronunciation": "zhuh day-TEST",
+    "english": "I hate.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 770,
+    "french": "J'adore.",
+    "pronunciation": "zhah-DOR",
+    "english": "I love.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 771,
+    "french": "Je prefere.",
+    "pronunciation": "zhuh pray-FEHR",
+    "english": "I prefer.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 772,
+    "french": "Il y a...",
+    "pronunciation": "eel ee AH",
+    "english": "There is / There are...",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 773,
+    "french": "Il n'y a pas de...",
+    "pronunciation": "eel nyah PAH duh",
+    "english": "There is no...",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 774,
+    "french": "Qu'est-ce que c'est ?",
+    "pronunciation": "kes kuh SAY",
+    "english": "What is this?",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 775,
+    "french": "Ca veut dire quoi ?",
+    "pronunciation": "sah VUH DEER kwah",
+    "english": "What does that mean?",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 776,
+    "french": "Comment on dit... ?",
+    "pronunciation": "koh-MAHN ohn DEE",
+    "english": "How do you say...?",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 777,
+    "french": "Bien sur !",
+    "pronunciation": "byehn SOOR",
+    "english": "Of course!",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 778,
+    "french": "Pas du tout.",
+    "pronunciation": "pah doo TOO",
+    "english": "Not at all.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 779,
+    "french": "Tout a fait.",
+    "pronunciation": "too tah FAY",
+    "english": "Absolutely.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 780,
+    "french": "En fait...",
+    "pronunciation": "ahn FAY",
+    "english": "Actually...",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 781,
+    "french": "Par exemple...",
+    "pronunciation": "par eg-ZAHM-pluh",
+    "english": "For example...",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 782,
+    "french": "D'accord.",
+    "pronunciation": "dah-KOR",
+    "english": "Okay / Agreed.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 783,
+    "french": "Pas encore.",
+    "pronunciation": "pah zahn-KOR",
+    "english": "Not yet.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 784,
+    "french": "Deja.",
+    "pronunciation": "day-ZHAH",
+    "english": "Already.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 785,
+    "french": "Toujours.",
+    "pronunciation": "too-ZHOOR",
+    "english": "Always.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 786,
+    "french": "Jamais.",
+    "pronunciation": "zhah-MAY",
+    "english": "Never.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 787,
+    "french": "Souvent.",
+    "pronunciation": "soo-VAHN",
+    "english": "Often.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 788,
+    "french": "Parfois.",
+    "pronunciation": "par-FWAH",
+    "english": "Sometimes.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 789,
+    "french": "Rarement.",
+    "pronunciation": "rar-MAHN",
+    "english": "Rarely.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 790,
+    "french": "Aussi.",
+    "pronunciation": "oh-SEE",
+    "english": "Also.",
+    "category": "Common Verbs & Phrases"
+  },
+  {
+    "id": 791,
+    "french": "Rouge, bleu, vert.",
+    "pronunciation": "ROOZH, BLUH, VEHR",
+    "english": "Red, blue, green.",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 792,
+    "french": "Jaune, orange, violet.",
+    "pronunciation": "ZHOHN, oh-RAHNZH, vyoh-LAY",
+    "english": "Yellow, orange, purple.",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 793,
+    "french": "Noir, blanc, gris.",
+    "pronunciation": "NWAHR, BLAHN, GREE",
+    "english": "Black, white, gray.",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 794,
+    "french": "Rose, marron, beige.",
+    "pronunciation": "ROHZ, mah-ROHN, BEZH",
+    "english": "Pink, brown, beige.",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 795,
+    "french": "Je porte un pantalon.",
+    "pronunciation": "zhuh PORT uhn pahn-tah-LOHN",
+    "english": "I'm wearing pants.",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 796,
+    "french": "Je porte une robe.",
+    "pronunciation": "zhuh PORT oon ROB",
+    "english": "I'm wearing a dress.",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 797,
+    "french": "Je porte un pull.",
+    "pronunciation": "zhuh PORT uhn POOL",
+    "english": "I'm wearing a sweater.",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 798,
+    "french": "Il porte un costume.",
+    "pronunciation": "eel PORT uhn kohs-TOOM",
+    "english": "He's wearing a suit.",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 799,
+    "french": "Elle porte une jupe.",
+    "pronunciation": "el PORT oon ZHOOP",
+    "english": "She's wearing a skirt.",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 800,
+    "french": "J'ai besoin de chaussures.",
+    "pronunciation": "zhay buh-ZWEHN duh shoh-SOOR",
+    "english": "I need shoes.",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 801,
+    "french": "Ou est mon manteau ?",
+    "pronunciation": "oo ay mohn mahn-TOH",
+    "english": "Where is my coat?",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 802,
+    "french": "Ce chapeau est joli.",
+    "pronunciation": "suh shah-POH ay zhoh-LEE",
+    "english": "This hat is pretty.",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 803,
+    "french": "J'aime ta chemise.",
+    "pronunciation": "ZHEM tah shuh-MEEZ",
+    "english": "I like your shirt.",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 804,
+    "french": "Ces lunettes sont nouvelles.",
+    "pronunciation": "say loo-NET sohn noo-VEL",
+    "english": "These glasses are new.",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 805,
+    "french": "Mon echarpe est bleue.",
+    "pronunciation": "mohn ay-SHARP ay BLUH",
+    "english": "My scarf is blue.",
+    "category": "Colors, Clothes & Appearance"
+  },
+  {
+    "id": 806,
+    "french": "Voici ma famille.",
+    "pronunciation": "vwah-SEE mah fah-MEE-yuh",
+    "english": "Here is my family.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 807,
+    "french": "Mon pere est medecin.",
+    "pronunciation": "mohn PEHR ay mayd-SEHN",
+    "english": "My father is a doctor.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 808,
+    "french": "Ma mere est professeur.",
+    "pronunciation": "mah MEHR ay proh-feh-SUHR",
+    "english": "My mother is a teacher.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 809,
+    "french": "Mon frere est plus age.",
+    "pronunciation": "mohn FREHR ay ploo ah-ZHAY",
+    "english": "My brother is older.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 810,
+    "french": "Ma soeur est plus jeune.",
+    "pronunciation": "mah SUHR ay ploo ZHUHN",
+    "english": "My sister is younger.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 811,
+    "french": "Mon grand-pere a quatre-vingts ans.",
+    "pronunciation": "mohn grahn PEHR ah kat-ruh VEHN ahn",
+    "english": "My grandfather is eighty.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 812,
+    "french": "Ma grand-mere cuisine tres bien.",
+    "pronunciation": "mah grahn MEHR kwee-ZEEN tray BYEHN",
+    "english": "My grandmother cooks very well.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 813,
+    "french": "Mon oncle habite a Lyon.",
+    "pronunciation": "mohn OHNK-luh ah-BEET ah lee-OHN",
+    "english": "My uncle lives in Lyon.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 814,
+    "french": "Ma tante est tres gentille.",
+    "pronunciation": "mah TAHNT ay tray zhahn-TEE-yuh",
+    "english": "My aunt is very kind.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 815,
+    "french": "Mon cousin a mon age.",
+    "pronunciation": "mohn koo-ZEHN ah mohn AHZH",
+    "english": "My cousin is my age.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 816,
+    "french": "Ma cousine etudie a Paris.",
+    "pronunciation": "mah koo-ZEEN ay-TOO-dee ah pah-REE",
+    "english": "My cousin (f) studies in Paris.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 817,
+    "french": "Mon neveu a trois ans.",
+    "pronunciation": "mohn nuh-VUH ah trwah AHN",
+    "english": "My nephew is three years old.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 818,
+    "french": "Ma niece est adorable.",
+    "pronunciation": "mah NYESS ay ah-doh-RAH-bluh",
+    "english": "My niece is adorable.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 819,
+    "french": "Mon mari travaille beaucoup.",
+    "pronunciation": "mohn mah-REE trah-VAHY boh-KOO",
+    "english": "My husband works a lot.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 820,
+    "french": "Ma femme est artiste.",
+    "pronunciation": "mah FAM ay ar-TEEST",
+    "english": "My wife is an artist.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 821,
+    "french": "Mon copain est etudiant.",
+    "pronunciation": "mohn koh-PEHN ay tay-too-DYAHN",
+    "english": "My boyfriend is a student.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 822,
+    "french": "Ma copine est sympa.",
+    "pronunciation": "mah koh-PEEN ay sehm-PAH",
+    "english": "My girlfriend is nice.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 823,
+    "french": "Nous avons un bebe.",
+    "pronunciation": "noo zah-VOHN uhn bay-BAY",
+    "english": "We have a baby.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 824,
+    "french": "C'est un garcon.",
+    "pronunciation": "say tuhn gar-SOHN",
+    "english": "It's a boy.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 825,
+    "french": "C'est une fille.",
+    "pronunciation": "say toon FEE-yuh",
+    "english": "It's a girl.",
+    "category": "Family & Relationships"
+  },
+  {
+    "id": 826,
+    "french": "Je pense que c'est bien.",
+    "pronunciation": "zhuh PAHNS kuh say BYEHN",
+    "english": "I think it's good.",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 827,
+    "french": "A mon avis...",
+    "pronunciation": "ah mohn ah-VEE",
+    "english": "In my opinion...",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 828,
+    "french": "Je suis d'accord avec toi.",
+    "pronunciation": "zhuh swee dah-KOR ah-VEK TWAH",
+    "english": "I agree with you.",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 829,
+    "french": "Je ne suis pas d'accord.",
+    "pronunciation": "zhuh nuh swee pah dah-KOR",
+    "english": "I don't agree.",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 830,
+    "french": "C'est une bonne idee.",
+    "pronunciation": "say toon bun ee-DAY",
+    "english": "It's a good idea.",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 831,
+    "french": "C'est une mauvaise idee.",
+    "pronunciation": "say toon moh-VEZ ee-DAY",
+    "english": "It's a bad idea.",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 832,
+    "french": "Je prefere le rouge.",
+    "pronunciation": "zhuh pray-FEHR luh ROOZH",
+    "english": "I prefer red.",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 833,
+    "french": "J'aime mieux le the.",
+    "pronunciation": "ZHEM myuh luh TAY",
+    "english": "I like tea better.",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 834,
+    "french": "Ca m'interesse.",
+    "pronunciation": "sah mehn-tay-RESS",
+    "english": "That interests me.",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 835,
+    "french": "Ca ne m'interesse pas.",
+    "pronunciation": "sah nuh mehn-tay-RESS pah",
+    "english": "That doesn't interest me.",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 836,
+    "french": "C'est genial !",
+    "pronunciation": "say zhay-NYAL",
+    "english": "It's great!",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 837,
+    "french": "C'est nul.",
+    "pronunciation": "say NOOL",
+    "english": "It's terrible.",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 838,
+    "french": "C'est normal.",
+    "pronunciation": "say nor-MAL",
+    "english": "It's normal.",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 839,
+    "french": "C'est bizarre.",
+    "pronunciation": "say bee-ZAR",
+    "english": "It's strange.",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 840,
+    "french": "Pourquoi pas ?",
+    "pronunciation": "poor-KWAH pah",
+    "english": "Why not?",
+    "category": "Opinions & Preferences"
+  },
+  {
+    "id": 841,
+    "french": "J'ai un chat.",
+    "pronunciation": "zhay uhn SHAH",
+    "english": "I have a cat.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 842,
+    "french": "J'ai un chien.",
+    "pronunciation": "zhay uhn SHYEHN",
+    "english": "I have a dog.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 843,
+    "french": "J'aime les animaux.",
+    "pronunciation": "ZHEM lay zah-nee-MOH",
+    "english": "I like animals.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 844,
+    "french": "Le jardin est beau.",
+    "pronunciation": "luh zhar-DEHN ay BOH",
+    "english": "The garden is beautiful.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 845,
+    "french": "Il y a beaucoup d'arbres.",
+    "pronunciation": "eel ee ah boh-KOO DAR-bruh",
+    "english": "There are many trees.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 846,
+    "french": "La mer est bleue.",
+    "pronunciation": "lah MEHR ay BLUH",
+    "english": "The sea is blue.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 847,
+    "french": "La montagne est haute.",
+    "pronunciation": "lah mohn-TAHN-yuh ay OHT",
+    "english": "The mountain is high.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 848,
+    "french": "La riviere est calme.",
+    "pronunciation": "lah ree-VYEHR ay KALM",
+    "english": "The river is calm.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 849,
+    "french": "Les fleurs sont jolies.",
+    "pronunciation": "lay FLUHR sohn zhoh-LEE",
+    "english": "The flowers are pretty.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 850,
+    "french": "J'aime la nature.",
+    "pronunciation": "ZHEM lah nah-TOOR",
+    "english": "I like nature.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 851,
+    "french": "Il y a un oiseau.",
+    "pronunciation": "eel ee ah uhn wah-ZOH",
+    "english": "There is a bird.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 852,
+    "french": "Le cheval est rapide.",
+    "pronunciation": "luh shuh-VAL ay rah-PEED",
+    "english": "The horse is fast.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 853,
+    "french": "Le poisson nage.",
+    "pronunciation": "luh pwah-SOHN NAZH",
+    "english": "The fish swims.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 854,
+    "french": "J'aime la campagne.",
+    "pronunciation": "ZHEM lah kahm-PAN-yuh",
+    "english": "I like the countryside.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 855,
+    "french": "La foret est tranquille.",
+    "pronunciation": "lah foh-RAY ay trahn-KEEL",
+    "english": "The forest is quiet.",
+    "category": "Nature & Animals"
+  },
+  {
+    "id": 856,
+    "french": "Pouvez-vous m'aider ?",
+    "pronunciation": "poo-VAY voo may-DAY",
+    "english": "Can you help me?",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 857,
+    "french": "Je ne comprends pas.",
+    "pronunciation": "zhuh nuh kohm-PRAHN pah",
+    "english": "I don't understand.",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 858,
+    "french": "Pouvez-vous repeter ?",
+    "pronunciation": "poo-VAY voo ray-pay-TAY",
+    "english": "Can you repeat?",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 859,
+    "french": "Pouvez-vous parler plus lentement ?",
+    "pronunciation": "poo-VAY voo par-LAY plew lahnt-MAHN",
+    "english": "Can you speak more slowly?",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 860,
+    "french": "Comment dit-on ca en francais ?",
+    "pronunciation": "koh-MAHN dee-TOHN sah ahn frahn-SAY",
+    "english": "How do you say that in French?",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 861,
+    "french": "Qu'est-ce que ca veut dire ?",
+    "pronunciation": "kess-kuh sah vuh DEER",
+    "english": "What does that mean?",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 862,
+    "french": "Pouvez-vous ecrire ca ?",
+    "pronunciation": "poo-VAY voo ay-KREER sah",
+    "english": "Can you write that down?",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 863,
+    "french": "Je suis perdu.",
+    "pronunciation": "zhuh SWEE pair-DOO",
+    "english": "I am lost.",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 864,
+    "french": "Je cherche de l'aide.",
+    "pronunciation": "zhuh SHAIRSH duh LED",
+    "english": "I'm looking for help.",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 865,
+    "french": "C'est correct ?",
+    "pronunciation": "say koh-REKT",
+    "english": "Is this correct?",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 866,
+    "french": "Vous pouvez m'expliquer ?",
+    "pronunciation": "voo poo-VAY mex-plee-KAY",
+    "english": "Can you explain to me?",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 867,
+    "french": "Je n'ai pas entendu.",
+    "pronunciation": "zhuh nay pah ahn-tahn-DOO",
+    "english": "I didn't hear.",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 868,
+    "french": "Pardon, vous avez dit quoi ?",
+    "pronunciation": "par-DOHN voo zah-VAY dee KWAH",
+    "english": "Sorry, what did you say?",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 869,
+    "french": "C'est la bonne direction ?",
+    "pronunciation": "say lah BOHN dee-rek-SYOHN",
+    "english": "Is this the right direction?",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 870,
+    "french": "Il y a quelqu'un qui parle anglais ?",
+    "pronunciation": "eel ee ah kel-KUHN kee PARL ahn-GLAY",
+    "english": "Is there someone who speaks English?",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 871,
+    "french": "J'ai besoin d'un traducteur.",
+    "pronunciation": "zhay buh-ZWAHN duhn trah-dook-TUHR",
+    "english": "I need a translator.",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 872,
+    "french": "Pouvez-vous me montrer ?",
+    "pronunciation": "poo-VAY voo muh mohn-TRAY",
+    "english": "Can you show me?",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 873,
+    "french": "Je ne sais pas comment dire ca.",
+    "pronunciation": "zhuh nuh SAY pah koh-MAHN DEER sah",
+    "english": "I don't know how to say that.",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 874,
+    "french": "Ca s'ecrit comment ?",
+    "pronunciation": "sah say-KREE koh-MAHN",
+    "english": "How is that spelled?",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 875,
+    "french": "Vous comprenez l'anglais ?",
+    "pronunciation": "voo kohm-pruh-NAY lahn-GLAY",
+    "english": "Do you understand English?",
+    "category": "Asking for Help"
+  },
+  {
+    "id": 876,
+    "french": "On se voit demain ?",
+    "pronunciation": "ohn suh VWAH duh-MEHN",
+    "english": "Shall we meet tomorrow?",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 877,
+    "french": "Je suis libre samedi.",
+    "pronunciation": "zhuh SWEE LEEB-ruh sahm-DEE",
+    "english": "I'm free on Saturday.",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 878,
+    "french": "A quelle heure on se retrouve ?",
+    "pronunciation": "ah kel UHR ohn suh ruh-TROOV",
+    "english": "What time shall we meet?",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 879,
+    "french": "Je vais etre en retard.",
+    "pronunciation": "zhuh VAY ET-ruh ahn ruh-TAR",
+    "english": "I'm going to be late.",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 880,
+    "french": "Je suis en avance.",
+    "pronunciation": "zhuh SWEE ahn ah-VAHNS",
+    "english": "I'm early.",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 881,
+    "french": "On peut reporter ?",
+    "pronunciation": "ohn PUH ruh-por-TAY",
+    "english": "Can we postpone?",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 882,
+    "french": "J'ai un rendez-vous a 14h.",
+    "pronunciation": "zhay uhn rahn-day-VOO ah kah-TORZ uhr",
+    "english": "I have an appointment at 2pm.",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 883,
+    "french": "Je dois annuler.",
+    "pronunciation": "zhuh DWAH ah-noo-LAY",
+    "english": "I have to cancel.",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 884,
+    "french": "On se donne rendez-vous ou ?",
+    "pronunciation": "ohn suh DOHN rahn-day-VOO OO",
+    "english": "Where shall we meet?",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 885,
+    "french": "Desolé, je ne peux pas ce soir.",
+    "pronunciation": "day-zoh-LAY zhuh nuh PUH pah suh SWAHR",
+    "english": "Sorry, I can't tonight.",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 886,
+    "french": "C'est confirme ?",
+    "pronunciation": "say kohn-feer-MAY",
+    "english": "Is it confirmed?",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 887,
+    "french": "Je te rappelle plus tard.",
+    "pronunciation": "zhuh tuh rah-PEL plew TAR",
+    "english": "I'll call you back later.",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 888,
+    "french": "On decale a vendredi ?",
+    "pronunciation": "ohn day-KAL ah vahn-druh-DEE",
+    "english": "Shall we move it to Friday?",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 889,
+    "french": "J'arrive dans dix minutes.",
+    "pronunciation": "zhah-REEV dahn DEE mee-NOOT",
+    "english": "I'll be there in ten minutes.",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 890,
+    "french": "Ca te va a midi ?",
+    "pronunciation": "sah tuh VAH ah mee-DEE",
+    "english": "Does noon work for you?",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 891,
+    "french": "Je reserve une table.",
+    "pronunciation": "zhuh ray-ZAIRV oon TAHBL",
+    "english": "I'll book a table.",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 892,
+    "french": "On fait ca la semaine prochaine.",
+    "pronunciation": "ohn FAY sah lah suh-MEN proh-SHEN",
+    "english": "Let's do that next week.",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 893,
+    "french": "Tu es disponible quand ?",
+    "pronunciation": "too ay dees-poh-NEEBL KAHN",
+    "english": "When are you available?",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 894,
+    "french": "Je confirme par message.",
+    "pronunciation": "zhuh kohn-FEERME par may-SAHZH",
+    "english": "I'll confirm by text.",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 895,
+    "french": "A tout a l'heure.",
+    "pronunciation": "ah too tah LUHR",
+    "english": "See you later (same day).",
+    "category": "Making Appointments"
+  },
+  {
+    "id": 896,
+    "french": "Je voudrais une baguette.",
+    "pronunciation": "zhuh voo-DRAY oon bah-GET",
+    "english": "I'd like a baguette.",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 897,
+    "french": "Un croissant au beurre, s'il vous plait.",
+    "pronunciation": "uhn kwah-SAHN oh BUHR seel voo PLAY",
+    "english": "A butter croissant, please.",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 898,
+    "french": "Ou sont les fruits ?",
+    "pronunciation": "OO sohn lay FRWEE",
+    "english": "Where are the fruits?",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 899,
+    "french": "C'est frais ?",
+    "pronunciation": "say FRAY",
+    "english": "Is it fresh?",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 900,
+    "french": "Je prends un kilo de pommes.",
+    "pronunciation": "zhuh PRAHN uhn kee-LOH duh POHM",
+    "english": "I'll take a kilo of apples.",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 901,
+    "french": "Avez-vous du pain complet ?",
+    "pronunciation": "ah-VAY voo doo PEHN kohm-PLAY",
+    "english": "Do you have whole wheat bread?",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 902,
+    "french": "Un sac, s'il vous plait.",
+    "pronunciation": "uhn SAHK seel voo PLAY",
+    "english": "A bag, please.",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 903,
+    "french": "Ou est le rayon fromage ?",
+    "pronunciation": "OO ay luh ray-YOHN froh-MAHZH",
+    "english": "Where is the cheese aisle?",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 904,
+    "french": "C'est bio ?",
+    "pronunciation": "say BEE-oh",
+    "english": "Is it organic?",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 905,
+    "french": "Je cherche du lait.",
+    "pronunciation": "zhuh SHAIRSH doo LAY",
+    "english": "I'm looking for milk.",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 906,
+    "french": "Il n'y en a plus ?",
+    "pronunciation": "eel nee ahn ah PLEW",
+    "english": "Is there none left?",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 907,
+    "french": "Combien coute le kilo ?",
+    "pronunciation": "kohm-BYEHN KOOT luh kee-LOH",
+    "english": "How much per kilo?",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 908,
+    "french": "Je paye par carte.",
+    "pronunciation": "zhuh PAY par KART",
+    "english": "I'm paying by card.",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 909,
+    "french": "Vous avez des oeufs ?",
+    "pronunciation": "voo zah-VAY day ZUH",
+    "english": "Do you have eggs?",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 910,
+    "french": "Un pain au chocolat, s'il vous plait.",
+    "pronunciation": "uhn PEHN oh shoh-koh-LAH seel voo PLAY",
+    "english": "A chocolate pastry, please.",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 911,
+    "french": "La date de peremption est quand ?",
+    "pronunciation": "lah DAHT duh pay-rahmp-SYOHN ay KAHN",
+    "english": "When is the expiry date?",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 912,
+    "french": "Ou est la caisse ?",
+    "pronunciation": "OO ay lah KESS",
+    "english": "Where is the checkout?",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 913,
+    "french": "Je voudrais gouter.",
+    "pronunciation": "zhuh voo-DRAY goo-TAY",
+    "english": "I'd like to taste.",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 914,
+    "french": "Avez-vous un programme de fidelite ?",
+    "pronunciation": "ah-VAY voo uhn proh-GRAHM duh fee-day-lee-TAY",
+    "english": "Do you have a loyalty program?",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 915,
+    "french": "Un ticket de caisse, s'il vous plait.",
+    "pronunciation": "uhn tee-KAY duh KESS seel voo PLAY",
+    "english": "A receipt, please.",
+    "category": "At the Supermarket"
+  },
+  {
+    "id": 916,
+    "french": "C'est tres joli.",
+    "pronunciation": "say TRAY zhoh-LEE",
+    "english": "It's very pretty.",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 917,
+    "french": "Tu cuisines tres bien.",
+    "pronunciation": "too kwee-ZEEN tray BYEHN",
+    "english": "You cook very well.",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 918,
+    "french": "J'aime bien ta maison.",
+    "pronunciation": "ZHEM byehn tah may-ZOHN",
+    "english": "I like your house.",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 919,
+    "french": "C'etait delicieux.",
+    "pronunciation": "say-TAY day-lee-SYUH",
+    "english": "It was delicious.",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 920,
+    "french": "Bravo !",
+    "pronunciation": "brah-VOH",
+    "english": "Well done!",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 921,
+    "french": "Felicitations !",
+    "pronunciation": "fay-lee-see-tah-SYOHN",
+    "english": "Congratulations!",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 922,
+    "french": "Tu parles bien francais.",
+    "pronunciation": "too PARL byehn frahn-SAY",
+    "english": "You speak French well.",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 923,
+    "french": "C'est gentil de ta part.",
+    "pronunciation": "say zhahn-TEE duh tah PAR",
+    "english": "That's kind of you.",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 924,
+    "french": "Merci pour l'invitation.",
+    "pronunciation": "mair-SEE poor lehn-vee-tah-SYOHN",
+    "english": "Thank you for the invitation.",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 925,
+    "french": "Tu as bon gout.",
+    "pronunciation": "too ah bohn GOO",
+    "english": "You have good taste.",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 926,
+    "french": "C'est magnifique !",
+    "pronunciation": "say mahn-yee-FEEK",
+    "english": "It's magnificent!",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 927,
+    "french": "Tu es tres aimable.",
+    "pronunciation": "too ay tray eh-MAHBL",
+    "english": "You are very kind.",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 928,
+    "french": "J'adore ton style.",
+    "pronunciation": "zhah-DOR tohn STEEL",
+    "english": "I love your style.",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 929,
+    "french": "C'est impressionnant.",
+    "pronunciation": "say ehm-pray-syoh-NAHN",
+    "english": "It's impressive.",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 930,
+    "french": "Quelle belle journee !",
+    "pronunciation": "kel BEL zhoor-NAY",
+    "english": "What a beautiful day!",
+    "category": "Compliments & Social"
+  },
+  {
+    "id": 931,
+    "french": "J'ai mange au restaurant hier.",
+    "pronunciation": "zhay mahn-ZHAY oh res-toh-RAHN ee-AIR",
+    "english": "I ate at a restaurant yesterday.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 932,
+    "french": "J'ai visite Paris.",
+    "pronunciation": "zhay vee-zee-TAY pah-REE",
+    "english": "I visited Paris.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 933,
+    "french": "J'ai achete un cadeau.",
+    "pronunciation": "zhay ahsh-TAY uhn kah-DOH",
+    "english": "I bought a gift.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 934,
+    "french": "Nous avons regarde un film.",
+    "pronunciation": "noo zah-VOHN ruh-gar-DAY uhn FEELM",
+    "english": "We watched a movie.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 935,
+    "french": "Elle a telephone ce matin.",
+    "pronunciation": "el ah tay-lay-foh-NAY suh mah-TEHN",
+    "english": "She called this morning.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 936,
+    "french": "Il a plu hier.",
+    "pronunciation": "eel ah PLOO ee-AIR",
+    "english": "It rained yesterday.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 937,
+    "french": "J'ai pris le bus.",
+    "pronunciation": "zhay PREE luh BOOS",
+    "english": "I took the bus.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 938,
+    "french": "On a bien ri.",
+    "pronunciation": "ohn ah byehn REE",
+    "english": "We laughed a lot.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 939,
+    "french": "J'ai dormi tard.",
+    "pronunciation": "zhay dor-MEE TAR",
+    "english": "I slept late.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 940,
+    "french": "Ils ont joue au foot.",
+    "pronunciation": "eel zohn zhoo-AY oh FOOT",
+    "english": "They played football.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 941,
+    "french": "J'ai parle avec mon professeur.",
+    "pronunciation": "zhay par-LAY ah-VEK mohn proh-feh-SUHR",
+    "english": "I spoke with my teacher.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 942,
+    "french": "Nous avons cuisine ensemble.",
+    "pronunciation": "noo zah-VOHN kwee-zee-NAY ahn-SAHM-bluh",
+    "english": "We cooked together.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 943,
+    "french": "J'ai fini mes devoirs.",
+    "pronunciation": "zhay fee-NEE may duh-VWAHR",
+    "english": "I finished my homework.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 944,
+    "french": "Tu as passe un bon week-end ?",
+    "pronunciation": "too ah pah-SAY uhn bohn week-END",
+    "english": "Did you have a good weekend?",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 945,
+    "french": "J'ai trouve un bon restaurant.",
+    "pronunciation": "zhay troo-VAY uhn bohn res-toh-RAHN",
+    "english": "I found a good restaurant.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 946,
+    "french": "On a fait une promenade.",
+    "pronunciation": "ohn ah FAY oon prohm-NAHD",
+    "english": "We went for a walk.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 947,
+    "french": "J'ai commence a apprendre le francais.",
+    "pronunciation": "zhay koh-mahn-SAY ah ah-PRAHNDR luh frahn-SAY",
+    "english": "I started learning French.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 948,
+    "french": "Vous avez aime ?",
+    "pronunciation": "voo zah-VAY eh-MAY",
+    "english": "Did you enjoy it?",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 949,
+    "french": "Ca m'a plu.",
+    "pronunciation": "sah mah PLOO",
+    "english": "I liked it.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 950,
+    "french": "Je n'ai pas eu le temps.",
+    "pronunciation": "zhuh nay pah OO luh TAHN",
+    "english": "I didn't have time.",
+    "category": "Talking About the Past"
+  },
+  {
+    "id": 951,
+    "french": "Je vais voyager cet ete.",
+    "pronunciation": "zhuh VAY vwah-yah-ZHAY set ay-TAY",
+    "english": "I'm going to travel this summer.",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 952,
+    "french": "Je vais apprendre le francais.",
+    "pronunciation": "zhuh VAY ah-PRAHNDR luh frahn-SAY",
+    "english": "I'm going to learn French.",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 953,
+    "french": "Nous allons demenager.",
+    "pronunciation": "noo zah-LOHN day-may-nah-ZHAY",
+    "english": "We're going to move.",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 954,
+    "french": "Il va pleuvoir demain.",
+    "pronunciation": "eel vah pluh-VWAHR duh-MEHN",
+    "english": "It's going to rain tomorrow.",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 955,
+    "french": "Je vais chercher du travail.",
+    "pronunciation": "zhuh VAY shair-SHAY doo trah-VAHY",
+    "english": "I'm going to look for work.",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 956,
+    "french": "On va feter mon anniversaire.",
+    "pronunciation": "ohn vah fay-TAY mohn ah-nee-vair-SAIR",
+    "english": "We're going to celebrate my birthday.",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 957,
+    "french": "Je vais prendre des vacances.",
+    "pronunciation": "zhuh VAY PRAHNDR day vah-KAHNS",
+    "english": "I'm going to take a vacation.",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 958,
+    "french": "Elle va commencer un nouveau travail.",
+    "pronunciation": "el vah koh-mahn-SAY uhn noo-VOH trah-VAHY",
+    "english": "She's going to start a new job.",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 959,
+    "french": "Nous allons visiter le musee.",
+    "pronunciation": "noo zah-LOHN vee-zee-TAY luh moo-ZAY",
+    "english": "We're going to visit the museum.",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 960,
+    "french": "Je vais cuisiner ce soir.",
+    "pronunciation": "zhuh VAY kwee-zee-NAY suh SWAHR",
+    "english": "I'm going to cook tonight.",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 961,
+    "french": "Tu vas venir a la fete ?",
+    "pronunciation": "too VAH vuh-NEER ah lah FET",
+    "english": "Are you going to come to the party?",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 962,
+    "french": "On va regarder le match.",
+    "pronunciation": "ohn VAH ruh-gar-DAY luh MAHCH",
+    "english": "We're going to watch the game.",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 963,
+    "french": "Je vais me coucher tot.",
+    "pronunciation": "zhuh VAY muh koo-SHAY TOH",
+    "english": "I'm going to go to bed early.",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 964,
+    "french": "Ils vont arriver a huit heures.",
+    "pronunciation": "eel vohn ah-ree-VAY ah weet UHR",
+    "english": "They're going to arrive at eight.",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 965,
+    "french": "Je vais acheter un nouveau telephone.",
+    "pronunciation": "zhuh VAY ahsh-TAY uhn noo-VOH tay-lay-FOHN",
+    "english": "I'm going to buy a new phone.",
+    "category": "Talking About the Future"
+  },
+  {
+    "id": 966,
+    "french": "Ouvrez vos livres.",
+    "pronunciation": "oo-VRAY voh LEEV-ruh",
+    "english": "Open your books.",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 967,
+    "french": "Ecoutez bien.",
+    "pronunciation": "ay-koo-TAY byehn",
+    "english": "Listen carefully.",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 968,
+    "french": "Repetez apres moi.",
+    "pronunciation": "ray-pay-TAY ah-PRAY mwah",
+    "english": "Repeat after me.",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 969,
+    "french": "Levez la main.",
+    "pronunciation": "luh-VAY lah MEHN",
+    "english": "Raise your hand.",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 970,
+    "french": "Vous avez des questions ?",
+    "pronunciation": "voo zah-VAY day kes-TYOHN",
+    "english": "Do you have any questions?",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 971,
+    "french": "Je n'ai pas compris l'exercice.",
+    "pronunciation": "zhuh nay pah kohm-PREE lek-zair-SEES",
+    "english": "I didn't understand the exercise.",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 972,
+    "french": "C'est pour quand le devoir ?",
+    "pronunciation": "say poor KAHN luh duh-VWAHR",
+    "english": "When is the homework due?",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 973,
+    "french": "Pouvez-vous epeler ce mot ?",
+    "pronunciation": "poo-VAY voo ay-puh-LAY suh MOH",
+    "english": "Can you spell that word?",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 974,
+    "french": "Je dois reviser pour l'examen.",
+    "pronunciation": "zhuh DWAH ruh-vee-ZAY poor lek-zah-MEHN",
+    "english": "I need to study for the exam.",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 975,
+    "french": "On travaille en groupe.",
+    "pronunciation": "ohn trah-VAHY ahn GROOP",
+    "english": "We're working in groups.",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 976,
+    "french": "J'ai oublie mon cahier.",
+    "pronunciation": "zhay oo-blee-AY mohn kah-YAY",
+    "english": "I forgot my notebook.",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 977,
+    "french": "Quel est le sujet d'aujourd'hui ?",
+    "pronunciation": "kel ay luh soo-ZHAY doh-zhoor-DWEE",
+    "english": "What's today's topic?",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 978,
+    "french": "C'est note ?",
+    "pronunciation": "say noh-TAY",
+    "english": "Is it graded?",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 979,
+    "french": "Je suis absent demain.",
+    "pronunciation": "zhuh SWEE ahb-SAHN duh-MEHN",
+    "english": "I'm absent tomorrow.",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 980,
+    "french": "La lecon est difficile.",
+    "pronunciation": "lah luh-SOHN ay dee-fee-SEEL",
+    "english": "The lesson is difficult.",
+    "category": "Classroom & Study"
+  },
+  {
+    "id": 981,
+    "french": "J'ai faim.",
+    "pronunciation": "zhay FEHM",
+    "english": "I'm hungry.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 982,
+    "french": "J'ai soif.",
+    "pronunciation": "zhay SWAHF",
+    "english": "I'm thirsty.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 983,
+    "french": "J'ai froid.",
+    "pronunciation": "zhay FRWAH",
+    "english": "I'm cold.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 984,
+    "french": "J'ai chaud.",
+    "pronunciation": "zhay SHOH",
+    "english": "I'm hot.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 985,
+    "french": "J'ai sommeil.",
+    "pronunciation": "zhay soh-MAY",
+    "english": "I'm sleepy.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 986,
+    "french": "J'ai envie d'un cafe.",
+    "pronunciation": "zhay ahn-VEE duhn kah-FAY",
+    "english": "I feel like having a coffee.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 987,
+    "french": "Je prefere le the.",
+    "pronunciation": "zhuh pray-FAIR luh TAY",
+    "english": "I prefer tea.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 988,
+    "french": "Je n'ai besoin de rien.",
+    "pronunciation": "zhuh nay buh-ZWAHN duh RYEHN",
+    "english": "I don't need anything.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 989,
+    "french": "J'ai besoin de me reposer.",
+    "pronunciation": "zhay buh-ZWAHN duh muh ruh-poh-ZAY",
+    "english": "I need to rest.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 990,
+    "french": "Ca me plait beaucoup.",
+    "pronunciation": "sah muh PLAY boh-KOO",
+    "english": "I like it a lot.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 991,
+    "french": "Ca ne me plait pas.",
+    "pronunciation": "sah nuh muh PLAY pah",
+    "english": "I don't like it.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 992,
+    "french": "J'ai besoin d'aide.",
+    "pronunciation": "zhay buh-ZWAHN DED",
+    "english": "I need help.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 993,
+    "french": "Je voudrais quelque chose de chaud.",
+    "pronunciation": "zhuh voo-DRAY kel-kuh SHOHZ duh SHOH",
+    "english": "I'd like something warm.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 994,
+    "french": "Je prefere rester a la maison.",
+    "pronunciation": "zhuh pray-FAIR res-TAY ah lah may-ZOHN",
+    "english": "I prefer to stay home.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 995,
+    "french": "J'ai besoin de dormir.",
+    "pronunciation": "zhay buh-ZWAHN duh dor-MEER",
+    "english": "I need to sleep.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 996,
+    "french": "Je voudrais un verre d'eau.",
+    "pronunciation": "zhuh voo-DRAY uhn VAIR DOH",
+    "english": "I'd like a glass of water.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 997,
+    "french": "J'ai envie de sortir.",
+    "pronunciation": "zhay ahn-VEE duh sor-TEER",
+    "english": "I feel like going out.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 998,
+    "french": "Je prefere le chocolat.",
+    "pronunciation": "zhuh pray-FAIR luh shoh-koh-LAH",
+    "english": "I prefer chocolate.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 999,
+    "french": "J'ai besoin de temps.",
+    "pronunciation": "zhay buh-ZWAHN duh TAHN",
+    "english": "I need time.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 1000,
+    "french": "Ca me convient.",
+    "pronunciation": "sah muh kohn-VYEHN",
+    "english": "That suits me.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 1001,
+    "french": "Je n'ai pas de preference.",
+    "pronunciation": "zhuh nay pah duh pray-fay-RAHNS",
+    "english": "I have no preference.",
+    "category": "Expressing Needs"
+  },
+  {
+    "id": 1002,
+    "french": "J'ai tres envie de voyager.",
+    "pronunciation": "zhay tray ahn-VEE duh vwah-yah-ZHAY",
+    "english": "I really want to travel.",
+    "category": "Expressing Needs"
+  }
+]

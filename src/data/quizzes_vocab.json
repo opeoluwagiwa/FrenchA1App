@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "Q1. What does 'bonjour' mean?",
+    "options": [
+      "a) Goodbye",
+      "b) Good morning / Hello",
+      "c) Good night",
+      "d) See you later"
+    ],
+    "answer": "b) Good morning / Hello"
+  },
+  {
+    "question": "Q2. How do you say 'thank you' in French?",
+    "options": [
+      "a) Pardon",
+      "b) S'il vous plaît",
+      "c) Merci",
+      "d) De rien"
+    ],
+    "answer": "c) Merci"
+  },
+  {
+    "question": "Q3. 'La mère' means:",
+    "options": [
+      "a) The father",
+      "b) The sea",
+      "c) The mother",
+      "d) The mayor"
+    ],
+    "answer": "c) The mother"
+  },
+  {
+    "question": "Q4. What is 'le petit déjeuner'?",
+    "options": [
+      "a) Dinner",
+      "b) Lunch",
+      "c) Snack",
+      "d) Breakfast"
+    ],
+    "answer": "d) Breakfast"
+  },
+  {
+    "question": "Q5. Which color is 'bleu'?",
+    "options": [
+      "a) Red",
+      "b) Green",
+      "c) Blue",
+      "d) Yellow"
+    ],
+    "answer": "c) Blue"
+  },
+  {
+    "question": "Q6. 'Je voudrais' means:",
+    "options": [
+      "a) I need",
+      "b) I would like",
+      "c) I can",
+      "d) I must"
+    ],
+    "answer": "b) I would like"
+  },
+  {
+    "question": "Q7. What day is 'mercredi'?",
+    "options": [
+      "a) Monday",
+      "b) Tuesday",
+      "c) Wednesday",
+      "d) Thursday"
+    ],
+    "answer": "c) Wednesday"
+  },
+  {
+    "question": "Q8. 'Le chien' is:",
+    "options": [
+      "a) The cat",
+      "b) The bird",
+      "c) The horse",
+      "d) The dog"
+    ],
+    "answer": "d) The dog"
+  },
+  {
+    "question": "Q9. How do you say 'the house'?",
+    "options": [
+      "a) La cuisine",
+      "b) La maison",
+      "c) La chambre",
+      "d) Le salon"
+    ],
+    "answer": "b) La maison"
+  },
+  {
+    "question": "Q10. 'Avoir' means:",
+    "options": [
+      "a) To be",
+      "b) To go",
+      "c) To have",
+      "d) To do"
+    ],
+    "answer": "c) To have"
+  },
+  {
+    "question": "Q11. What is 'l'eau'?",
+    "options": [
+      "a) Fire",
+      "b) Air",
+      "c) Earth",
+      "d) Water"
+    ],
+    "answer": "d) Water"
+  },
+  {
+    "question": "Q12. 'Dimanche' is:",
+    "options": [
+      "a) Saturday",
+      "b) Sunday",
+      "c) Friday",
+      "d) Monday"
+    ],
+    "answer": "b) Sunday"
+  },
+  {
+    "question": "Q13. 'Rouge' means:",
+    "options": [
+      "a) Blue",
+      "b) Green",
+      "c) Red",
+      "d) Yellow"
+    ],
+    "answer": "c) Red"
+  },
+  {
+    "question": "Q14. How do you say 'I am hungry'?",
+    "options": [
+      "a) J'ai soif",
+      "b) J'ai faim",
+      "c) J'ai froid",
+      "d) J'ai peur"
+    ],
+    "answer": "b) J'ai faim"
+  },
+  {
+    "question": "Q15. 'Le livre' means:",
+    "options": [
+      "a) The bookshelf",
+      "b) The library",
+      "c) The book",
+      "d) The letter"
+    ],
+    "answer": "c) The book"
+  },
+  {
+    "question": "Q16. What is 'la gare'?",
+    "options": [
+      "a) The airport",
+      "b) The bus stop",
+      "c) The train station",
+      "d) The parking lot"
+    ],
+    "answer": "c) The train station"
+  },
+  {
+    "question": "Q17. 'Parler' means:",
+    "options": [
+      "a) To walk",
+      "b) To eat",
+      "c) To speak",
+      "d) To sleep"
+    ],
+    "answer": "c) To speak"
+  },
+  {
+    "question": "Q18. Which month is 'janvier'?",
+    "options": [
+      "a) June",
+      "b) July",
+      "c) January",
+      "d) March"
+    ],
+    "answer": "c) January"
+  },
+  {
+    "question": "Q19. 'Grand' means:",
+    "options": [
+      "a) Small",
+      "b) Young",
+      "c) Old",
+      "d) Big / Tall"
+    ],
+    "answer": "d) Big / Tall"
+  },
+  {
+    "question": "Q20. How do you say 'goodbye'?",
+    "options": [
+      "a) Bonjour",
+      "b) Salut",
+      "c) Au revoir",
+      "d) Bonsoir"
+    ],
+    "answer": "c) Au revoir"
+  },
+  {
+    "question": "Q21. 'La rue' means:",
+    "options": [
+      "a) The park",
+      "b) The bridge",
+      "c) The street",
+      "d) The building"
+    ],
+    "answer": "c) The street"
+  },
+  {
+    "question": "Q22. What does 'manger' mean?",
+    "options": [
+      "a) To drink",
+      "b) To eat",
+      "c) To cook",
+      "d) To sleep"
+    ],
+    "answer": "b) To eat"
+  },
+  {
+    "question": "Q23. 'Nous sommes' means:",
+    "options": [
+      "a) We have",
+      "b) They are",
+      "c) We are",
+      "d) You are"
+    ],
+    "answer": "c) We are"
+  },
+  {
+    "question": "Q24. 'La pharmacie' is:",
+    "options": [
+      "a) The hospital",
+      "b) The pharmacy",
+      "c) The doctor",
+      "d) The clinic"
+    ],
+    "answer": "b) The pharmacy"
+  },
+  {
+    "question": "Q25. How do you say 'the car'?",
+    "options": [
+      "a) Le bus",
+      "b) Le vélo",
+      "c) La voiture",
+      "d) Le train"
+    ],
+    "answer": "c) La voiture"
+  },
+  {
+    "question": "Q26. 'Froid' means:",
+    "options": [
+      "a) Hot",
+      "b) Warm",
+      "c) Cool",
+      "d) Cold"
+    ],
+    "answer": "d) Cold"
+  },
+  {
+    "question": "Q27. What is 'le fromage'?",
+    "options": [
+      "a) Bread",
+      "b) Butter",
+      "c) Cheese",
+      "d) Meat"
+    ],
+    "answer": "c) Cheese"
+  },
+  {
+    "question": "Q28. 'Aimer' means:",
+    "options": [
+      "a) To hate",
+      "b) To love / to like",
+      "c) To prefer",
+      "d) To choose"
+    ],
+    "answer": "b) To love / to like"
+  },
+  {
+    "question": "Q29. 'Les chaussures' are:",
+    "options": [
+      "a) Socks",
+      "b) Pants",
+      "c) Shoes",
+      "d) Hats"
+    ],
+    "answer": "c) Shoes"
+  },
+  {
+    "question": "Q30. Which is 'the kitchen'?",
+    "options": [
+      "a) La chambre",
+      "b) Le salon",
+      "c) La cuisine",
+      "d) Le jardin"
+    ],
+    "answer": "c) La cuisine"
+  },
+  {
+    "question": "Q31. 'Il pleut' means:",
+    "options": [
+      "a) It's sunny",
+      "b) It's snowing",
+      "c) It's raining",
+      "d) It's windy"
+    ],
+    "answer": "c) It's raining"
+  },
+  {
+    "question": "Q32. 'Boire' means:",
+    "options": [
+      "a) To eat",
+      "b) To drink",
+      "c) To cook",
+      "d) To sleep"
+    ],
+    "answer": "b) To drink"
+  },
+  {
+    "question": "Q33. What does 'travailler' mean?",
+    "options": [
+      "a) To travel",
+      "b) To work",
+      "c) To study",
+      "d) To play"
+    ],
+    "answer": "b) To work"
+  },
+  {
+    "question": "Q34. 'Le médecin' is:",
+    "options": [
+      "a) The nurse",
+      "b) The pharmacist",
+      "c) The doctor",
+      "d) The dentist"
+    ],
+    "answer": "c) The doctor"
+  },
+  {
+    "question": "Q35. 'Aujourd'hui' means:",
+    "options": [
+      "a) Yesterday",
+      "b) Tomorrow",
+      "c) Today",
+      "d) Now"
+    ],
+    "answer": "c) Today"
+  },
+  {
+    "question": "Q36. How do you say 'I don't understand'?",
+    "options": [
+      "a) Je ne sais pas",
+      "b) Je ne comprends pas",
+      "c) Je suis désolé",
+      "d) Je ne parle pas"
+    ],
+    "answer": "b) Je ne comprends pas"
+  },
+  {
+    "question": "Q37. 'Le soleil' is:",
+    "options": [
+      "a) The moon",
+      "b) The star",
+      "c) The sun",
+      "d) The cloud"
+    ],
+    "answer": "c) The sun"
+  },
+  {
+    "question": "Q38. What is 'la fille'?",
+    "options": [
+      "a) The son",
+      "b) The brother",
+      "c) The daughter / girl",
+      "d) The mother"
+    ],
+    "answer": "c) The daughter / girl"
+  },
+  {
+    "question": "Q39. 'Dormir' means:",
+    "options": [
+      "a) To run",
+      "b) To walk",
+      "c) To sleep",
+      "d) To eat"
+    ],
+    "answer": "c) To sleep"
+  },
+  {
+    "question": "Q40. 'Cher' means:",
+    "options": [
+      "a) Cheap",
+      "b) Free",
+      "c) Expensive",
+      "d) New"
+    ],
+    "answer": "c) Expensive"
+  },
+  {
+    "question": "Q41. Which is Tuesday?",
+    "options": [
+      "a) Lundi",
+      "b) Mardi",
+      "c) Jeudi",
+      "d) Vendredi"
+    ],
+    "answer": "b) Mardi"
+  },
+  {
+    "question": "Q42. 'Le pain' is:",
+    "options": [
+      "a) Rice",
+      "b) Pasta",
+      "c) Cake",
+      "d) Bread"
+    ],
+    "answer": "d) Bread"
+  },
+  {
+    "question": "Q43. 'Écrire' means:",
+    "options": [
+      "a) To read",
+      "b) To write",
+      "c) To speak",
+      "d) To listen"
+    ],
+    "answer": "b) To write"
+  },
+  {
+    "question": "Q44. What is 'la plage'?",
+    "options": [
+      "a) The mountain",
+      "b) The forest",
+      "c) The beach",
+      "d) The lake"
+    ],
+    "answer": "c) The beach"
+  },
+  {
+    "question": "Q45. 'Petit' means:",
+    "options": [
+      "a) Big",
+      "b) Tall",
+      "c) Small / Short",
+      "d) Long"
+    ],
+    "answer": "c) Small / Short"
+  },
+  {
+    "question": "Q46. How do you say 'where is...'?",
+    "options": [
+      "a) Qu'est-ce que c'est",
+      "b) Où est...",
+      "c) C'est combien",
+      "d) Comment"
+    ],
+    "answer": "b) Où est..."
+  },
+  {
+    "question": "Q47. 'La fenêtre' is:",
+    "options": [
+      "a) The door",
+      "b) The wall",
+      "c) The window",
+      "d) The roof"
+    ],
+    "answer": "c) The window"
+  },
+  {
+    "question": "Q48. What does 'acheter' mean?",
+    "options": [
+      "a) To sell",
+      "b) To buy",
+      "c) To pay",
+      "d) To give"
+    ],
+    "answer": "b) To buy"
+  },
+  {
+    "question": "Q49. 'Heureux' means:",
+    "options": [
+      "a) Sad",
+      "b) Angry",
+      "c) Nervous",
+      "d) Happy"
+    ],
+    "answer": "d) Happy"
+  },
+  {
+    "question": "Q50. 'Le vélo' is:",
+    "options": [
+      "a) The car",
+      "b) The bicycle",
+      "c) The bus",
+      "d) The boat"
+    ],
+    "answer": "b) The bicycle"
+  },
+  {
+    "question": "Q51. 'Commencer' means:",
+    "options": [
+      "a) To finish",
+      "b) To begin",
+      "c) To continue",
+      "d) To stop"
+    ],
+    "answer": "b) To begin"
+  },
+  {
+    "question": "Q52. What is 'le musée'?",
+    "options": [
+      "a) The cinema",
+      "b) The theater",
+      "c) The museum",
+      "d) The library"
+    ],
+    "answer": "c) The museum"
+  },
+  {
+    "question": "Q53. 'Avec' means:",
+    "options": [
+      "a) Without",
+      "b) For",
+      "c) With",
+      "d) Against"
+    ],
+    "answer": "c) With"
+  },
+  {
+    "question": "Q54. How do you say 'the weather'?",
+    "options": [
+      "a) Le monde",
+      "b) Le temps",
+      "c) Le moment",
+      "d) La vie"
+    ],
+    "answer": "b) Le temps"
+  },
+  {
+    "question": "Q55. 'Chercher' means:",
+    "options": [
+      "a) To find",
+      "b) To lose",
+      "c) To look for",
+      "d) To keep"
+    ],
+    "answer": "c) To look for"
+  },
+  {
+    "question": "Q56. 'La boulangerie' is:",
+    "options": [
+      "a) The butcher shop",
+      "b) The bakery",
+      "c) The pastry shop",
+      "d) The supermarket"
+    ],
+    "answer": "b) The bakery"
+  },
+  {
+    "question": "Q57. What does 'venir' mean?",
+    "options": [
+      "a) To go",
+      "b) To come",
+      "c) To leave",
+      "d) To return"
+    ],
+    "answer": "b) To come"
+  },
+  {
+    "question": "Q58. 'Noir' means:",
+    "options": [
+      "a) White",
+      "b) Gray",
+      "c) Brown",
+      "d) Black"
+    ],
+    "answer": "d) Black"
+  },
+  {
+    "question": "Q59. 'La clé' is:",
+    "options": [
+      "a) The lock",
+      "b) The door",
+      "c) The key",
+      "d) The gate"
+    ],
+    "answer": "c) The key"
+  },
+  {
+    "question": "Q60. 'Facile' means:",
+    "options": [
+      "a) Difficult",
+      "b) Easy",
+      "c) Fast",
+      "d) Slow"
+    ],
+    "answer": "b) Easy"
+  },
+  {
+    "question": "Q61. How do you say 'the airplane'?",
+    "options": [
+      "a) Le bateau",
+      "b) Le bus",
+      "c) L'avion",
+      "d) Le taxi"
+    ],
+    "answer": "c) L'avion"
+  },
+  {
+    "question": "Q62. 'Souvent' means:",
+    "options": [
+      "a) Always",
+      "b) Never",
+      "c) Sometimes",
+      "d) Often"
+    ],
+    "answer": "d) Often"
+  },
+  {
+    "question": "Q63. What is 'le billet'?",
+    "options": [
+      "a) The passport",
+      "b) The suitcase",
+      "c) The ticket",
+      "d) The map"
+    ],
+    "answer": "c) The ticket"
+  },
+  {
+    "question": "Q64. 'Ouvrir' means:",
+    "options": [
+      "a) To close",
+      "b) To break",
+      "c) To open",
+      "d) To push"
+    ],
+    "answer": "c) To open"
+  },
+  {
+    "question": "Q65. 'La montagne' is:",
+    "options": [
+      "a) The beach",
+      "b) The river",
+      "c) The mountain",
+      "d) The forest"
+    ],
+    "answer": "c) The mountain"
+  },
+  {
+    "question": "Q66. 'Triste' means:",
+    "options": [
+      "a) Happy",
+      "b) Angry",
+      "c) Tired",
+      "d) Sad"
+    ],
+    "answer": "d) Sad"
+  },
+  {
+    "question": "Q67. How do you say 'I am' in French?",
+    "options": [
+      "a) J'ai",
+      "b) Je suis",
+      "c) Je fais",
+      "d) Je vais"
+    ],
+    "answer": "b) Je suis"
+  },
+  {
+    "question": "Q68. 'Le chat' is:",
+    "options": [
+      "a) The dog",
+      "b) The bird",
+      "c) The cat",
+      "d) The fish"
+    ],
+    "answer": "c) The cat"
+  },
+  {
+    "question": "Q69. What does 'attendre' mean?",
+    "options": [
+      "a) To listen",
+      "b) To attend",
+      "c) To wait",
+      "d) To enter"
+    ],
+    "answer": "c) To wait"
+  },
+  {
+    "question": "Q70. 'Les vacances' means:",
+    "options": [
+      "a) The weekend",
+      "b) The holiday / vacation",
+      "c) The party",
+      "d) The trip"
+    ],
+    "answer": "b) The holiday / vacation"
+  },
+  {
+    "question": "Q71. 'Sans' means:",
+    "options": [
+      "a) With",
+      "b) Under",
+      "c) Without",
+      "d) For"
+    ],
+    "answer": "c) Without"
+  },
+  {
+    "question": "Q72. What is 'l'hôpital'?",
+    "options": [
+      "a) The hotel",
+      "b) The hospital",
+      "c) The pharmacy",
+      "d) The office"
+    ],
+    "answer": "b) The hospital"
+  },
+  {
+    "question": "Q73. 'Regarder' means:",
+    "options": [
+      "a) To listen",
+      "b) To watch / to look at",
+      "c) To touch",
+      "d) To feel"
+    ],
+    "answer": "b) To watch / to look at"
+  },
+  {
+    "question": "Q74. Which number is 'quinze'?",
+    "options": [
+      "a) 14",
+      "b) 15",
+      "c) 16",
+      "d) 50"
+    ],
+    "answer": "b) 15"
+  },
+  {
+    "question": "Q75. 'La pluie' is:",
+    "options": [
+      "a) Snow",
+      "b) Wind",
+      "c) Rain",
+      "d) Cloud"
+    ],
+    "answer": "c) Rain"
+  },
+  {
+    "question": "Q76. 'Nouveau' means:",
+    "options": [
+      "a) Old",
+      "b) Young",
+      "c) New",
+      "d) Same"
+    ],
+    "answer": "c) New"
+  },
+  {
+    "question": "Q77. How do you say 'the office'?",
+    "options": [
+      "a) Le travail",
+      "b) Le bureau",
+      "c) L'entreprise",
+      "d) Le métier"
+    ],
+    "answer": "b) Le bureau"
+  },
+  {
+    "question": "Q78. 'Envoyer' means:",
+    "options": [
+      "a) To receive",
+      "b) To invite",
+      "c) To send",
+      "d) To return"
+    ],
+    "answer": "c) To send"
+  },
+  {
+    "question": "Q79. 'Le jardin' is:",
+    "options": [
+      "a) The park",
+      "b) The garden",
+      "c) The forest",
+      "d) The field"
+    ],
+    "answer": "b) The garden"
+  },
+  {
+    "question": "Q80. What does 'vouloir' mean?",
+    "options": [
+      "a) To be able to",
+      "b) To have to",
+      "c) To know",
+      "d) To want"
+    ],
+    "answer": "d) To want"
+  },
+  {
+    "question": "Q81. 'Blanc' means:",
+    "options": [
+      "a) Black",
+      "b) Blue",
+      "c) Brown",
+      "d) White"
+    ],
+    "answer": "d) White"
+  },
+  {
+    "question": "Q82. 'Le repas' is:",
+    "options": [
+      "a) The recipe",
+      "b) The meal",
+      "c) The menu",
+      "d) The table"
+    ],
+    "answer": "b) The meal"
+  },
+  {
+    "question": "Q83. 'Marcher' means:",
+    "options": [
+      "a) To run",
+      "b) To drive",
+      "c) To walk",
+      "d) To fly"
+    ],
+    "answer": "c) To walk"
+  },
+  {
+    "question": "Q84. What is 'le pont'?",
+    "options": [
+      "a) The building",
+      "b) The bridge",
+      "c) The road",
+      "d) The square"
+    ],
+    "answer": "b) The bridge"
+  },
+  {
+    "question": "Q85. 'Il fait beau' means:",
+    "options": [
+      "a) It's cold",
+      "b) It's hot",
+      "c) It's nice weather",
+      "d) It's raining"
+    ],
+    "answer": "c) It's nice weather"
+  },
+  {
+    "question": "Q86. How do you say 'the suitcase'?",
+    "options": [
+      "a) Le sac",
+      "b) Le billet",
+      "c) La carte",
+      "d) La valise"
+    ],
+    "answer": "d) La valise"
+  },
+  {
+    "question": "Q87. 'Pouvoir' means:",
+    "options": [
+      "a) To want",
+      "b) To know",
+      "c) To be able to / can",
+      "d) To have to"
+    ],
+    "answer": "c) To be able to / can"
+  },
+  {
+    "question": "Q88. 'La salade' is:",
+    "options": [
+      "a) Soup",
+      "b) Salad",
+      "c) Sauce",
+      "d) Salt"
+    ],
+    "answer": "b) Salad"
+  },
+  {
+    "question": "Q89. 'Gentil' means:",
+    "options": [
+      "a) Mean",
+      "b) Gentle",
+      "c) Kind / Nice",
+      "d) Shy"
+    ],
+    "answer": "c) Kind / Nice"
+  },
+  {
+    "question": "Q90. What does 'lire' mean?",
+    "options": [
+      "a) To write",
+      "b) To listen",
+      "c) To read",
+      "d) To speak"
+    ],
+    "answer": "c) To read"
+  },
+  {
+    "question": "Q91. 'Le matin' is:",
+    "options": [
+      "a) The evening",
+      "b) The afternoon",
+      "c) The night",
+      "d) The morning"
+    ],
+    "answer": "d) The morning"
+  },
+  {
+    "question": "Q92. How do you say 'some' (masculine)?",
+    "options": [
+      "a) De la",
+      "b) Des",
+      "c) Du",
+      "d) Un"
+    ],
+    "answer": "c) Du"
+  },
+  {
+    "question": "Q93. 'Finir' means:",
+    "options": [
+      "a) To begin",
+      "b) To finish",
+      "c) To continue",
+      "d) To stop"
+    ],
+    "answer": "b) To finish"
+  },
+  {
+    "question": "Q94. 'Le tableau' is:",
+    "options": [
+      "a) The table",
+      "b) The chair",
+      "c) The board",
+      "d) The desk"
+    ],
+    "answer": "c) The board"
+  },
+  {
+    "question": "Q95. What is 'la soupe'?",
+    "options": [
+      "a) Salad",
+      "b) Sauce",
+      "c) Soup",
+      "d) Stew"
+    ],
+    "answer": "c) Soup"
+  },
+  {
+    "question": "Q96. 'Derrière' means:",
+    "options": [
+      "a) In front of",
+      "b) Next to",
+      "c) Behind",
+      "d) Between"
+    ],
+    "answer": "c) Behind"
+  },
+  {
+    "question": "Q97. 'Le passeport' is:",
+    "options": [
+      "a) The ticket",
+      "b) The passport",
+      "c) The visa",
+      "d) The ID"
+    ],
+    "answer": "b) The passport"
+  },
+  {
+    "question": "Q98. How do you say 'my name is'?",
+    "options": [
+      "a) J'ai ... ans",
+      "b) Je suis",
+      "c) Je m'appelle",
+      "d) Je voudrais"
+    ],
+    "answer": "c) Je m'appelle"
+  },
+  {
+    "question": "Q99. 'La fleur' means:",
+    "options": [
+      "a) The tree",
+      "b) The leaf",
+      "c) The flower",
+      "d) The grass"
+    ],
+    "answer": "c) The flower"
+  },
+  {
+    "question": "Q100. 'Rapide' means:",
+    "options": [
+      "a) Slow",
+      "b) Steady",
+      "c) Quick",
+      "d) Fast"
+    ],
+    "answer": "d) Fast"
+  },
+  {
+    "question": "Q101. What does 'donner' mean?",
+    "options": [
+      "a) To take",
+      "b) To give",
+      "c) To receive",
+      "d) To buy"
+    ],
+    "answer": "b) To give"
+  },
+  {
+    "question": "Q102. 'Le lait' is:",
+    "options": [
+      "a) Water",
+      "b) Juice",
+      "c) Tea",
+      "d) Milk"
+    ],
+    "answer": "d) Milk"
+  },
+  {
+    "question": "Q103. 'Avant' means:",
+    "options": [
+      "a) After",
+      "b) During",
+      "c) Before",
+      "d) Since"
+    ],
+    "answer": "c) Before"
+  },
+  {
+    "question": "Q104. How do you say 'it's cold'?",
+    "options": [
+      "a) Il fait chaud",
+      "b) Il fait beau",
+      "c) Il fait froid",
+      "d) Il pleut"
+    ],
+    "answer": "c) Il fait froid"
+  },
+  {
+    "question": "Q105. 'La chambre' is:",
+    "options": [
+      "a) The kitchen",
+      "b) The bedroom",
+      "c) The bathroom",
+      "d) The living room"
+    ],
+    "answer": "b) The bedroom"
+  },
+  {
+    "question": "Q106. 'Jouer' means:",
+    "options": [
+      "a) To work",
+      "b) To study",
+      "c) To play",
+      "d) To rest"
+    ],
+    "answer": "c) To play"
+  },
+  {
+    "question": "Q107. What is 'l'église'?",
+    "options": [
+      "a) The school",
+      "b) The church",
+      "c) The museum",
+      "d) The library"
+    ],
+    "answer": "b) The church"
+  },
+  {
+    "question": "Q108. 'Beaucoup' means:",
+    "options": [
+      "a) A little",
+      "b) Enough",
+      "c) Too much",
+      "d) A lot"
+    ],
+    "answer": "d) A lot"
+  },
+  {
+    "question": "Q109. 'Le sel' is:",
+    "options": [
+      "a) Sugar",
+      "b) Salt",
+      "c) Pepper",
+      "d) Oil"
+    ],
+    "answer": "b) Salt"
+  },
+  {
+    "question": "Q110. How do you say 'to swim'?",
+    "options": [
+      "a) Courir",
+      "b) Marcher",
+      "c) Nager",
+      "d) Danser"
+    ],
+    "answer": "c) Nager"
+  },
+  {
+    "question": "Q111. 'Mauvais' means:",
+    "options": [
+      "a) Good",
+      "b) Bad",
+      "c) Ugly",
+      "d) Mean"
+    ],
+    "answer": "b) Bad"
+  },
+  {
+    "question": "Q112. What is 'la bibliothèque'?",
+    "options": [
+      "a) The bookstore",
+      "b) The library",
+      "c) The school",
+      "d) The museum"
+    ],
+    "answer": "b) The library"
+  },
+  {
+    "question": "Q113. 'Prendre' means:",
+    "options": [
+      "a) To give",
+      "b) To put",
+      "c) To take",
+      "d) To send"
+    ],
+    "answer": "c) To take"
+  },
+  {
+    "question": "Q114. 'Le vent' is:",
+    "options": [
+      "a) Rain",
+      "b) Snow",
+      "c) Wind",
+      "d) Cloud"
+    ],
+    "answer": "c) Wind"
+  },
+  {
+    "question": "Q115. 'Occupé' means:",
+    "options": [
+      "a) Free",
+      "b) Ready",
+      "c) Busy / Occupied",
+      "d) Open"
+    ],
+    "answer": "c) Busy / Occupied"
+  },
+  {
+    "question": "Q116. How do you say '20' in French?",
+    "options": [
+      "a) Douze",
+      "b) Quinze",
+      "c) Vingt",
+      "d) Trente"
+    ],
+    "answer": "c) Vingt"
+  },
+  {
+    "question": "Q117. 'Conduire' means:",
+    "options": [
+      "a) To walk",
+      "b) To ride",
+      "c) To fly",
+      "d) To drive"
+    ],
+    "answer": "d) To drive"
+  },
+  {
+    "question": "Q118. What does 'je ne sais pas' mean?",
+    "options": [
+      "a) I don't want",
+      "b) I don't know",
+      "c) I don't like",
+      "d) I can't"
+    ],
+    "answer": "b) I don't know"
+  },
+  {
+    "question": "Q119. 'Le manteau' is:",
+    "options": [
+      "a) The shirt",
+      "b) The pants",
+      "c) The coat",
+      "d) The hat"
+    ],
+    "answer": "c) The coat"
+  },
+  {
+    "question": "Q120. 'Demander' means:",
+    "options": [
+      "a) To answer",
+      "b) To demand",
+      "c) To ask",
+      "d) To order"
+    ],
+    "answer": "c) To ask"
+  },
+  {
+    "question": "Q121. 'La banque' is:",
+    "options": [
+      "a) The bench",
+      "b) The bank",
+      "c) The bakery",
+      "d) The bar"
+    ],
+    "answer": "b) The bank"
+  },
+  {
+    "question": "Q122. What does 'aussi' mean?",
+    "options": [
+      "a) But",
+      "b) Or",
+      "c) Also / Too",
+      "d) Never"
+    ],
+    "answer": "c) Also / Too"
+  },
+  {
+    "question": "Q123. 'La tête' is:",
+    "options": [
+      "a) The foot",
+      "b) The hand",
+      "c) The head",
+      "d) The arm"
+    ],
+    "answer": "c) The head"
+  },
+  {
+    "question": "Q124. How do you say 'to close'?",
+    "options": [
+      "a) Ouvrir",
+      "b) Fermer",
+      "c) Entrer",
+      "d) Sortir"
+    ],
+    "answer": "b) Fermer"
+  },
+  {
+    "question": "Q125. 'Le pays' means:",
+    "options": [
+      "a) The city",
+      "b) The village",
+      "c) The country",
+      "d) The continent"
+    ],
+    "answer": "c) The country"
+  },
+  {
+    "question": "Q126. 'Maintenant' means:",
+    "options": [
+      "a) Tomorrow",
+      "b) Yesterday",
+      "c) Later",
+      "d) Now"
+    ],
+    "answer": "d) Now"
+  },
+  {
+    "question": "Q127. What is 'la douche'?",
+    "options": [
+      "a) The bath",
+      "b) The shower",
+      "c) The sink",
+      "d) The toilet"
+    ],
+    "answer": "b) The shower"
+  },
+  {
+    "question": "Q128. 'Voir' means:",
+    "options": [
+      "a) To hear",
+      "b) To feel",
+      "c) To see",
+      "d) To touch"
+    ],
+    "answer": "c) To see"
+  },
+  {
+    "question": "Q129. 'Le prix' is:",
+    "options": [
+      "a) The prize",
+      "b) The price",
+      "c) The product",
+      "d) The sale"
+    ],
+    "answer": "b) The price"
+  },
+  {
+    "question": "Q130. How do you say 'to choose'?",
+    "options": [
+      "a) Essayer",
+      "b) Trouver",
+      "c) Choisir",
+      "d) Chercher"
+    ],
+    "answer": "c) Choisir"
+  },
+  {
+    "question": "Q131. 'La mer' means:",
+    "options": [
+      "a) The lake",
+      "b) The river",
+      "c) The sea",
+      "d) The ocean"
+    ],
+    "answer": "c) The sea"
+  },
+  {
+    "question": "Q132. 'Seul' means:",
+    "options": [
+      "a) Together",
+      "b) Alone / Only",
+      "c) Happy",
+      "d) Quiet"
+    ],
+    "answer": "b) Alone / Only"
+  },
+  {
+    "question": "Q133. What does 'il y a' mean?",
+    "options": [
+      "a) It is",
+      "b) There is / There are",
+      "c) He goes",
+      "d) It has"
+    ],
+    "answer": "b) There is / There are"
+  },
+  {
+    "question": "Q134. 'L'escalier' is:",
+    "options": [
+      "a) The elevator",
+      "b) The hallway",
+      "c) The stairs",
+      "d) The door"
+    ],
+    "answer": "c) The stairs"
+  },
+  {
+    "question": "Q135. 'Écouter' means:",
+    "options": [
+      "a) To watch",
+      "b) To listen",
+      "c) To speak",
+      "d) To sing"
+    ],
+    "answer": "b) To listen"
+  },
+  {
+    "question": "Q136. How do you say 'Tuesday'?",
+    "options": [
+      "a) Lundi",
+      "b) Jeudi",
+      "c) Mardi",
+      "d) Samedi"
+    ],
+    "answer": "c) Mardi"
+  },
+  {
+    "question": "Q137. 'Le café' means:",
+    "options": [
+      "a) The tea",
+      "b) The cake",
+      "c) The coffee / café",
+      "d) The chocolate"
+    ],
+    "answer": "c) The coffee / café"
+  },
+  {
+    "question": "Q138. 'Difficile' means:",
+    "options": [
+      "a) Easy",
+      "b) Simple",
+      "c) Difficult",
+      "d) Possible"
+    ],
+    "answer": "c) Difficult"
+  },
+  {
+    "question": "Q139. What is 'les devoirs'?",
+    "options": [
+      "a) The exams",
+      "b) The lessons",
+      "c) Homework",
+      "d) The books"
+    ],
+    "answer": "c) Homework"
+  },
+  {
+    "question": "Q140. 'Payer' means:",
+    "options": [
+      "a) To buy",
+      "b) To sell",
+      "c) To pay",
+      "d) To owe"
+    ],
+    "answer": "c) To pay"
+  },
+  {
+    "question": "Q141. 'La vie' is:",
+    "options": [
+      "a) The life",
+      "b) The road",
+      "c) The city",
+      "d) The way"
+    ],
+    "answer": "a) The life"
+  },
+  {
+    "question": "Q142. How do you say 'sorry / I'm sorry'?",
+    "options": [
+      "a) Excusez-moi",
+      "b) Pardon",
+      "c) Je suis désolé",
+      "d) All of the above"
+    ],
+    "answer": "d) All of the above"
+  },
+  {
+    "question": "Q143. 'Nager' means:",
+    "options": [
+      "a) To walk",
+      "b) To run",
+      "c) To swim",
+      "d) To dive"
+    ],
+    "answer": "c) To swim"
+  },
+  {
+    "question": "Q144. 'Le lit' is:",
+    "options": [
+      "a) The bed",
+      "b) The chair",
+      "c) The table",
+      "d) The sofa"
+    ],
+    "answer": "a) The bed"
+  },
+  {
+    "question": "Q145. What does 'depuis' mean?",
+    "options": [
+      "a) Before",
+      "b) After",
+      "c) During",
+      "d) Since / For"
+    ],
+    "answer": "d) Since / For"
+  },
+  {
+    "question": "Q146. 'La carte' means:",
+    "options": [
+      "a) The car",
+      "b) The card / map",
+      "c) The ticket",
+      "d) The key"
+    ],
+    "answer": "b) The card / map"
+  },
+  {
+    "question": "Q147. 'Propre' means:",
+    "options": [
+      "a) Dirty",
+      "b) Clean / Own",
+      "c) New",
+      "d) Old"
+    ],
+    "answer": "b) Clean / Own"
+  },
+  {
+    "question": "Q148. How do you say 'the neighbor'?",
+    "options": [
+      "a) L'ami",
+      "b) Le collègue",
+      "c) Le voisin",
+      "d) Le cousin"
+    ],
+    "answer": "c) Le voisin"
+  },
+  {
+    "question": "Q149. 'Courir' means:",
+    "options": [
+      "a) To walk",
+      "b) To swim",
+      "c) To run",
+      "d) To jump"
+    ],
+    "answer": "c) To run"
+  },
+  {
+    "question": "Q150. What is 'le cinéma'?",
+    "options": [
+      "a) The theater",
+      "b) The cinema",
+      "c) The concert",
+      "d) The museum"
+    ],
+    "answer": "b) The cinema"
+  },
+  {
+    "question": "Q151. 'Parce que' means:",
+    "options": [
+      "a) But",
+      "b) So",
+      "c) Because",
+      "d) If"
+    ],
+    "answer": "c) Because"
+  },
+  {
+    "question": "Q152. 'Le poisson' is:",
+    "options": [
+      "a) Chicken",
+      "b) Meat",
+      "c) Fish",
+      "d) Pork"
+    ],
+    "answer": "c) Fish"
+  },
+  {
+    "question": "Q153. How do you say 'to try'?",
+    "options": [
+      "a) Essayer",
+      "b) Trouver",
+      "c) Chercher",
+      "d) Demander"
+    ],
+    "answer": "a) Essayer"
+  },
+  {
+    "question": "Q154. 'Jamais' means:",
+    "options": [
+      "a) Always",
+      "b) Sometimes",
+      "c) Often",
+      "d) Never"
+    ],
+    "answer": "d) Never"
+  },
+  {
+    "question": "Q155. 'La fête' is:",
+    "options": [
+      "a) The fear",
+      "b) The party / festival",
+      "c) The holiday",
+      "d) The gift"
+    ],
+    "answer": "b) The party / festival"
+  },
+  {
+    "question": "Q156. What does 'mettre' mean?",
+    "options": [
+      "a) To take",
+      "b) To put / to put on",
+      "c) To make",
+      "d) To bring"
+    ],
+    "answer": "b) To put / to put on"
+  },
+  {
+    "question": "Q157. 'Le bras' is:",
+    "options": [
+      "a) The leg",
+      "b) The hand",
+      "c) The arm",
+      "d) The foot"
+    ],
+    "answer": "c) The arm"
+  },
+  {
+    "question": "Q158. 'Libre' means:",
+    "options": [
+      "a) Busy",
+      "b) Free (not busy)",
+      "c) Open",
+      "d) Available"
+    ],
+    "answer": "b) Free (not busy)"
+  },
+  {
+    "question": "Q159. How do you say 'August'?",
+    "options": [
+      "a) Avril",
+      "b) Août",
+      "c) Octobre",
+      "d) Mars"
+    ],
+    "answer": "b) Août"
+  },
+  {
+    "question": "Q160. 'Inviter' means:",
+    "options": [
+      "a) To visit",
+      "b) To meet",
+      "c) To invite",
+      "d) To greet"
+    ],
+    "answer": "c) To invite"
+  },
+  {
+    "question": "Q161. What is 'le monde'?",
+    "options": [
+      "a) The month",
+      "b) The moment",
+      "c) The world",
+      "d) The mountain"
+    ],
+    "answer": "c) The world"
+  },
+  {
+    "question": "Q162. 'Trop' means:",
+    "options": [
+      "a) Very",
+      "b) Enough",
+      "c) A lot",
+      "d) Too (much)"
+    ],
+    "answer": "d) Too (much)"
+  },
+  {
+    "question": "Q163. 'La jupe' is:",
+    "options": [
+      "a) The dress",
+      "b) The skirt",
+      "c) The shirt",
+      "d) The jacket"
+    ],
+    "answer": "b) The skirt"
+  },
+  {
+    "question": "Q164. 'Croire' means:",
+    "options": [
+      "a) To believe",
+      "b) To grow",
+      "c) To create",
+      "d) To cry"
+    ],
+    "answer": "a) To believe"
+  },
+  {
+    "question": "Q165. How do you say 'how much is it'?",
+    "options": [
+      "a) Qu'est-ce que c'est",
+      "b) C'est combien",
+      "c) Où est",
+      "d) À quelle heure"
+    ],
+    "answer": "b) C'est combien"
+  },
+  {
+    "question": "Q166. 'Le ciel' is:",
+    "options": [
+      "a) The sun",
+      "b) The moon",
+      "c) The sky",
+      "d) The star"
+    ],
+    "answer": "c) The sky"
+  },
+  {
+    "question": "Q167. What does 'ranger' mean?",
+    "options": [
+      "a) To clean",
+      "b) To tidy up",
+      "c) To wash",
+      "d) To cook"
+    ],
+    "answer": "b) To tidy up"
+  },
+  {
+    "question": "Q168. 'Entre' means:",
+    "options": [
+      "a) Enter",
+      "b) Between",
+      "c) Inside",
+      "d) Outside"
+    ],
+    "answer": "b) Between"
+  },
+  {
+    "question": "Q169. 'La glace' is:",
+    "options": [
+      "a) The glass",
+      "b) The mirror",
+      "c) Ice cream / Ice",
+      "d) The cold"
+    ],
+    "answer": "c) Ice cream / Ice"
+  },
+  {
+    "question": "Q170. How do you say 'to remember'?",
+    "options": [
+      "a) Oublier",
+      "b) Se rappeler",
+      "c) Penser",
+      "d) Croire"
+    ],
+    "answer": "b) Se rappeler"
+  },
+  {
+    "question": "Q171. 'Le salaire' is:",
+    "options": [
+      "a) The salary",
+      "b) The sale",
+      "c) The price",
+      "d) The tip"
+    ],
+    "answer": "a) The salary"
+  },
+  {
+    "question": "Q172. 'Ennuyeux' means:",
+    "options": [
+      "a) Fun",
+      "b) Exciting",
+      "c) Boring",
+      "d) Interesting"
+    ],
+    "answer": "c) Boring"
+  },
+  {
+    "question": "Q173. What is 'le croissant'?",
+    "options": [
+      "a) A type of bread",
+      "b) A crescent-shaped pastry",
+      "c) A cake",
+      "d) A cookie"
+    ],
+    "answer": "b) A crescent-shaped pastry"
+  },
+  {
+    "question": "Q174. 'Devoir' means:",
+    "options": [
+      "a) To want",
+      "b) To be able to",
+      "c) To must / to have to",
+      "d) To know"
+    ],
+    "answer": "c) To must / to have to"
+  },
+  {
+    "question": "Q175. How do you say 'straight ahead'?",
+    "options": [
+      "a) À gauche",
+      "b) À droite",
+      "c) Tout droit",
+      "d) Derrière"
+    ],
+    "answer": "c) Tout droit"
+  },
+  {
+    "question": "Q176. 'Inquiet' means:",
+    "options": [
+      "a) Happy",
+      "b) Worried",
+      "c) Calm",
+      "d) Angry"
+    ],
+    "answer": "b) Worried"
+  },
+  {
+    "question": "Q177. 'Le chapeau' is:",
+    "options": [
+      "a) The coat",
+      "b) The scarf",
+      "c) The hat",
+      "d) The belt"
+    ],
+    "answer": "c) The hat"
+  },
+  {
+    "question": "Q178. What does 'nettoyer' mean?",
+    "options": [
+      "a) To tidy",
+      "b) To wash",
+      "c) To clean",
+      "d) To dry"
+    ],
+    "answer": "c) To clean"
+  },
+  {
+    "question": "Q179. 'La réunion' is:",
+    "options": [
+      "a) The reunion",
+      "b) The meeting",
+      "c) The party",
+      "d) The conference"
+    ],
+    "answer": "b) The meeting"
+  },
+  {
+    "question": "Q180. 'Pendant' means:",
+    "options": [
+      "a) Before",
+      "b) After",
+      "c) During",
+      "d) Since"
+    ],
+    "answer": "c) During"
+  },
+  {
+    "question": "Q181. How do you say 'the egg'?",
+    "options": [
+      "a) Le lait",
+      "b) Le beurre",
+      "c) L'œuf",
+      "d) Le sucre"
+    ],
+    "answer": "c) L'œuf"
+  },
+  {
+    "question": "Q182. 'Expliquer' means:",
+    "options": [
+      "a) To explore",
+      "b) To explain",
+      "c) To express",
+      "d) To examine"
+    ],
+    "answer": "b) To explain"
+  },
+  {
+    "question": "Q183. What is 'la forêt'?",
+    "options": [
+      "a) The field",
+      "b) The farm",
+      "c) The forest",
+      "d) The garden"
+    ],
+    "answer": "c) The forest"
+  },
+  {
+    "question": "Q184. 'D'accord' means:",
+    "options": [
+      "a) Of course",
+      "b) No problem",
+      "c) Okay / Agreed",
+      "d) Thank you"
+    ],
+    "answer": "c) Okay / Agreed"
+  },
+  {
+    "question": "Q185. 'Le nuage' is:",
+    "options": [
+      "a) The rain",
+      "b) The snow",
+      "c) The cloud",
+      "d) The fog"
+    ],
+    "answer": "c) The cloud"
+  },
+  {
+    "question": "Q186. How do you say 'to dance'?",
+    "options": [
+      "a) Chanter",
+      "b) Danser",
+      "c) Jouer",
+      "d) Courir"
+    ],
+    "answer": "b) Danser"
+  },
+  {
+    "question": "Q187. 'Assez' means:",
+    "options": [
+      "a) A lot",
+      "b) Very",
+      "c) Too much",
+      "d) Enough / Quite"
+    ],
+    "answer": "d) Enough / Quite"
+  },
+  {
+    "question": "Q188. What does 'sortir' mean?",
+    "options": [
+      "a) To enter",
+      "b) To go out",
+      "c) To go up",
+      "d) To go down"
+    ],
+    "answer": "b) To go out"
+  },
+  {
+    "question": "Q189. 'Le meuble' is:",
+    "options": [
+      "a) The wall",
+      "b) The furniture",
+      "c) The floor",
+      "d) The ceiling"
+    ],
+    "answer": "b) The furniture"
+  },
+  {
+    "question": "Q190. 'Calme' means:",
+    "options": [
+      "a) Nervous",
+      "b) Angry",
+      "c) Calm",
+      "d) Tired"
+    ],
+    "answer": "c) Calm"
+  },
+  {
+    "question": "Q191. How do you say 'first'?",
+    "options": [
+      "a) Dernier",
+      "b) Deuxième",
+      "c) Premier",
+      "d) Prochain"
+    ],
+    "answer": "c) Premier"
+  },
+  {
+    "question": "Q192. 'La fraise' is:",
+    "options": [
+      "a) The peach",
+      "b) The cherry",
+      "c) The strawberry",
+      "d) The grape"
+    ],
+    "answer": "c) The strawberry"
+  },
+  {
+    "question": "Q193. 'Gagner' means:",
+    "options": [
+      "a) To lose",
+      "b) To play",
+      "c) To win",
+      "d) To run"
+    ],
+    "answer": "c) To win"
+  },
+  {
+    "question": "Q194. What is 'le cadeau'?",
+    "options": [
+      "a) The cake",
+      "b) The card",
+      "c) The candle",
+      "d) The gift"
+    ],
+    "answer": "d) The gift"
+  },
+  {
+    "question": "Q195. 'Ensemble' means:",
+    "options": [
+      "a) Alone",
+      "b) Together",
+      "c) Sometimes",
+      "d) Already"
+    ],
+    "answer": "b) Together"
+  },
+  {
+    "question": "Q196. 'Le feu rouge' is:",
+    "options": [
+      "a) The fire",
+      "b) The traffic light",
+      "c) The red car",
+      "d) The stop sign"
+    ],
+    "answer": "b) The traffic light"
+  },
+  {
+    "question": "Q197. 'Couper' means:",
+    "options": [
+      "a) To cook",
+      "b) To mix",
+      "c) To cut",
+      "d) To taste"
+    ],
+    "answer": "c) To cut"
+  },
+  {
+    "question": "Q198. What is 'Joyeux anniversaire'?",
+    "options": [
+      "a) Merry Christmas",
+      "b) Happy New Year",
+      "c) Happy birthday",
+      "d) Congratulations"
+    ],
+    "answer": "c) Happy birthday"
+  },
+  {
+    "question": "Q199. 'Vraiment' means:",
+    "options": [
+      "a) Almost",
+      "b) Finally",
+      "c) Especially",
+      "d) Really / Truly"
+    ],
+    "answer": "d) Really / Truly"
+  },
+  {
+    "question": "Q200. 'Le parapluie' is:",
+    "options": [
+      "a) The parasol",
+      "b) The umbrella",
+      "c) The raincoat",
+      "d) The hat"
+    ],
+    "answer": "b) The umbrella"
+  }
+]

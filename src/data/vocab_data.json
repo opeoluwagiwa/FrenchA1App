@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "french": "bonjour",
+    "pronunciation": "bohn-ZHOOR",
+    "english": "hello / good morning",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 2,
+    "french": "bonsoir",
+    "pronunciation": "bohn-SWAHR",
+    "english": "good evening",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 3,
+    "french": "bonne nuit",
+    "pronunciation": "bun NWEE",
+    "english": "good night",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 4,
+    "french": "salut",
+    "pronunciation": "sah-LOO",
+    "english": "hi / bye (informal)",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 5,
+    "french": "au revoir",
+    "pronunciation": "oh ruh-VWAHR",
+    "english": "goodbye",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 6,
+    "french": "merci",
+    "pronunciation": "mehr-SEE",
+    "english": "thank you",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 7,
+    "french": "merci beaucoup",
+    "pronunciation": "mehr-SEE boh-KOO",
+    "english": "thank you very much",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 8,
+    "french": "s'il vous plait",
+    "pronunciation": "seel voo PLEH",
+    "english": "please (formal)",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 9,
+    "french": "s'il te plait",
+    "pronunciation": "seel tuh PLEH",
+    "english": "please (informal)",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 10,
+    "french": "de rien",
+    "pronunciation": "duh RYEHN",
+    "english": "you're welcome",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 11,
+    "french": "excusez-moi",
+    "pronunciation": "ehk-skew-ZAY mwah",
+    "english": "excuse me",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 12,
+    "french": "pardon",
+    "pronunciation": "par-DOHN",
+    "english": "sorry / pardon",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 13,
+    "french": "bienvenue",
+    "pronunciation": "byehn-vuh-NEW",
+    "english": "welcome",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 14,
+    "french": "enchanté",
+    "pronunciation": "ahn-shahn-TAY",
+    "english": "nice to meet you",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 15,
+    "french": "comment allez-vous",
+    "pronunciation": "koh-MAHN tah-LAY voo",
+    "english": "how are you (formal)",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 16,
+    "french": "ça va",
+    "pronunciation": "sah VAH",
+    "english": "how's it going / I'm fine",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 17,
+    "french": "très bien",
+    "pronunciation": "treh BYEHN",
+    "english": "very well",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 18,
+    "french": "bien",
+    "pronunciation": "byehn",
+    "english": "well / good",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 19,
+    "french": "mal",
+    "pronunciation": "mahl",
+    "english": "bad / badly",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 20,
+    "french": "comme ci comme ça",
+    "pronunciation": "kum SEE kum SAH",
+    "english": "so-so",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 21,
+    "french": "à bientôt",
+    "pronunciation": "ah byehn-TOH",
+    "english": "see you soon",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 22,
+    "french": "à demain",
+    "pronunciation": "ah duh-MEHN",
+    "english": "see you tomorrow",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 23,
+    "french": "à plus tard",
+    "pronunciation": "ah ploo TAHR",
+    "english": "see you later",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 24,
+    "french": "bonne journée",
+    "pronunciation": "bun zhoor-NAY",
+    "english": "have a good day",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 25,
+    "french": "bonne soirée",
+    "pronunciation": "bun swah-RAY",
+    "english": "have a good evening",
+    "category": "Greetings & Politeness"
+  },
+  {
+    "id": 26,
+    "french": "je",
+    "pronunciation": "zhuh",
+    "english": "I",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 27,
+    "french": "tu",
+    "pronunciation": "too",
+    "english": "you (informal)",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 28,
+    "french": "il",
+    "pronunciation": "eel",
+    "english": "he / it (masc.)",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 29,
+    "french": "elle",
+    "pronunciation": "ehl",
+    "english": "she / it (fem.)",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 30,
+    "french": "on",
+    "pronunciation": "ohn",
+    "english": "one / we (informal)",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 31,
+    "french": "nous",
+    "pronunciation": "noo",
+    "english": "we",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 32,
+    "french": "vous",
+    "pronunciation": "voo",
+    "english": "you (formal / plural)",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 33,
+    "french": "ils",
+    "pronunciation": "eel",
+    "english": "they (masc.)",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 34,
+    "french": "elles",
+    "pronunciation": "ehl",
+    "english": "they (fem.)",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 35,
+    "french": "ce",
+    "pronunciation": "suh",
+    "english": "this / it",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 36,
+    "french": "c'est",
+    "pronunciation": "seh",
+    "english": "it is / this is",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 37,
+    "french": "moi",
+    "pronunciation": "mwah",
+    "english": "me",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 38,
+    "french": "toi",
+    "pronunciation": "twah",
+    "english": "you (stressed)",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 39,
+    "french": "lui",
+    "pronunciation": "lwee",
+    "english": "him",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 40,
+    "french": "qui",
+    "pronunciation": "kee",
+    "english": "who",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 41,
+    "french": "que",
+    "pronunciation": "kuh",
+    "english": "what / that",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 42,
+    "french": "quoi",
+    "pronunciation": "kwah",
+    "english": "what",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 43,
+    "french": "où",
+    "pronunciation": "oo",
+    "english": "where",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 44,
+    "french": "quand",
+    "pronunciation": "kahn",
+    "english": "when",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 45,
+    "french": "pourquoi",
+    "pronunciation": "poor-KWAH",
+    "english": "why",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 46,
+    "french": "comment",
+    "pronunciation": "koh-MAHN",
+    "english": "how",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 47,
+    "french": "combien",
+    "pronunciation": "kohm-BYEHN",
+    "english": "how much / many",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 48,
+    "french": "oui",
+    "pronunciation": "wee",
+    "english": "yes",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 49,
+    "french": "non",
+    "pronunciation": "nohn",
+    "english": "no",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 50,
+    "french": "peut-être",
+    "pronunciation": "puh-TEHT-ruh",
+    "english": "maybe",
+    "category": "Personal Pronouns & Basics"
+  },
+  {
+    "id": 51,
+    "french": "un",
+    "pronunciation": "uhn",
+    "english": "one",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 52,
+    "french": "deux",
+    "pronunciation": "duh",
+    "english": "two",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 53,
+    "french": "trois",
+    "pronunciation": "trwah",
+    "english": "three",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 54,
+    "french": "quatre",
+    "pronunciation": "KAH-truh",
+    "english": "four",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 55,
+    "french": "cinq",
+    "pronunciation": "sahnk",
+    "english": "five",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 56,
+    "french": "six",
+    "pronunciation": "sees",
+    "english": "six",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 57,
+    "french": "sept",
+    "pronunciation": "seht",
+    "english": "seven",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 58,
+    "french": "huit",
+    "pronunciation": "weet",
+    "english": "eight",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 59,
+    "french": "neuf",
+    "pronunciation": "nuhf",
+    "english": "nine",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 60,
+    "french": "dix",
+    "pronunciation": "dees",
+    "english": "ten",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 61,
+    "french": "onze",
+    "pronunciation": "ohnz",
+    "english": "eleven",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 62,
+    "french": "douze",
+    "pronunciation": "dooz",
+    "english": "twelve",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 63,
+    "french": "treize",
+    "pronunciation": "trehz",
+    "english": "thirteen",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 64,
+    "french": "quatorze",
+    "pronunciation": "kah-TORZ",
+    "english": "fourteen",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 65,
+    "french": "quinze",
+    "pronunciation": "kahnz",
+    "english": "fifteen",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 66,
+    "french": "seize",
+    "pronunciation": "sehz",
+    "english": "sixteen",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 67,
+    "french": "dix-sept",
+    "pronunciation": "dee-SEHT",
+    "english": "seventeen",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 68,
+    "french": "dix-huit",
+    "pronunciation": "deez-WEET",
+    "english": "eighteen",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 69,
+    "french": "dix-neuf",
+    "pronunciation": "deez-NUHF",
+    "english": "nineteen",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 70,
+    "french": "vingt",
+    "pronunciation": "vahn",
+    "english": "twenty",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 71,
+    "french": "vingt et un",
+    "pronunciation": "vahnt ay UHN",
+    "english": "twenty-one",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 72,
+    "french": "trente",
+    "pronunciation": "trahnt",
+    "english": "thirty",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 73,
+    "french": "quarante",
+    "pronunciation": "kah-RAHNT",
+    "english": "forty",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 74,
+    "french": "cinquante",
+    "pronunciation": "sahn-KAHNT",
+    "english": "fifty",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 75,
+    "french": "soixante",
+    "pronunciation": "swah-SAHNT",
+    "english": "sixty",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 76,
+    "french": "cent",
+    "pronunciation": "sahn",
+    "english": "one hundred",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 77,
+    "french": "mille",
+    "pronunciation": "meel",
+    "english": "one thousand",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 78,
+    "french": "premier",
+    "pronunciation": "pruh-MYAY",
+    "english": "first",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 79,
+    "french": "deuxième",
+    "pronunciation": "duh-ZYEHM",
+    "english": "second",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 80,
+    "french": "dernier",
+    "pronunciation": "dehr-NYAY",
+    "english": "last",
+    "category": "Numbers (1-50)"
+  },
+  {
+    "id": 81,
+    "french": "lundi",
+    "pronunciation": "luhn-DEE",
+    "english": "Monday",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 82,
+    "french": "mardi",
+    "pronunciation": "mahr-DEE",
+    "english": "Tuesday",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 83,
+    "french": "mercredi",
+    "pronunciation": "mehr-kruh-DEE",
+    "english": "Wednesday",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 84,
+    "french": "jeudi",
+    "pronunciation": "zhuh-DEE",
+    "english": "Thursday",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 85,
+    "french": "vendredi",
+    "pronunciation": "vahn-druh-DEE",
+    "english": "Friday",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 86,
+    "french": "samedi",
+    "pronunciation": "sahm-DEE",
+    "english": "Saturday",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 87,
+    "french": "dimanche",
+    "pronunciation": "dee-MAHNSH",
+    "english": "Sunday",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 88,
+    "french": "janvier",
+    "pronunciation": "zhahn-VYAY",
+    "english": "January",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 89,
+    "french": "février",
+    "pronunciation": "fay-VREE-ay",
+    "english": "February",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 90,
+    "french": "mars",
+    "pronunciation": "mahrs",
+    "english": "March",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 91,
+    "french": "avril",
+    "pronunciation": "ah-VREEL",
+    "english": "April",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 92,
+    "french": "mai",
+    "pronunciation": "meh",
+    "english": "May",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 93,
+    "french": "juin",
+    "pronunciation": "zhwahn",
+    "english": "June",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 94,
+    "french": "juillet",
+    "pronunciation": "zhwee-YEH",
+    "english": "July",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 95,
+    "french": "août",
+    "pronunciation": "oot",
+    "english": "August",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 96,
+    "french": "septembre",
+    "pronunciation": "sehp-TAHM-bruh",
+    "english": "September",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 97,
+    "french": "octobre",
+    "pronunciation": "ok-TOH-bruh",
+    "english": "October",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 98,
+    "french": "novembre",
+    "pronunciation": "noh-VAHM-bruh",
+    "english": "November",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 99,
+    "french": "décembre",
+    "pronunciation": "day-SAHM-bruh",
+    "english": "December",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 100,
+    "french": "aujourd'hui",
+    "pronunciation": "oh-zhoor-DWEE",
+    "english": "today",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 101,
+    "french": "demain",
+    "pronunciation": "duh-MEHN",
+    "english": "tomorrow",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 102,
+    "french": "hier",
+    "pronunciation": "ee-EHR",
+    "english": "yesterday",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 103,
+    "french": "maintenant",
+    "pronunciation": "mehn-tuh-NAHN",
+    "english": "now",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 104,
+    "french": "le matin",
+    "pronunciation": "luh mah-TAHN",
+    "english": "the morning",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 105,
+    "french": "l'après-midi",
+    "pronunciation": "lah-preh-mee-DEE",
+    "english": "the afternoon",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 106,
+    "french": "le soir",
+    "pronunciation": "luh SWAHR",
+    "english": "the evening",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 107,
+    "french": "la nuit",
+    "pronunciation": "lah NWEE",
+    "english": "the night",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 108,
+    "french": "l'heure",
+    "pronunciation": "luhr",
+    "english": "the hour / time",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 109,
+    "french": "la semaine",
+    "pronunciation": "lah suh-MEHN",
+    "english": "the week",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 110,
+    "french": "le mois",
+    "pronunciation": "luh MWAH",
+    "english": "the month",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 111,
+    "french": "l'année",
+    "pronunciation": "lah-NAY",
+    "english": "the year",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 112,
+    "french": "le jour",
+    "pronunciation": "luh ZHOOR",
+    "english": "the day",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 113,
+    "french": "tôt",
+    "pronunciation": "toh",
+    "english": "early",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 114,
+    "french": "tard",
+    "pronunciation": "tahr",
+    "english": "late",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 115,
+    "french": "toujours",
+    "pronunciation": "too-ZHOOR",
+    "english": "always",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 116,
+    "french": "jamais",
+    "pronunciation": "zhah-MEH",
+    "english": "never",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 117,
+    "french": "souvent",
+    "pronunciation": "soo-VAHN",
+    "english": "often",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 118,
+    "french": "parfois",
+    "pronunciation": "pahr-FWAH",
+    "english": "sometimes",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 119,
+    "french": "rarement",
+    "pronunciation": "rahr-MAHN",
+    "english": "rarely",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 120,
+    "french": "déjà",
+    "pronunciation": "day-ZHAH",
+    "english": "already",
+    "category": "Days, Months & Time"
+  },
+  {
+    "id": 121,
+    "french": "la famille",
+    "pronunciation": "lah fah-MEE-yuh",
+    "english": "the family",
+    "category": "Family & People"
+  },
+  {
+    "id": 122,
+    "french": "le père",
+    "pronunciation": "luh PEHR",
+    "english": "the father",
+    "category": "Family & People"
+  },
+  {
+    "id": 123,
+    "french": "la mère",
+    "pronunciation": "lah MEHR",
+    "english": "the mother",
+    "category": "Family & People"
+  },
+  {
+    "id": 124,
+    "french": "le frère",
+    "pronunciation": "luh FREHR",
+    "english": "the brother",
+    "category": "Family & People"
+  },
+  {
+    "id": 125,
+    "french": "la sœur",
+    "pronunciation": "lah SUHR",
+    "english": "the sister",
+    "category": "Family & People"
+  },
+  {
+    "id": 126,
+    "french": "le fils",
+    "pronunciation": "luh FEES",
+    "english": "the son",
+    "category": "Family & People"
+  },
+  {
+    "id": 127,
+    "french": "la fille",
+    "pronunciation": "lah FEE-yuh",
+    "english": "the daughter / girl",
+    "category": "Family & People"
+  },
+  {
+    "id": 128,
+    "french": "le mari",
+    "pronunciation": "luh mah-REE",
+    "english": "the husband",
+    "category": "Family & People"
+  },
+  {
+    "id": 129,
+    "french": "la femme",
+    "pronunciation": "lah FAHM",
+    "english": "the wife / woman",
+    "category": "Family & People"
+  },
+  {
+    "id": 130,
+    "french": "l'enfant",
+    "pronunciation": "lahn-FAHN",
+    "english": "the child",
+    "category": "Family & People"
+  },
+  {
+    "id": 131,
+    "french": "le bébé",
+    "pronunciation": "luh bay-BAY",
+    "english": "the baby",
+    "category": "Family & People"
+  },
+  {
+    "id": 132,
+    "french": "le grand-père",
+    "pronunciation": "luh grahn-PEHR",
+    "english": "the grandfather",
+    "category": "Family & People"
+  },
+  {
+    "id": 133,
+    "french": "la grand-mère",
+    "pronunciation": "lah grahn-MEHR",
+    "english": "the grandmother",
+    "category": "Family & People"
+  },
+  {
+    "id": 134,
+    "french": "l'oncle",
+    "pronunciation": "LOHN-kluh",
+    "english": "the uncle",
+    "category": "Family & People"
+  },
+  {
+    "id": 135,
+    "french": "la tante",
+    "pronunciation": "lah TAHNT",
+    "english": "the aunt",
+    "category": "Family & People"
+  },
+  {
+    "id": 136,
+    "french": "le cousin",
+    "pronunciation": "luh koo-ZAHN",
+    "english": "the cousin (male)",
+    "category": "Family & People"
+  },
+  {
+    "id": 137,
+    "french": "la cousine",
+    "pronunciation": "lah koo-ZEEN",
+    "english": "the cousin (female)",
+    "category": "Family & People"
+  },
+  {
+    "id": 138,
+    "french": "l'ami",
+    "pronunciation": "lah-MEE",
+    "english": "the friend (male)",
+    "category": "Family & People"
+  },
+  {
+    "id": 139,
+    "french": "l'amie",
+    "pronunciation": "lah-MEE",
+    "english": "the friend (female)",
+    "category": "Family & People"
+  },
+  {
+    "id": 140,
+    "french": "le voisin",
+    "pronunciation": "luh vwah-ZAHN",
+    "english": "the neighbor (male)",
+    "category": "Family & People"
+  },
+  {
+    "id": 141,
+    "french": "la voisine",
+    "pronunciation": "lah vwah-ZEEN",
+    "english": "the neighbor (female)",
+    "category": "Family & People"
+  },
+  {
+    "id": 142,
+    "french": "l'homme",
+    "pronunciation": "luhm",
+    "english": "the man",
+    "category": "Family & People"
+  },
+  {
+    "id": 143,
+    "french": "la personne",
+    "pronunciation": "lah pehr-SUHN",
+    "english": "the person",
+    "category": "Family & People"
+  },
+  {
+    "id": 144,
+    "french": "le garçon",
+    "pronunciation": "luh gahr-SOHN",
+    "english": "the boy",
+    "category": "Family & People"
+  },
+  {
+    "id": 145,
+    "french": "les gens",
+    "pronunciation": "lay ZHAHN",
+    "english": "people",
+    "category": "Family & People"
+  },
+  {
+    "id": 146,
+    "french": "la tête",
+    "pronunciation": "lah TEHT",
+    "english": "the head",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 147,
+    "french": "les yeux",
+    "pronunciation": "lay ZYUH",
+    "english": "the eyes",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 148,
+    "french": "le nez",
+    "pronunciation": "luh NAY",
+    "english": "the nose",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 149,
+    "french": "la bouche",
+    "pronunciation": "lah BOOSH",
+    "english": "the mouth",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 150,
+    "french": "l'oreille",
+    "pronunciation": "loh-RAY-yuh",
+    "english": "the ear",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 151,
+    "french": "le bras",
+    "pronunciation": "luh BRAH",
+    "english": "the arm",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 152,
+    "french": "la main",
+    "pronunciation": "lah MEHN",
+    "english": "the hand",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 153,
+    "french": "le doigt",
+    "pronunciation": "luh DWAH",
+    "english": "the finger",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 154,
+    "french": "la jambe",
+    "pronunciation": "lah ZHAHMB",
+    "english": "the leg",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 155,
+    "french": "le pied",
+    "pronunciation": "luh PYAY",
+    "english": "the foot",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 156,
+    "french": "le dos",
+    "pronunciation": "luh DOH",
+    "english": "the back",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 157,
+    "french": "le ventre",
+    "pronunciation": "luh VAHN-truh",
+    "english": "the stomach / belly",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 158,
+    "french": "le cœur",
+    "pronunciation": "luh KUHR",
+    "english": "the heart",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 159,
+    "french": "les cheveux",
+    "pronunciation": "lay shuh-VUH",
+    "english": "the hair",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 160,
+    "french": "le corps",
+    "pronunciation": "luh KOHR",
+    "english": "the body",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 161,
+    "french": "le médecin",
+    "pronunciation": "luh mayd-SAHN",
+    "english": "the doctor",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 162,
+    "french": "la pharmacie",
+    "pronunciation": "lah fahr-mah-SEE",
+    "english": "the pharmacy",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 163,
+    "french": "l'hôpital",
+    "pronunciation": "loh-pee-TAHL",
+    "english": "the hospital",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 164,
+    "french": "malade",
+    "pronunciation": "mah-LAHD",
+    "english": "sick / ill",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 165,
+    "french": "la douleur",
+    "pronunciation": "lah doo-LUHR",
+    "english": "the pain",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 166,
+    "french": "la santé",
+    "pronunciation": "lah sahn-TAY",
+    "english": "health",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 167,
+    "french": "le médicament",
+    "pronunciation": "luh may-dee-kah-MAHN",
+    "english": "the medication",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 168,
+    "french": "fatigué",
+    "pronunciation": "fah-tee-GAY",
+    "english": "tired",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 169,
+    "french": "le rhume",
+    "pronunciation": "luh ROOM",
+    "english": "the cold (illness)",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 170,
+    "french": "la fièvre",
+    "pronunciation": "lah FYEHV-ruh",
+    "english": "the fever",
+    "category": "The Body & Health"
+  },
+  {
+    "id": 171,
+    "french": "rouge",
+    "pronunciation": "roozh",
+    "english": "red",
+    "category": "Colors"
+  },
+  {
+    "id": 172,
+    "french": "bleu",
+    "pronunciation": "bluh",
+    "english": "blue",
+    "category": "Colors"
+  },
+  {
+    "id": 173,
+    "french": "vert",
+    "pronunciation": "vehr",
+    "english": "green",
+    "category": "Colors"
+  },
+  {
+    "id": 174,
+    "french": "jaune",
+    "pronunciation": "zhohn",
+    "english": "yellow",
+    "category": "Colors"
+  },
+  {
+    "id": 175,
+    "french": "orange",
+    "pronunciation": "oh-RAHNZH",
+    "english": "orange",
+    "category": "Colors"
+  },
+  {
+    "id": 176,
+    "french": "noir",
+    "pronunciation": "nwahr",
+    "english": "black",
+    "category": "Colors"
+  },
+  {
+    "id": 177,
+    "french": "blanc",
+    "pronunciation": "blahn",
+    "english": "white",
+    "category": "Colors"
+  },
+  {
+    "id": 178,
+    "french": "gris",
+    "pronunciation": "gree",
+    "english": "gray",
+    "category": "Colors"
+  },
+  {
+    "id": 179,
+    "french": "rose",
+    "pronunciation": "rohz",
+    "english": "pink",
+    "category": "Colors"
+  },
+  {
+    "id": 180,
+    "french": "marron",
+    "pronunciation": "mah-ROHN",
+    "english": "brown",
+    "category": "Colors"
+  },
+  {
+    "id": 181,
+    "french": "violet",
+    "pronunciation": "vee-oh-LEH",
+    "english": "purple",
+    "category": "Colors"
+  },
+  {
+    "id": 182,
+    "french": "clair",
+    "pronunciation": "klehr",
+    "english": "light (color)",
+    "category": "Colors"
+  },
+  {
+    "id": 183,
+    "french": "foncé",
+    "pronunciation": "fohn-SAY",
+    "english": "dark (color)",
+    "category": "Colors"
+  },
+  {
+    "id": 184,
+    "french": "le restaurant",
+    "pronunciation": "luh rehs-toh-RAHN",
+    "english": "the restaurant",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 185,
+    "french": "le café",
+    "pronunciation": "luh kah-FAY",
+    "english": "the coffee / café",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 186,
+    "french": "le menu",
+    "pronunciation": "luh muh-NEW",
+    "english": "the menu",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 187,
+    "french": "l'addition",
+    "pronunciation": "lah-dee-SYOHN",
+    "english": "the bill / check",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 188,
+    "french": "le serveur",
+    "pronunciation": "luh sehr-VUHR",
+    "english": "the waiter",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 189,
+    "french": "la serveuse",
+    "pronunciation": "lah sehr-VUHZ",
+    "english": "the waitress",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 190,
+    "french": "la table",
+    "pronunciation": "lah TAH-bluh",
+    "english": "the table",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 191,
+    "french": "le petit déjeuner",
+    "pronunciation": "luh ptee day-zhuh-NAY",
+    "english": "breakfast",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 192,
+    "french": "le déjeuner",
+    "pronunciation": "luh day-zhuh-NAY",
+    "english": "lunch",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 193,
+    "french": "le dîner",
+    "pronunciation": "luh dee-NAY",
+    "english": "dinner",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 194,
+    "french": "le repas",
+    "pronunciation": "luh ruh-PAH",
+    "english": "the meal",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 195,
+    "french": "le pain",
+    "pronunciation": "luh PAHN",
+    "english": "the bread",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 196,
+    "french": "le beurre",
+    "pronunciation": "luh BUHR",
+    "english": "the butter",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 197,
+    "french": "le fromage",
+    "pronunciation": "luh froh-MAHZH",
+    "english": "the cheese",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 198,
+    "french": "la viande",
+    "pronunciation": "lah VYAHND",
+    "english": "the meat",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 199,
+    "french": "le poulet",
+    "pronunciation": "luh poo-LEH",
+    "english": "the chicken",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 200,
+    "french": "le poisson",
+    "pronunciation": "luh pwah-SOHN",
+    "english": "the fish",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 201,
+    "french": "le riz",
+    "pronunciation": "luh REE",
+    "english": "the rice",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 202,
+    "french": "les pâtes",
+    "pronunciation": "lay PAHT",
+    "english": "pasta",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 203,
+    "french": "la salade",
+    "pronunciation": "lah sah-LAHD",
+    "english": "the salad",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 204,
+    "french": "la soupe",
+    "pronunciation": "lah SOOP",
+    "english": "the soup",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 205,
+    "french": "les légumes",
+    "pronunciation": "lay lay-GOOM",
+    "english": "the vegetables",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 206,
+    "french": "les fruits",
+    "pronunciation": "lay FRWEE",
+    "english": "the fruits",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 207,
+    "french": "la pomme",
+    "pronunciation": "lah PUM",
+    "english": "the apple",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 208,
+    "french": "la banane",
+    "pronunciation": "lah bah-NAHN",
+    "english": "the banana",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 209,
+    "french": "l'orange",
+    "pronunciation": "loh-RAHNZH",
+    "english": "the orange",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 210,
+    "french": "la tomate",
+    "pronunciation": "lah toh-MAHT",
+    "english": "the tomato",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 211,
+    "french": "la pomme de terre",
+    "pronunciation": "lah pum duh TEHR",
+    "english": "the potato",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 212,
+    "french": "l'œuf",
+    "pronunciation": "luhf",
+    "english": "the egg",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 213,
+    "french": "le sucre",
+    "pronunciation": "luh SOO-kruh",
+    "english": "sugar",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 214,
+    "french": "le sel",
+    "pronunciation": "luh SEHL",
+    "english": "salt",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 215,
+    "french": "le poivre",
+    "pronunciation": "luh PWAH-vruh",
+    "english": "pepper",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 216,
+    "french": "l'huile",
+    "pronunciation": "LWEEL",
+    "english": "oil",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 217,
+    "french": "le gâteau",
+    "pronunciation": "luh gah-TOH",
+    "english": "the cake",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 218,
+    "french": "la glace",
+    "pronunciation": "lah GLAHS",
+    "english": "ice cream / ice",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 219,
+    "french": "le chocolat",
+    "pronunciation": "luh shoh-koh-LAH",
+    "english": "chocolate",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 220,
+    "french": "la crêpe",
+    "pronunciation": "lah KREHP",
+    "english": "the crêpe",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 221,
+    "french": "le croissant",
+    "pronunciation": "luh kwah-SAHN",
+    "english": "the croissant",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 222,
+    "french": "la baguette",
+    "pronunciation": "lah bah-GEHT",
+    "english": "the baguette",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 223,
+    "french": "délicieux",
+    "pronunciation": "day-lee-SYUH",
+    "english": "delicious",
+    "category": "Restaurant & Food"
+  },
+  {
+    "id": 224,
+    "french": "l'eau",
+    "pronunciation": "LOH",
+    "english": "water",
+    "category": "Drinks"
+  },
+  {
+    "id": 225,
+    "french": "le lait",
+    "pronunciation": "luh LEH",
+    "english": "milk",
+    "category": "Drinks"
+  },
+  {
+    "id": 226,
+    "french": "le jus",
+    "pronunciation": "luh ZHOO",
+    "english": "juice",
+    "category": "Drinks"
+  },
+  {
+    "id": 227,
+    "french": "le jus d'orange",
+    "pronunciation": "luh zhoo doh-RAHNZH",
+    "english": "orange juice",
+    "category": "Drinks"
+  },
+  {
+    "id": 228,
+    "french": "le thé",
+    "pronunciation": "luh TAY",
+    "english": "tea",
+    "category": "Drinks"
+  },
+  {
+    "id": 229,
+    "french": "le vin",
+    "pronunciation": "luh VAHN",
+    "english": "wine",
+    "category": "Drinks"
+  },
+  {
+    "id": 230,
+    "french": "la bière",
+    "pronunciation": "lah BYEHR",
+    "english": "beer",
+    "category": "Drinks"
+  },
+  {
+    "id": 231,
+    "french": "la boisson",
+    "pronunciation": "lah bwah-SOHN",
+    "english": "the drink",
+    "category": "Drinks"
+  },
+  {
+    "id": 232,
+    "french": "une bouteille",
+    "pronunciation": "oon boo-TAY-yuh",
+    "english": "a bottle",
+    "category": "Drinks"
+  },
+  {
+    "id": 233,
+    "french": "un verre",
+    "pronunciation": "uhn VEHR",
+    "english": "a glass",
+    "category": "Drinks"
+  },
+  {
+    "id": 234,
+    "french": "le magasin",
+    "pronunciation": "luh mah-gah-ZAHN",
+    "english": "the store",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 235,
+    "french": "le supermarché",
+    "pronunciation": "luh soo-pehr-mahr-SHAY",
+    "english": "the supermarket",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 236,
+    "french": "la boulangerie",
+    "pronunciation": "lah boo-lahnzh-REE",
+    "english": "the bakery",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 237,
+    "french": "la pâtisserie",
+    "pronunciation": "lah pah-tee-suh-REE",
+    "english": "the pastry shop",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 238,
+    "french": "la boucherie",
+    "pronunciation": "lah boosh-REE",
+    "english": "the butcher shop",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 239,
+    "french": "le marché",
+    "pronunciation": "luh mahr-SHAY",
+    "english": "the market",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 240,
+    "french": "acheter",
+    "pronunciation": "ahsh-TAY",
+    "english": "to buy",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 241,
+    "french": "vendre",
+    "pronunciation": "VAHN-druh",
+    "english": "to sell",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 242,
+    "french": "payer",
+    "pronunciation": "pay-YAY",
+    "english": "to pay",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 243,
+    "french": "le prix",
+    "pronunciation": "luh PREE",
+    "english": "the price",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 244,
+    "french": "cher",
+    "pronunciation": "shehr",
+    "english": "expensive",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 245,
+    "french": "bon marché",
+    "pronunciation": "bohn mahr-SHAY",
+    "english": "cheap",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 246,
+    "french": "l'argent",
+    "pronunciation": "lahr-ZHAHN",
+    "english": "money / silver",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 247,
+    "french": "la monnaie",
+    "pronunciation": "lah moh-NEH",
+    "english": "change / currency",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 248,
+    "french": "la carte bancaire",
+    "pronunciation": "lah kahrt bahn-KEHR",
+    "english": "bank card",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 249,
+    "french": "le sac",
+    "pronunciation": "luh SAHK",
+    "english": "the bag",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 250,
+    "french": "la chemise",
+    "pronunciation": "lah shuh-MEEZ",
+    "english": "the shirt",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 251,
+    "french": "le pantalon",
+    "pronunciation": "luh pahn-tah-LOHN",
+    "english": "the pants",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 252,
+    "french": "la robe",
+    "pronunciation": "lah ROHB",
+    "english": "the dress",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 253,
+    "french": "la jupe",
+    "pronunciation": "lah ZHOOP",
+    "english": "the skirt",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 254,
+    "french": "le manteau",
+    "pronunciation": "luh mahn-TOH",
+    "english": "the coat",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 255,
+    "french": "la veste",
+    "pronunciation": "lah VEHST",
+    "english": "the jacket",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 256,
+    "french": "les chaussures",
+    "pronunciation": "lay shoh-SOOR",
+    "english": "shoes",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 257,
+    "french": "les chaussettes",
+    "pronunciation": "lay shoh-SEHT",
+    "english": "socks",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 258,
+    "french": "le chapeau",
+    "pronunciation": "luh shah-POH",
+    "english": "the hat",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 259,
+    "french": "les lunettes",
+    "pronunciation": "lay loo-NEHT",
+    "english": "glasses",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 260,
+    "french": "la ceinture",
+    "pronunciation": "lah sahn-TOOR",
+    "english": "the belt",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 261,
+    "french": "le pull",
+    "pronunciation": "luh POOL",
+    "english": "the sweater",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 262,
+    "french": "le tee-shirt",
+    "pronunciation": "luh tee-SHUHRT",
+    "english": "the T-shirt",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 263,
+    "french": "la taille",
+    "pronunciation": "lah TAH-yuh",
+    "english": "the size",
+    "category": "Shopping & Clothes"
+  },
+  {
+    "id": 264,
+    "french": "la maison",
+    "pronunciation": "lah meh-ZOHN",
+    "english": "the house",
+    "category": "House & Home"
+  },
+  {
+    "id": 265,
+    "french": "l'appartement",
+    "pronunciation": "lah-pahr-tuh-MAHN",
+    "english": "the apartment",
+    "category": "House & Home"
+  },
+  {
+    "id": 266,
+    "french": "la chambre",
+    "pronunciation": "lah SHAHM-bruh",
+    "english": "the bedroom",
+    "category": "House & Home"
+  },
+  {
+    "id": 267,
+    "french": "la cuisine",
+    "pronunciation": "lah kwee-ZEEN",
+    "english": "the kitchen",
+    "category": "House & Home"
+  },
+  {
+    "id": 268,
+    "french": "la salle de bain",
+    "pronunciation": "lah sahl duh BAHN",
+    "english": "the bathroom",
+    "category": "House & Home"
+  },
+  {
+    "id": 269,
+    "french": "le salon",
+    "pronunciation": "luh sah-LOHN",
+    "english": "the living room",
+    "category": "House & Home"
+  },
+  {
+    "id": 270,
+    "french": "la salle à manger",
+    "pronunciation": "lah sahl ah mahn-ZHAY",
+    "english": "the dining room",
+    "category": "House & Home"
+  },
+  {
+    "id": 271,
+    "french": "le jardin",
+    "pronunciation": "luh zhahr-DAHN",
+    "english": "the garden",
+    "category": "House & Home"
+  },
+  {
+    "id": 272,
+    "french": "la porte",
+    "pronunciation": "lah POHRT",
+    "english": "the door",
+    "category": "House & Home"
+  },
+  {
+    "id": 273,
+    "french": "la fenêtre",
+    "pronunciation": "lah fuh-NEH-truh",
+    "english": "the window",
+    "category": "House & Home"
+  },
+  {
+    "id": 274,
+    "french": "le mur",
+    "pronunciation": "luh MOOR",
+    "english": "the wall",
+    "category": "House & Home"
+  },
+  {
+    "id": 275,
+    "french": "le toit",
+    "pronunciation": "luh TWAH",
+    "english": "the roof",
+    "category": "House & Home"
+  },
+  {
+    "id": 276,
+    "french": "l'escalier",
+    "pronunciation": "lehs-kah-LYAY",
+    "english": "the stairs",
+    "category": "House & Home"
+  },
+  {
+    "id": 277,
+    "french": "le lit",
+    "pronunciation": "luh LEE",
+    "english": "the bed",
+    "category": "House & Home"
+  },
+  {
+    "id": 278,
+    "french": "la chaise",
+    "pronunciation": "lah SHEHZ",
+    "english": "the chair",
+    "category": "House & Home"
+  },
+  {
+    "id": 279,
+    "french": "le canapé",
+    "pronunciation": "luh kah-nah-PAY",
+    "english": "the sofa",
+    "category": "House & Home"
+  },
+  {
+    "id": 280,
+    "french": "l'armoire",
+    "pronunciation": "lahr-MWAHR",
+    "english": "the wardrobe",
+    "category": "House & Home"
+  },
+  {
+    "id": 281,
+    "french": "le réfrigérateur",
+    "pronunciation": "luh ray-free-zhay-rah-TUHR",
+    "english": "the refrigerator",
+    "category": "House & Home"
+  },
+  {
+    "id": 282,
+    "french": "la douche",
+    "pronunciation": "lah DOOSH",
+    "english": "the shower",
+    "category": "House & Home"
+  },
+  {
+    "id": 283,
+    "french": "les toilettes",
+    "pronunciation": "lay twah-LEHT",
+    "english": "the toilet",
+    "category": "House & Home"
+  },
+  {
+    "id": 284,
+    "french": "la clé",
+    "pronunciation": "lah KLAY",
+    "english": "the key",
+    "category": "House & Home"
+  },
+  {
+    "id": 285,
+    "french": "l'étage",
+    "pronunciation": "lay-TAHZH",
+    "english": "the floor / story",
+    "category": "House & Home"
+  },
+  {
+    "id": 286,
+    "french": "le rez-de-chaussée",
+    "pronunciation": "luh ray-duh-shoh-SAY",
+    "english": "the ground floor",
+    "category": "House & Home"
+  },
+  {
+    "id": 287,
+    "french": "le meuble",
+    "pronunciation": "luh MUH-bluh",
+    "english": "the furniture",
+    "category": "House & Home"
+  },
+  {
+    "id": 288,
+    "french": "la lampe",
+    "pronunciation": "lah LAHMP",
+    "english": "the lamp",
+    "category": "House & Home"
+  },
+  {
+    "id": 289,
+    "french": "l'école",
+    "pronunciation": "lay-KOHL",
+    "english": "the school",
+    "category": "School & Education"
+  },
+  {
+    "id": 290,
+    "french": "l'université",
+    "pronunciation": "loo-nee-vehr-see-TAY",
+    "english": "the university",
+    "category": "School & Education"
+  },
+  {
+    "id": 291,
+    "french": "la classe",
+    "pronunciation": "lah KLAHS",
+    "english": "the class / classroom",
+    "category": "School & Education"
+  },
+  {
+    "id": 292,
+    "french": "le professeur",
+    "pronunciation": "luh proh-feh-SUHR",
+    "english": "the teacher / professor",
+    "category": "School & Education"
+  },
+  {
+    "id": 293,
+    "french": "l'élève",
+    "pronunciation": "lay-LEHV",
+    "english": "the student (school)",
+    "category": "School & Education"
+  },
+  {
+    "id": 294,
+    "french": "l'étudiant",
+    "pronunciation": "lay-too-DYAHN",
+    "english": "the student (university)",
+    "category": "School & Education"
+  },
+  {
+    "id": 295,
+    "french": "le livre",
+    "pronunciation": "luh LEE-vruh",
+    "english": "the book",
+    "category": "School & Education"
+  },
+  {
+    "id": 296,
+    "french": "le cahier",
+    "pronunciation": "luh kah-YAY",
+    "english": "the notebook",
+    "category": "School & Education"
+  },
+  {
+    "id": 297,
+    "french": "le stylo",
+    "pronunciation": "luh stee-LOH",
+    "english": "the pen",
+    "category": "School & Education"
+  },
+  {
+    "id": 298,
+    "french": "le crayon",
+    "pronunciation": "luh kreh-YOHN",
+    "english": "the pencil",
+    "category": "School & Education"
+  },
+  {
+    "id": 299,
+    "french": "le tableau",
+    "pronunciation": "luh tah-BLOH",
+    "english": "the board",
+    "category": "School & Education"
+  },
+  {
+    "id": 300,
+    "french": "la leçon",
+    "pronunciation": "lah luh-SOHN",
+    "english": "the lesson",
+    "category": "School & Education"
+  },
+  {
+    "id": 301,
+    "french": "les devoirs",
+    "pronunciation": "lay duh-VWAHR",
+    "english": "homework",
+    "category": "School & Education"
+  },
+  {
+    "id": 302,
+    "french": "l'examen",
+    "pronunciation": "lehg-zah-MEHN",
+    "english": "the exam",
+    "category": "School & Education"
+  },
+  {
+    "id": 303,
+    "french": "apprendre",
+    "pronunciation": "ah-PRAHN-druh",
+    "english": "to learn",
+    "category": "School & Education"
+  },
+  {
+    "id": 304,
+    "french": "étudier",
+    "pronunciation": "ay-too-DYAY",
+    "english": "to study",
+    "category": "School & Education"
+  },
+  {
+    "id": 305,
+    "french": "lire",
+    "pronunciation": "LEER",
+    "english": "to read",
+    "category": "School & Education"
+  },
+  {
+    "id": 306,
+    "french": "écrire",
+    "pronunciation": "ay-KREER",
+    "english": "to write",
+    "category": "School & Education"
+  },
+  {
+    "id": 307,
+    "french": "comprendre",
+    "pronunciation": "kohm-PRAHN-druh",
+    "english": "to understand",
+    "category": "School & Education"
+  },
+  {
+    "id": 308,
+    "french": "la question",
+    "pronunciation": "lah kehs-TYOHN",
+    "english": "the question",
+    "category": "School & Education"
+  },
+  {
+    "id": 309,
+    "french": "la réponse",
+    "pronunciation": "lah ray-POHNS",
+    "english": "the answer",
+    "category": "School & Education"
+  },
+  {
+    "id": 310,
+    "french": "le mot",
+    "pronunciation": "luh MOH",
+    "english": "the word",
+    "category": "School & Education"
+  },
+  {
+    "id": 311,
+    "french": "la phrase",
+    "pronunciation": "lah FRAHZ",
+    "english": "the sentence",
+    "category": "School & Education"
+  },
+  {
+    "id": 312,
+    "french": "la page",
+    "pronunciation": "lah PAHZH",
+    "english": "the page",
+    "category": "School & Education"
+  },
+  {
+    "id": 313,
+    "french": "le dictionnaire",
+    "pronunciation": "luh deek-syoh-NEHR",
+    "english": "the dictionary",
+    "category": "School & Education"
+  },
+  {
+    "id": 314,
+    "french": "le travail",
+    "pronunciation": "luh trah-VAH-yuh",
+    "english": "work / job",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 315,
+    "french": "travailler",
+    "pronunciation": "trah-vah-YAY",
+    "english": "to work",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 316,
+    "french": "le bureau",
+    "pronunciation": "luh boo-ROH",
+    "english": "the office / desk",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 317,
+    "french": "l'entreprise",
+    "pronunciation": "lahn-truh-PREEZ",
+    "english": "the company",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 318,
+    "french": "le patron",
+    "pronunciation": "luh pah-TROHN",
+    "english": "the boss",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 319,
+    "french": "le collègue",
+    "pronunciation": "luh koh-LEHG",
+    "english": "the colleague",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 320,
+    "french": "le métier",
+    "pronunciation": "luh may-TYAY",
+    "english": "the profession",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 321,
+    "french": "l'avocat",
+    "pronunciation": "lah-voh-KAH",
+    "english": "the lawyer",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 322,
+    "french": "l'ingénieur",
+    "pronunciation": "lahn-zhay-NYUHR",
+    "english": "the engineer",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 323,
+    "french": "l'infirmier",
+    "pronunciation": "lahn-feer-MYAY",
+    "english": "the nurse (male)",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 324,
+    "french": "le vendeur",
+    "pronunciation": "luh vahn-DUHR",
+    "english": "the salesperson",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 325,
+    "french": "le comptable",
+    "pronunciation": "luh kohm-TAH-bluh",
+    "english": "the accountant",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 326,
+    "french": "le boulanger",
+    "pronunciation": "luh boo-lahn-ZHAY",
+    "english": "the baker",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 327,
+    "french": "le cuisinier",
+    "pronunciation": "luh kwee-zee-NYAY",
+    "english": "the cook",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 328,
+    "french": "le chauffeur",
+    "pronunciation": "luh shoh-FUHR",
+    "english": "the driver",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 329,
+    "french": "le policier",
+    "pronunciation": "luh poh-lee-SYAY",
+    "english": "the police officer",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 330,
+    "french": "le pompier",
+    "pronunciation": "luh pohm-PYAY",
+    "english": "the firefighter",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 331,
+    "french": "le facteur",
+    "pronunciation": "luh fahk-TUHR",
+    "english": "the mail carrier",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 332,
+    "french": "le salaire",
+    "pronunciation": "luh sah-LEHR",
+    "english": "the salary",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 333,
+    "french": "la réunion",
+    "pronunciation": "lah ray-oo-NYOHN",
+    "english": "the meeting",
+    "category": "Work & Professions"
+  },
+  {
+    "id": 334,
+    "french": "la ville",
+    "pronunciation": "lah VEEL",
+    "english": "the city",
+    "category": "City & Places"
+  },
+  {
+    "id": 335,
+    "french": "le village",
+    "pronunciation": "luh vee-LAHZH",
+    "english": "the village",
+    "category": "City & Places"
+  },
+  {
+    "id": 336,
+    "french": "la rue",
+    "pronunciation": "lah ROO",
+    "english": "the street",
+    "category": "City & Places"
+  },
+  {
+    "id": 337,
+    "french": "la place",
+    "pronunciation": "lah PLAHS",
+    "english": "the square / place",
+    "category": "City & Places"
+  },
+  {
+    "id": 338,
+    "french": "le parc",
+    "pronunciation": "luh PAHRK",
+    "english": "the park",
+    "category": "City & Places"
+  },
+  {
+    "id": 339,
+    "french": "le pont",
+    "pronunciation": "luh POHN",
+    "english": "the bridge",
+    "category": "City & Places"
+  },
+  {
+    "id": 340,
+    "french": "l'église",
+    "pronunciation": "lay-GLEEZ",
+    "english": "the church",
+    "category": "City & Places"
+  },
+  {
+    "id": 341,
+    "french": "le musée",
+    "pronunciation": "luh moo-ZAY",
+    "english": "the museum",
+    "category": "City & Places"
+  },
+  {
+    "id": 342,
+    "french": "la bibliothèque",
+    "pronunciation": "lah bee-blee-oh-TEHK",
+    "english": "the library",
+    "category": "City & Places"
+  },
+  {
+    "id": 343,
+    "french": "le cinéma",
+    "pronunciation": "luh see-nay-MAH",
+    "english": "the cinema",
+    "category": "City & Places"
+  },
+  {
+    "id": 344,
+    "french": "le théâtre",
+    "pronunciation": "luh tay-AH-truh",
+    "english": "the theater",
+    "category": "City & Places"
+  },
+  {
+    "id": 345,
+    "french": "la poste",
+    "pronunciation": "lah POHST",
+    "english": "the post office",
+    "category": "City & Places"
+  },
+  {
+    "id": 346,
+    "french": "la banque",
+    "pronunciation": "lah BAHNK",
+    "english": "the bank",
+    "category": "City & Places"
+  },
+  {
+    "id": 347,
+    "french": "l'hôtel",
+    "pronunciation": "loh-TEHL",
+    "english": "the hotel",
+    "category": "City & Places"
+  },
+  {
+    "id": 348,
+    "french": "le quartier",
+    "pronunciation": "luh kahr-TYAY",
+    "english": "the neighborhood",
+    "category": "City & Places"
+  },
+  {
+    "id": 349,
+    "french": "le centre-ville",
+    "pronunciation": "luh SAHN-truh veel",
+    "english": "downtown",
+    "category": "City & Places"
+  },
+  {
+    "id": 350,
+    "french": "le trottoir",
+    "pronunciation": "luh troh-TWAHR",
+    "english": "the sidewalk",
+    "category": "City & Places"
+  },
+  {
+    "id": 351,
+    "french": "le bâtiment",
+    "pronunciation": "luh bah-tee-MAHN",
+    "english": "the building",
+    "category": "City & Places"
+  },
+  {
+    "id": 352,
+    "french": "la gare",
+    "pronunciation": "lah GAHR",
+    "english": "the train station",
+    "category": "City & Places"
+  },
+  {
+    "id": 353,
+    "french": "l'aéroport",
+    "pronunciation": "lah-ay-roh-POHR",
+    "english": "the airport",
+    "category": "City & Places"
+  },
+  {
+    "id": 354,
+    "french": "l'arrêt de bus",
+    "pronunciation": "lah-REH duh BOOS",
+    "english": "the bus stop",
+    "category": "City & Places"
+  },
+  {
+    "id": 355,
+    "french": "le parking",
+    "pronunciation": "luh pahr-KEENG",
+    "english": "the parking lot",
+    "category": "City & Places"
+  },
+  {
+    "id": 356,
+    "french": "la piscine",
+    "pronunciation": "lah pee-SEEN",
+    "english": "the swimming pool",
+    "category": "City & Places"
+  },
+  {
+    "id": 357,
+    "french": "le stade",
+    "pronunciation": "luh STAHD",
+    "english": "the stadium",
+    "category": "City & Places"
+  },
+  {
+    "id": 358,
+    "french": "le jardin public",
+    "pronunciation": "luh zhahr-DAHN poo-BLEEK",
+    "english": "the public garden",
+    "category": "City & Places"
+  },
+  {
+    "id": 359,
+    "french": "la voiture",
+    "pronunciation": "lah vwah-TOOR",
+    "english": "the car",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 360,
+    "french": "le bus",
+    "pronunciation": "luh BOOS",
+    "english": "the bus",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 361,
+    "french": "le train",
+    "pronunciation": "luh TREHN",
+    "english": "the train",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 362,
+    "french": "le métro",
+    "pronunciation": "luh may-TROH",
+    "english": "the subway",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 363,
+    "french": "le vélo",
+    "pronunciation": "luh vay-LOH",
+    "english": "the bicycle",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 364,
+    "french": "l'avion",
+    "pronunciation": "lah-VYOHN",
+    "english": "the airplane",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 365,
+    "french": "le bateau",
+    "pronunciation": "luh bah-TOH",
+    "english": "the boat",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 366,
+    "french": "le taxi",
+    "pronunciation": "luh tahk-SEE",
+    "english": "the taxi",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 367,
+    "french": "le billet",
+    "pronunciation": "luh bee-YEH",
+    "english": "the ticket",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 368,
+    "french": "le passeport",
+    "pronunciation": "luh pahs-POHR",
+    "english": "the passport",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 369,
+    "french": "la valise",
+    "pronunciation": "lah vah-LEEZ",
+    "english": "the suitcase",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 370,
+    "french": "le voyage",
+    "pronunciation": "luh vwah-YAHZH",
+    "english": "the trip",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 371,
+    "french": "voyager",
+    "pronunciation": "vwah-yah-ZHAY",
+    "english": "to travel",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 372,
+    "french": "partir",
+    "pronunciation": "pahr-TEER",
+    "english": "to leave / depart",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 373,
+    "french": "arriver",
+    "pronunciation": "ah-ree-VAY",
+    "english": "to arrive",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 374,
+    "french": "la carte",
+    "pronunciation": "lah KAHRT",
+    "english": "the map / card",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 375,
+    "french": "le plan",
+    "pronunciation": "luh PLAHN",
+    "english": "the map (city)",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 376,
+    "french": "la route",
+    "pronunciation": "lah ROOT",
+    "english": "the road",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 377,
+    "french": "le chemin",
+    "pronunciation": "luh shuh-MAHN",
+    "english": "the path / way",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 378,
+    "french": "conduire",
+    "pronunciation": "kohn-DWEER",
+    "english": "to drive",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 379,
+    "french": "tourner",
+    "pronunciation": "toor-NAY",
+    "english": "to turn",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 380,
+    "french": "tout droit",
+    "pronunciation": "too DRWAH",
+    "english": "straight ahead",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 381,
+    "french": "à gauche",
+    "pronunciation": "ah GOHSH",
+    "english": "to the left",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 382,
+    "french": "à droite",
+    "pronunciation": "ah DRWAHT",
+    "english": "to the right",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 383,
+    "french": "ici",
+    "pronunciation": "ee-SEE",
+    "english": "here",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 384,
+    "french": "là",
+    "pronunciation": "lah",
+    "english": "there",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 385,
+    "french": "loin",
+    "pronunciation": "lwahn",
+    "english": "far",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 386,
+    "french": "près",
+    "pronunciation": "preh",
+    "english": "near",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 387,
+    "french": "devant",
+    "pronunciation": "duh-VAHN",
+    "english": "in front of",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 388,
+    "french": "derrière",
+    "pronunciation": "deh-RYEHR",
+    "english": "behind",
+    "category": "Transport & Travel"
+  },
+  {
+    "id": 389,
+    "french": "le temps",
+    "pronunciation": "luh TAHN",
+    "english": "the weather / time",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 390,
+    "french": "le soleil",
+    "pronunciation": "luh soh-LAY-yuh",
+    "english": "the sun",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 391,
+    "french": "la pluie",
+    "pronunciation": "lah PLWEE",
+    "english": "the rain",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 392,
+    "french": "la neige",
+    "pronunciation": "lah NEHZH",
+    "english": "the snow",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 393,
+    "french": "le vent",
+    "pronunciation": "luh VAHN",
+    "english": "the wind",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 394,
+    "french": "le nuage",
+    "pronunciation": "luh noo-AHZH",
+    "english": "the cloud",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 395,
+    "french": "le ciel",
+    "pronunciation": "luh SYEHL",
+    "english": "the sky",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 396,
+    "french": "il fait chaud",
+    "pronunciation": "eel feh SHOH",
+    "english": "it's hot",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 397,
+    "french": "il fait froid",
+    "pronunciation": "eel feh FRWAH",
+    "english": "it's cold",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 398,
+    "french": "il fait beau",
+    "pronunciation": "eel feh BOH",
+    "english": "it's nice weather",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 399,
+    "french": "il pleut",
+    "pronunciation": "eel PLUH",
+    "english": "it's raining",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 400,
+    "french": "il neige",
+    "pronunciation": "eel NEHZH",
+    "english": "it's snowing",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 401,
+    "french": "l'arbre",
+    "pronunciation": "LAHR-bruh",
+    "english": "the tree",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 402,
+    "french": "la fleur",
+    "pronunciation": "lah FLUHR",
+    "english": "the flower",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 403,
+    "french": "la mer",
+    "pronunciation": "lah MEHR",
+    "english": "the sea",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 404,
+    "french": "la montagne",
+    "pronunciation": "lah mohn-TAH-nyuh",
+    "english": "the mountain",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 405,
+    "french": "la rivière",
+    "pronunciation": "lah ree-VYEHR",
+    "english": "the river",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 406,
+    "french": "le lac",
+    "pronunciation": "luh LAHK",
+    "english": "the lake",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 407,
+    "french": "la forêt",
+    "pronunciation": "lah foh-REH",
+    "english": "the forest",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 408,
+    "french": "la plage",
+    "pronunciation": "lah PLAHZH",
+    "english": "the beach",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 409,
+    "french": "l'animal",
+    "pronunciation": "lah-nee-MAHL",
+    "english": "the animal",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 410,
+    "french": "le chien",
+    "pronunciation": "luh SHYEHN",
+    "english": "the dog",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 411,
+    "french": "le chat",
+    "pronunciation": "luh SHAH",
+    "english": "the cat",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 412,
+    "french": "l'oiseau",
+    "pronunciation": "lwah-ZOH",
+    "english": "the bird",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 413,
+    "french": "le cheval",
+    "pronunciation": "luh shuh-VAHL",
+    "english": "the horse",
+    "category": "Weather & Nature"
+  },
+  {
+    "id": 414,
+    "french": "être",
+    "pronunciation": "EH-truh",
+    "english": "to be",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 415,
+    "french": "avoir",
+    "pronunciation": "ah-VWAHR",
+    "english": "to have",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 416,
+    "french": "faire",
+    "pronunciation": "FEHR",
+    "english": "to do / to make",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 417,
+    "french": "aller",
+    "pronunciation": "ah-LAY",
+    "english": "to go",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 418,
+    "french": "venir",
+    "pronunciation": "vuh-NEER",
+    "english": "to come",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 419,
+    "french": "voir",
+    "pronunciation": "VWAHR",
+    "english": "to see",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 420,
+    "french": "savoir",
+    "pronunciation": "sah-VWAHR",
+    "english": "to know (fact)",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 421,
+    "french": "pouvoir",
+    "pronunciation": "poo-VWAHR",
+    "english": "to be able / can",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 422,
+    "french": "vouloir",
+    "pronunciation": "voo-LWAHR",
+    "english": "to want",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 423,
+    "french": "devoir",
+    "pronunciation": "duh-VWAHR",
+    "english": "to must / to have to",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 424,
+    "french": "dire",
+    "pronunciation": "DEER",
+    "english": "to say / to tell",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 425,
+    "french": "donner",
+    "pronunciation": "doh-NAY",
+    "english": "to give",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 426,
+    "french": "prendre",
+    "pronunciation": "PRAHN-druh",
+    "english": "to take",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 427,
+    "french": "parler",
+    "pronunciation": "pahr-LAY",
+    "english": "to speak",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 428,
+    "french": "manger",
+    "pronunciation": "mahn-ZHAY",
+    "english": "to eat",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 429,
+    "french": "boire",
+    "pronunciation": "BWAHR",
+    "english": "to drink",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 430,
+    "french": "dormir",
+    "pronunciation": "dohr-MEER",
+    "english": "to sleep",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 431,
+    "french": "marcher",
+    "pronunciation": "mahr-SHAY",
+    "english": "to walk",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 432,
+    "french": "courir",
+    "pronunciation": "koo-REER",
+    "english": "to run",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 433,
+    "french": "jouer",
+    "pronunciation": "zhoo-AY",
+    "english": "to play",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 434,
+    "french": "aimer",
+    "pronunciation": "eh-MAY",
+    "english": "to love / to like",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 435,
+    "french": "détester",
+    "pronunciation": "day-tehs-TAY",
+    "english": "to hate",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 436,
+    "french": "préférer",
+    "pronunciation": "pray-fay-RAY",
+    "english": "to prefer",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 437,
+    "french": "commencer",
+    "pronunciation": "koh-mahn-SAY",
+    "english": "to begin",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 438,
+    "french": "finir",
+    "pronunciation": "fee-NEER",
+    "english": "to finish",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 439,
+    "french": "chercher",
+    "pronunciation": "shehr-SHAY",
+    "english": "to look for",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 440,
+    "french": "trouver",
+    "pronunciation": "troo-VAY",
+    "english": "to find",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 441,
+    "french": "attendre",
+    "pronunciation": "ah-TAHN-druh",
+    "english": "to wait",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 442,
+    "french": "mettre",
+    "pronunciation": "MEH-truh",
+    "english": "to put / to put on",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 443,
+    "french": "ouvrir",
+    "pronunciation": "oo-VREER",
+    "english": "to open",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 444,
+    "french": "fermer",
+    "pronunciation": "fehr-MAY",
+    "english": "to close",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 445,
+    "french": "entrer",
+    "pronunciation": "ahn-TRAY",
+    "english": "to enter",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 446,
+    "french": "sortir",
+    "pronunciation": "sohr-TEER",
+    "english": "to go out",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 447,
+    "french": "monter",
+    "pronunciation": "mohn-TAY",
+    "english": "to go up",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 448,
+    "french": "descendre",
+    "pronunciation": "day-SAHN-druh",
+    "english": "to go down",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 449,
+    "french": "aider",
+    "pronunciation": "eh-DAY",
+    "english": "to help",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 450,
+    "french": "demander",
+    "pronunciation": "duh-mahn-DAY",
+    "english": "to ask",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 451,
+    "french": "répondre",
+    "pronunciation": "ray-POHN-druh",
+    "english": "to answer",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 452,
+    "french": "penser",
+    "pronunciation": "pahn-SAY",
+    "english": "to think",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 453,
+    "french": "croire",
+    "pronunciation": "KRWAHR",
+    "english": "to believe",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 454,
+    "french": "connaître",
+    "pronunciation": "koh-NEH-truh",
+    "english": "to know (person/place)",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 455,
+    "french": "essayer",
+    "pronunciation": "eh-say-YAY",
+    "english": "to try",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 456,
+    "french": "oublier",
+    "pronunciation": "oo-blee-YAY",
+    "english": "to forget",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 457,
+    "french": "se rappeler",
+    "pronunciation": "suh rah-PLAY",
+    "english": "to remember",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 458,
+    "french": "choisir",
+    "pronunciation": "shwah-ZEER",
+    "english": "to choose",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 459,
+    "french": "montrer",
+    "pronunciation": "mohn-TRAY",
+    "english": "to show",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 460,
+    "french": "expliquer",
+    "pronunciation": "ehks-plee-KAY",
+    "english": "to explain",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 461,
+    "french": "chanter",
+    "pronunciation": "shahn-TAY",
+    "english": "to sing",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 462,
+    "french": "danser",
+    "pronunciation": "dahn-SAY",
+    "english": "to dance",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 463,
+    "french": "nager",
+    "pronunciation": "nah-ZHAY",
+    "english": "to swim",
+    "category": "Common Verbs"
+  },
+  {
+    "id": 464,
+    "french": "grand",
+    "pronunciation": "grahn",
+    "english": "big / tall",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 465,
+    "french": "petit",
+    "pronunciation": "puh-TEE",
+    "english": "small / short",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 466,
+    "french": "bon",
+    "pronunciation": "bohn",
+    "english": "good",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 467,
+    "french": "mauvais",
+    "pronunciation": "moh-VEH",
+    "english": "bad",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 468,
+    "french": "beau",
+    "pronunciation": "boh",
+    "english": "beautiful / handsome",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 469,
+    "french": "joli",
+    "pronunciation": "zhoh-LEE",
+    "english": "pretty",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 470,
+    "french": "nouveau",
+    "pronunciation": "noo-VOH",
+    "english": "new",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 471,
+    "french": "vieux",
+    "pronunciation": "vyuh",
+    "english": "old",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 472,
+    "french": "jeune",
+    "pronunciation": "zhuhn",
+    "english": "young",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 473,
+    "french": "long",
+    "pronunciation": "lohn",
+    "english": "long",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 474,
+    "french": "court",
+    "pronunciation": "koor",
+    "english": "short (length)",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 475,
+    "french": "chaud",
+    "pronunciation": "shoh",
+    "english": "hot / warm",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 476,
+    "french": "froid",
+    "pronunciation": "frwah",
+    "english": "cold",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 477,
+    "french": "facile",
+    "pronunciation": "fah-SEEL",
+    "english": "easy",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 478,
+    "french": "difficile",
+    "pronunciation": "dee-fee-SEEL",
+    "english": "difficult",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 479,
+    "french": "rapide",
+    "pronunciation": "rah-PEED",
+    "english": "fast",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 480,
+    "french": "lent",
+    "pronunciation": "lahn",
+    "english": "slow",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 481,
+    "french": "heureux",
+    "pronunciation": "uh-RUH",
+    "english": "happy",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 482,
+    "french": "triste",
+    "pronunciation": "treest",
+    "english": "sad",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 483,
+    "french": "content",
+    "pronunciation": "kohn-TAHN",
+    "english": "happy / pleased",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 484,
+    "french": "gentil",
+    "pronunciation": "zhahn-TEE",
+    "english": "kind / nice",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 485,
+    "french": "méchant",
+    "pronunciation": "may-SHAHN",
+    "english": "mean / naughty",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 486,
+    "french": "important",
+    "pronunciation": "ahm-pohr-TAHN",
+    "english": "important",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 487,
+    "french": "intéressant",
+    "pronunciation": "ahn-tay-reh-SAHN",
+    "english": "interesting",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 488,
+    "french": "ennuyeux",
+    "pronunciation": "ahn-nwee-YUH",
+    "english": "boring",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 489,
+    "french": "propre",
+    "pronunciation": "PROH-pruh",
+    "english": "clean / own",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 490,
+    "french": "sale",
+    "pronunciation": "SAHL",
+    "english": "dirty",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 491,
+    "french": "ouvert",
+    "pronunciation": "oo-VEHR",
+    "english": "open",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 492,
+    "french": "fermé",
+    "pronunciation": "fehr-MAY",
+    "english": "closed",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 493,
+    "french": "possible",
+    "pronunciation": "poh-SEE-bluh",
+    "english": "possible",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 494,
+    "french": "impossible",
+    "pronunciation": "ahm-poh-SEE-bluh",
+    "english": "impossible",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 495,
+    "french": "sûr",
+    "pronunciation": "soor",
+    "english": "sure / safe",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 496,
+    "french": "prêt",
+    "pronunciation": "preh",
+    "english": "ready",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 497,
+    "french": "libre",
+    "pronunciation": "LEE-bruh",
+    "english": "free (not busy)",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 498,
+    "french": "occupé",
+    "pronunciation": "oh-koo-PAY",
+    "english": "busy / occupied",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 499,
+    "french": "plein",
+    "pronunciation": "plehn",
+    "english": "full",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 500,
+    "french": "vide",
+    "pronunciation": "VEED",
+    "english": "empty",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 501,
+    "french": "même",
+    "pronunciation": "mehm",
+    "english": "same",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 502,
+    "french": "autre",
+    "pronunciation": "OH-truh",
+    "english": "other",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 503,
+    "french": "seul",
+    "pronunciation": "suhl",
+    "english": "alone / only",
+    "category": "Common Adjectives"
+  },
+  {
+    "id": 504,
+    "french": "à",
+    "pronunciation": "ah",
+    "english": "to / at / in",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 505,
+    "french": "de",
+    "pronunciation": "duh",
+    "english": "of / from",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 506,
+    "french": "en",
+    "pronunciation": "ahn",
+    "english": "in / by",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 507,
+    "french": "dans",
+    "pronunciation": "dahn",
+    "english": "in / inside",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 508,
+    "french": "sur",
+    "pronunciation": "soor",
+    "english": "on",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 509,
+    "french": "sous",
+    "pronunciation": "soo",
+    "english": "under",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 510,
+    "french": "avec",
+    "pronunciation": "ah-VEHK",
+    "english": "with",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 511,
+    "french": "sans",
+    "pronunciation": "sahn",
+    "english": "without",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 512,
+    "french": "pour",
+    "pronunciation": "poor",
+    "english": "for",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 513,
+    "french": "entre",
+    "pronunciation": "AHN-truh",
+    "english": "between",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 514,
+    "french": "avant",
+    "pronunciation": "ah-VAHN",
+    "english": "before",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 515,
+    "french": "après",
+    "pronunciation": "ah-PREH",
+    "english": "after",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 516,
+    "french": "pendant",
+    "pronunciation": "pahn-DAHN",
+    "english": "during",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 517,
+    "french": "depuis",
+    "pronunciation": "duh-PWEE",
+    "english": "since / for",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 518,
+    "french": "vers",
+    "pronunciation": "vehr",
+    "english": "towards / around",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 519,
+    "french": "et",
+    "pronunciation": "ay",
+    "english": "and",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 520,
+    "french": "ou",
+    "pronunciation": "oo",
+    "english": "or",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 521,
+    "french": "mais",
+    "pronunciation": "meh",
+    "english": "but",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 522,
+    "french": "donc",
+    "pronunciation": "dohnk",
+    "english": "so / therefore",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 523,
+    "french": "parce que",
+    "pronunciation": "pahrs kuh",
+    "english": "because",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 524,
+    "french": "si",
+    "pronunciation": "see",
+    "english": "if / yes (contradicting)",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 525,
+    "french": "aussi",
+    "pronunciation": "oh-SEE",
+    "english": "also / too",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 526,
+    "french": "très",
+    "pronunciation": "treh",
+    "english": "very",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 527,
+    "french": "trop",
+    "pronunciation": "troh",
+    "english": "too (much)",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 528,
+    "french": "assez",
+    "pronunciation": "ah-SAY",
+    "english": "enough / quite",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 529,
+    "french": "beaucoup",
+    "pronunciation": "boh-KOO",
+    "english": "a lot",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 530,
+    "french": "peu",
+    "pronunciation": "puh",
+    "english": "little / few",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 531,
+    "french": "plus",
+    "pronunciation": "ploo",
+    "english": "more",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 532,
+    "french": "moins",
+    "pronunciation": "mwahn",
+    "english": "less",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 533,
+    "french": "rien",
+    "pronunciation": "ryehn",
+    "english": "nothing",
+    "category": "Prepositions & Connectors"
+  },
+  {
+    "id": 534,
+    "french": "se lever",
+    "pronunciation": "suh luh-VAY",
+    "english": "to get up",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 535,
+    "french": "se coucher",
+    "pronunciation": "suh koo-SHAY",
+    "english": "to go to bed",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 536,
+    "french": "se laver",
+    "pronunciation": "suh lah-VAY",
+    "english": "to wash oneself",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 537,
+    "french": "se doucher",
+    "pronunciation": "suh doo-SHAY",
+    "english": "to shower",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 538,
+    "french": "s'habiller",
+    "pronunciation": "sah-bee-YAY",
+    "english": "to get dressed",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 539,
+    "french": "se brosser les dents",
+    "pronunciation": "suh broh-SAY lay DAHN",
+    "english": "to brush teeth",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 540,
+    "french": "cuisiner",
+    "pronunciation": "kwee-zee-NAY",
+    "english": "to cook",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 541,
+    "french": "nettoyer",
+    "pronunciation": "neh-twah-YAY",
+    "english": "to clean",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 542,
+    "french": "ranger",
+    "pronunciation": "rahn-ZHAY",
+    "english": "to tidy up",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 543,
+    "french": "regarder",
+    "pronunciation": "ruh-gahr-DAY",
+    "english": "to watch / look at",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 544,
+    "french": "écouter",
+    "pronunciation": "ay-koo-TAY",
+    "english": "to listen",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 545,
+    "french": "téléphoner",
+    "pronunciation": "tay-lay-foh-NAY",
+    "english": "to phone",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 546,
+    "french": "envoyer",
+    "pronunciation": "ahn-vwah-YAY",
+    "english": "to send",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 547,
+    "french": "recevoir",
+    "pronunciation": "ruh-suh-VWAHR",
+    "english": "to receive",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 548,
+    "french": "inviter",
+    "pronunciation": "ahn-vee-TAY",
+    "english": "to invite",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 549,
+    "french": "visiter",
+    "pronunciation": "vee-zee-TAY",
+    "english": "to visit (a place)",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 550,
+    "french": "rencontrer",
+    "pronunciation": "rahn-kohn-TRAY",
+    "english": "to meet",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 551,
+    "french": "se promener",
+    "pronunciation": "suh prohm-NAY",
+    "english": "to go for a walk",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 552,
+    "french": "faire du sport",
+    "pronunciation": "fehr doo SPOHR",
+    "english": "to do sports",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 553,
+    "french": "faire les courses",
+    "pronunciation": "fehr lay KOORS",
+    "english": "to go shopping",
+    "category": "Everyday Actions"
+  },
+  {
+    "id": 554,
+    "french": "la joie",
+    "pronunciation": "lah ZHWAH",
+    "english": "joy",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 555,
+    "french": "la colère",
+    "pronunciation": "lah koh-LEHR",
+    "english": "anger",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 556,
+    "french": "la peur",
+    "pronunciation": "lah PUHR",
+    "english": "fear",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 557,
+    "french": "la surprise",
+    "pronunciation": "lah soor-PREEZ",
+    "english": "surprise",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 558,
+    "french": "l'amour",
+    "pronunciation": "lah-MOOR",
+    "english": "love",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 559,
+    "french": "fâché",
+    "pronunciation": "fah-SHAY",
+    "english": "angry",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 560,
+    "french": "inquiet",
+    "pronunciation": "ahn-KYEH",
+    "english": "worried",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 561,
+    "french": "calme",
+    "pronunciation": "KAHLM",
+    "english": "calm",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 562,
+    "french": "nerveux",
+    "pronunciation": "nehr-VUH",
+    "english": "nervous",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 563,
+    "french": "fier",
+    "pronunciation": "fee-EHR",
+    "english": "proud",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 564,
+    "french": "désolé",
+    "pronunciation": "day-zoh-LAY",
+    "english": "sorry",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 565,
+    "french": "surpris",
+    "pronunciation": "soor-PREE",
+    "english": "surprised",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 566,
+    "french": "ennuyé",
+    "pronunciation": "ahn-nwee-YAY",
+    "english": "bored / annoyed",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 567,
+    "french": "curieux",
+    "pronunciation": "koo-RYUH",
+    "english": "curious",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 568,
+    "french": "timide",
+    "pronunciation": "tee-MEED",
+    "english": "shy",
+    "category": "Emotions & Descriptions"
+  },
+  {
+    "id": 569,
+    "french": "le téléphone",
+    "pronunciation": "luh tay-lay-FUHN",
+    "english": "the phone",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 570,
+    "french": "le portable",
+    "pronunciation": "luh pohr-TAH-bluh",
+    "english": "the cell phone / laptop",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 571,
+    "french": "l'ordinateur",
+    "pronunciation": "lohr-dee-nah-TUHR",
+    "english": "the computer",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 572,
+    "french": "l'internet",
+    "pronunciation": "lahn-tehr-NEHT",
+    "english": "the internet",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 573,
+    "french": "le message",
+    "pronunciation": "luh meh-SAHZH",
+    "english": "the message",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 574,
+    "french": "le courriel",
+    "pronunciation": "luh koo-RYEHL",
+    "english": "the email",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 575,
+    "french": "le site web",
+    "pronunciation": "luh seet WEHB",
+    "english": "the website",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 576,
+    "french": "la photo",
+    "pronunciation": "lah foh-TOH",
+    "english": "the photo",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 577,
+    "french": "le film",
+    "pronunciation": "luh FEELM",
+    "english": "the movie / film",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 578,
+    "french": "la musique",
+    "pronunciation": "lah moo-ZEEK",
+    "english": "the music",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 579,
+    "french": "la chanson",
+    "pronunciation": "lah shahn-SOHN",
+    "english": "the song",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 580,
+    "french": "le journal",
+    "pronunciation": "luh zhoor-NAHL",
+    "english": "the newspaper",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 581,
+    "french": "la télévision",
+    "pronunciation": "lah tay-lay-vee-ZYOHN",
+    "english": "television",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 582,
+    "french": "la radio",
+    "pronunciation": "lah rah-DYOH",
+    "english": "the radio",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 583,
+    "french": "le programme",
+    "pronunciation": "luh proh-GRAHM",
+    "english": "the program",
+    "category": "Technology & Communication"
+  },
+  {
+    "id": 584,
+    "french": "je m'appelle",
+    "pronunciation": "zhuh mah-PEHL",
+    "english": "my name is",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 585,
+    "french": "j'ai ... ans",
+    "pronunciation": "zhay ... ahn",
+    "english": "I am ... years old",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 586,
+    "french": "je suis",
+    "pronunciation": "zhuh SWEE",
+    "english": "I am",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 587,
+    "french": "je voudrais",
+    "pronunciation": "zhuh voo-DREH",
+    "english": "I would like",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 588,
+    "french": "j'ai besoin de",
+    "pronunciation": "zhay buh-ZWAHN duh",
+    "english": "I need",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 589,
+    "french": "j'ai faim",
+    "pronunciation": "zhay FAHM",
+    "english": "I'm hungry",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 590,
+    "french": "j'ai soif",
+    "pronunciation": "zhay SWAHF",
+    "english": "I'm thirsty",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 591,
+    "french": "j'ai chaud",
+    "pronunciation": "zhay SHOH",
+    "english": "I'm hot",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 592,
+    "french": "j'ai froid",
+    "pronunciation": "zhay FRWAH",
+    "english": "I'm cold",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 593,
+    "french": "j'ai peur",
+    "pronunciation": "zhay PUHR",
+    "english": "I'm afraid",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 594,
+    "french": "je ne sais pas",
+    "pronunciation": "zhuh nuh SEH pah",
+    "english": "I don't know",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 595,
+    "french": "je ne comprends pas",
+    "pronunciation": "zhuh nuh kohm-PRAHN pah",
+    "english": "I don't understand",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 596,
+    "french": "parlez-vous anglais",
+    "pronunciation": "pahr-LAY voo ahn-GLEH",
+    "english": "do you speak English",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 597,
+    "french": "je parle un peu français",
+    "pronunciation": "zhuh pahrl uhn puh frahn-SEH",
+    "english": "I speak a little French",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 598,
+    "french": "pouvez-vous répéter",
+    "pronunciation": "poo-VAY voo ray-pay-TAY",
+    "english": "can you repeat",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 599,
+    "french": "plus lentement",
+    "pronunciation": "ploo lahnt-MAHN",
+    "english": "more slowly",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 600,
+    "french": "qu'est-ce que c'est",
+    "pronunciation": "kehs kuh SEH",
+    "english": "what is this",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 601,
+    "french": "il y a",
+    "pronunciation": "eel ee AH",
+    "english": "there is / there are",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 602,
+    "french": "il n'y a pas",
+    "pronunciation": "eel nee ah PAH",
+    "english": "there is no / there are no",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 603,
+    "french": "c'est combien",
+    "pronunciation": "seh kohm-BYEHN",
+    "english": "how much is it",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 604,
+    "french": "je suis perdu",
+    "pronunciation": "zhuh swee pehr-DOO",
+    "english": "I am lost",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 605,
+    "french": "où est ...",
+    "pronunciation": "oo EH",
+    "english": "where is ...",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 606,
+    "french": "à quelle heure",
+    "pronunciation": "ah kehl UHR",
+    "english": "at what time",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 607,
+    "french": "d'accord",
+    "pronunciation": "dah-KOHR",
+    "english": "okay / agreed",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 608,
+    "french": "bien sûr",
+    "pronunciation": "byehn SOOR",
+    "english": "of course",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 609,
+    "french": "pas de problème",
+    "pronunciation": "pah duh proh-BLEHM",
+    "english": "no problem",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 610,
+    "french": "je suis désolé",
+    "pronunciation": "zhuh swee day-zoh-LAY",
+    "english": "I am sorry",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 611,
+    "french": "félicitations",
+    "pronunciation": "fay-lee-see-tah-SYOHN",
+    "english": "congratulations",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 612,
+    "french": "bon appétit",
+    "pronunciation": "bohn ah-pay-TEE",
+    "english": "enjoy your meal",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 613,
+    "french": "santé",
+    "pronunciation": "sahn-TAY",
+    "english": "cheers (toasting)",
+    "category": "Useful Expressions"
+  },
+  {
+    "id": 614,
+    "french": "le",
+    "pronunciation": "luh",
+    "english": "the (masc. sing.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 615,
+    "french": "la",
+    "pronunciation": "lah",
+    "english": "the (fem. sing.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 616,
+    "french": "les",
+    "pronunciation": "lay",
+    "english": "the (plural)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 617,
+    "french": "un",
+    "pronunciation": "uhn",
+    "english": "a (masc.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 618,
+    "french": "une",
+    "pronunciation": "oon",
+    "english": "a (fem.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 619,
+    "french": "des",
+    "pronunciation": "day",
+    "english": "some (plural)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 620,
+    "french": "du",
+    "pronunciation": "doo",
+    "english": "some (masc. / of the)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 621,
+    "french": "de la",
+    "pronunciation": "duh lah",
+    "english": "some (fem.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 622,
+    "french": "mon",
+    "pronunciation": "mohn",
+    "english": "my (masc.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 623,
+    "french": "ma",
+    "pronunciation": "mah",
+    "english": "my (fem.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 624,
+    "french": "mes",
+    "pronunciation": "may",
+    "english": "my (plural)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 625,
+    "french": "ton",
+    "pronunciation": "tohn",
+    "english": "your (masc. informal)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 626,
+    "french": "ta",
+    "pronunciation": "tah",
+    "english": "your (fem. informal)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 627,
+    "french": "tes",
+    "pronunciation": "tay",
+    "english": "your (pl. informal)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 628,
+    "french": "son",
+    "pronunciation": "sohn",
+    "english": "his/her (masc.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 629,
+    "french": "sa",
+    "pronunciation": "sah",
+    "english": "his/her (fem.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 630,
+    "french": "ses",
+    "pronunciation": "say",
+    "english": "his/her (plural)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 631,
+    "french": "notre",
+    "pronunciation": "NOH-truh",
+    "english": "our (sing.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 632,
+    "french": "nos",
+    "pronunciation": "noh",
+    "english": "our (plural)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 633,
+    "french": "leur",
+    "pronunciation": "luhr",
+    "english": "their (sing.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 634,
+    "french": "ce",
+    "pronunciation": "suh",
+    "english": "this (masc.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 635,
+    "french": "cette",
+    "pronunciation": "SEHT",
+    "english": "this (fem.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 636,
+    "french": "ces",
+    "pronunciation": "say",
+    "english": "these",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 637,
+    "french": "tout",
+    "pronunciation": "too",
+    "english": "all / every (masc.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 638,
+    "french": "toute",
+    "pronunciation": "toot",
+    "english": "all / every (fem.)",
+    "category": "Articles & Determiners"
+  },
+  {
+    "id": 639,
+    "french": "le sport",
+    "pronunciation": "luh SPOHR",
+    "english": "sport",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 640,
+    "french": "le football",
+    "pronunciation": "luh foot-BOHL",
+    "english": "soccer",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 641,
+    "french": "le tennis",
+    "pronunciation": "luh teh-NEES",
+    "english": "tennis",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 642,
+    "french": "la natation",
+    "pronunciation": "lah nah-tah-SYOHN",
+    "english": "swimming",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 643,
+    "french": "la lecture",
+    "pronunciation": "lah lehk-TOOR",
+    "english": "reading",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 644,
+    "french": "le dessin",
+    "pronunciation": "luh deh-SAHN",
+    "english": "drawing",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 645,
+    "french": "la peinture",
+    "pronunciation": "lah pahn-TOOR",
+    "english": "painting",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 646,
+    "french": "la cuisine",
+    "pronunciation": "lah kwee-ZEEN",
+    "english": "cooking (hobby)",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 647,
+    "french": "le voyage",
+    "pronunciation": "luh vwah-YAHZH",
+    "english": "travel",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 648,
+    "french": "la promenade",
+    "pronunciation": "lah prohm-NAHD",
+    "english": "walk / stroll",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 649,
+    "french": "le jeu",
+    "pronunciation": "luh ZHUH",
+    "english": "the game",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 650,
+    "french": "la fête",
+    "pronunciation": "lah FEHT",
+    "english": "the party / festival",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 651,
+    "french": "les vacances",
+    "pronunciation": "lay vah-KAHNS",
+    "english": "vacation / holiday",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 652,
+    "french": "le week-end",
+    "pronunciation": "luh wee-KEHND",
+    "english": "the weekend",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 653,
+    "french": "le loisir",
+    "pronunciation": "luh lwah-ZEER",
+    "english": "leisure",
+    "category": "Hobbies & Leisure"
+  },
+  {
+    "id": 654,
+    "french": "je suis",
+    "pronunciation": "zhuh SWEE",
+    "english": "I am",
+    "category": "Etre & Avoir Conjugations"
+  },
+  {
+    "id": 655,
+    "french": "tu es",
+    "pronunciation": "too EH",
+    "english": "you are (informal)",
+    "category": "Etre & Avoir Conjugations"
+  },
+  {
+    "id": 656,
+    "french": "il/elle est",
+    "pronunciation": "eel/ehl EH",
+    "english": "he/she is",
+    "category": "Etre & Avoir Conjugations"
+  },
+  {
+    "id": 657,
+    "french": "nous sommes",
+    "pronunciation": "noo SUHM",
+    "english": "we are",
+    "category": "Etre & Avoir Conjugations"
+  },
+  {
+    "id": 658,
+    "french": "vous êtes",
+    "pronunciation": "voo ZEHT",
+    "english": "you are (formal)",
+    "category": "Etre & Avoir Conjugations"
+  },
+  {
+    "id": 659,
+    "french": "ils/elles sont",
+    "pronunciation": "eel/ehl SOHN",
+    "english": "they are",
+    "category": "Etre & Avoir Conjugations"
+  },
+  {
+    "id": 660,
+    "french": "j'ai",
+    "pronunciation": "zhay",
+    "english": "I have",
+    "category": "Etre & Avoir Conjugations"
+  },
+  {
+    "id": 661,
+    "french": "tu as",
+    "pronunciation": "too AH",
+    "english": "you have (informal)",
+    "category": "Etre & Avoir Conjugations"
+  },
+  {
+    "id": 662,
+    "french": "il/elle a",
+    "pronunciation": "eel/ehl AH",
+    "english": "he/she has",
+    "category": "Etre & Avoir Conjugations"
+  },
+  {
+    "id": 663,
+    "french": "nous avons",
+    "pronunciation": "noo zah-VOHN",
+    "english": "we have",
+    "category": "Etre & Avoir Conjugations"
+  },
+  {
+    "id": 664,
+    "french": "vous avez",
+    "pronunciation": "voo zah-VAY",
+    "english": "you have (formal)",
+    "category": "Etre & Avoir Conjugations"
+  },
+  {
+    "id": 665,
+    "french": "ils/elles ont",
+    "pronunciation": "eel/ehl ZOHN",
+    "english": "they have",
+    "category": "Etre & Avoir Conjugations"
+  },
+  {
+    "id": 666,
+    "french": "répéter",
+    "pronunciation": "ray-pay-TAY",
+    "english": "to repeat",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 667,
+    "french": "épeler",
+    "pronunciation": "ay-puh-LAY",
+    "english": "to spell",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 668,
+    "french": "traduire",
+    "pronunciation": "trah-DWEER",
+    "english": "to translate",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 669,
+    "french": "corriger",
+    "pronunciation": "koh-ree-ZHAY",
+    "english": "to correct",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 670,
+    "french": "la faute",
+    "pronunciation": "lah FOHT",
+    "english": "the mistake",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 671,
+    "french": "l'exercice",
+    "pronunciation": "lehg-zehr-SEES",
+    "english": "the exercise",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 672,
+    "french": "le cours",
+    "pronunciation": "luh KOOR",
+    "english": "the course / class",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 673,
+    "french": "la salle de classe",
+    "pronunciation": "lah sahl duh KLAHS",
+    "english": "the classroom",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 674,
+    "french": "le bureau du professeur",
+    "pronunciation": "luh boo-ROH doo proh-feh-SUHR",
+    "english": "the teacher's desk",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 675,
+    "french": "la gomme",
+    "pronunciation": "lah GUHM",
+    "english": "the eraser",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 676,
+    "french": "la règle",
+    "pronunciation": "lah REH-gluh",
+    "english": "the ruler",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 677,
+    "french": "les ciseaux",
+    "pronunciation": "lay see-ZOH",
+    "english": "scissors",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 678,
+    "french": "la colle",
+    "pronunciation": "lah KUHL",
+    "english": "glue",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 679,
+    "french": "le papier",
+    "pronunciation": "luh pah-PYAY",
+    "english": "paper",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 680,
+    "french": "le sac à dos",
+    "pronunciation": "luh sahk ah DOH",
+    "english": "the backpack",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 681,
+    "french": "la trousse",
+    "pronunciation": "lah TROOS",
+    "english": "the pencil case",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 682,
+    "french": "le cartable",
+    "pronunciation": "luh kahr-TAH-bluh",
+    "english": "the school bag",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 683,
+    "french": "la récréation",
+    "pronunciation": "lah ray-kray-ah-SYOHN",
+    "english": "recess / break",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 684,
+    "french": "la cantine",
+    "pronunciation": "lah kahn-TEEN",
+    "english": "the cafeteria",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 685,
+    "french": "l'emploi du temps",
+    "pronunciation": "lahm-PLWAH doo TAHN",
+    "english": "the schedule / timetable",
+    "category": "Classroom & Instructions"
+  },
+  {
+    "id": 686,
+    "french": "la chambre d'hôtel",
+    "pronunciation": "lah shahm-bruh doh-TEHL",
+    "english": "the hotel room",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 687,
+    "french": "la réception",
+    "pronunciation": "lah ray-sehp-SYOHN",
+    "english": "the reception",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 688,
+    "french": "la réservation",
+    "pronunciation": "lah ray-zehr-vah-SYOHN",
+    "english": "the reservation",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 689,
+    "french": "la nuit",
+    "pronunciation": "lah NWEE",
+    "english": "the night (stay)",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 690,
+    "french": "le petit déjeuner inclus",
+    "pronunciation": "luh ptee day-zhuh-NAY ahn-KLOO",
+    "english": "breakfast included",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 691,
+    "french": "la piscine",
+    "pronunciation": "lah pee-SEEN",
+    "english": "the pool",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 692,
+    "french": "l'ascenseur",
+    "pronunciation": "lah-sahn-SUHR",
+    "english": "the elevator",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 693,
+    "french": "le rez-de-chaussée",
+    "pronunciation": "luh ray-duh-shoh-SAY",
+    "english": "the ground floor",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 694,
+    "french": "la clé de chambre",
+    "pronunciation": "lah klay duh SHAHM-bruh",
+    "english": "the room key",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 695,
+    "french": "le wifi",
+    "pronunciation": "luh wee-FEE",
+    "english": "the wifi",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 696,
+    "french": "complet",
+    "pronunciation": "kohm-PLEH",
+    "english": "full / no vacancy",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 697,
+    "french": "disponible",
+    "pronunciation": "dee-spoh-NEE-bluh",
+    "english": "available",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 698,
+    "french": "réserver",
+    "pronunciation": "ray-zehr-VAY",
+    "english": "to reserve / book",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 699,
+    "french": "une chambre simple",
+    "pronunciation": "oon shahm-bruh SAHM-pluh",
+    "english": "a single room",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 700,
+    "french": "une chambre double",
+    "pronunciation": "oon shahm-bruh DOO-bluh",
+    "english": "a double room",
+    "category": "At the Hotel"
+  },
+  {
+    "id": 701,
+    "french": "le cercle",
+    "pronunciation": "luh SEHR-kluh",
+    "english": "the circle",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 702,
+    "french": "le carré",
+    "pronunciation": "luh kah-RAY",
+    "english": "the square",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 703,
+    "french": "le triangle",
+    "pronunciation": "luh tree-AHN-gluh",
+    "english": "the triangle",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 704,
+    "french": "la ligne",
+    "pronunciation": "lah LEE-nyuh",
+    "english": "the line",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 705,
+    "french": "le point",
+    "pronunciation": "luh PWAHN",
+    "english": "the dot / point",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 706,
+    "french": "gros",
+    "pronunciation": "groh",
+    "english": "big / fat",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 707,
+    "french": "mince",
+    "pronunciation": "mahns",
+    "english": "thin / slim",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 708,
+    "french": "large",
+    "pronunciation": "lahrzh",
+    "english": "wide",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 709,
+    "french": "étroit",
+    "pronunciation": "ay-TRWAH",
+    "english": "narrow",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 710,
+    "french": "lourd",
+    "pronunciation": "loor",
+    "english": "heavy",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 711,
+    "french": "léger",
+    "pronunciation": "lay-ZHAY",
+    "english": "light (weight)",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 712,
+    "french": "un morceau",
+    "pronunciation": "uhn mohr-SOH",
+    "english": "a piece",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 713,
+    "french": "un kilo",
+    "pronunciation": "uhn kee-LOH",
+    "english": "a kilogram",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 714,
+    "french": "un litre",
+    "pronunciation": "uhn LEE-truh",
+    "english": "a liter",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 715,
+    "french": "une douzaine",
+    "pronunciation": "oon doo-ZEHN",
+    "english": "a dozen",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 716,
+    "french": "la moitié",
+    "pronunciation": "lah mwah-TYAY",
+    "english": "the half",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 717,
+    "french": "le quart",
+    "pronunciation": "luh KAHR",
+    "english": "the quarter",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 718,
+    "french": "double",
+    "pronunciation": "DOO-bluh",
+    "english": "double",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 719,
+    "french": "chaque",
+    "pronunciation": "SHAHK",
+    "english": "each / every",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 720,
+    "french": "plusieurs",
+    "pronunciation": "ploo-ZYUHR",
+    "english": "several",
+    "category": "Shapes, Sizes & Quantities"
+  },
+  {
+    "id": 721,
+    "french": "bientôt",
+    "pronunciation": "byehn-TOH",
+    "english": "soon",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 722,
+    "french": "encore",
+    "pronunciation": "ahn-KOHR",
+    "english": "again / still",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 723,
+    "french": "ensemble",
+    "pronunciation": "ahn-SAHM-bluh",
+    "english": "together",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 724,
+    "french": "seulement",
+    "pronunciation": "suhl-MAHN",
+    "english": "only",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 725,
+    "french": "surtout",
+    "pronunciation": "soor-TOO",
+    "english": "especially",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 726,
+    "french": "vraiment",
+    "pronunciation": "vreh-MAHN",
+    "english": "really / truly",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 727,
+    "french": "presque",
+    "pronunciation": "PREHS-kuh",
+    "english": "almost",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 728,
+    "french": "enfin",
+    "pronunciation": "ahn-FAHN",
+    "english": "finally",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 729,
+    "french": "d'abord",
+    "pronunciation": "dah-BOHR",
+    "english": "first / at first",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 730,
+    "french": "ensuite",
+    "pronunciation": "ahn-SWEET",
+    "english": "then / next",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 731,
+    "french": "puis",
+    "pronunciation": "pwee",
+    "english": "then",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 732,
+    "french": "tout de suite",
+    "pronunciation": "toot SWEET",
+    "english": "right away",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 733,
+    "french": "en retard",
+    "pronunciation": "ahn ruh-TAHR",
+    "english": "late",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 734,
+    "french": "en avance",
+    "pronunciation": "ahn ah-VAHNS",
+    "english": "early / ahead",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 735,
+    "french": "à l'heure",
+    "pronunciation": "ah LUHR",
+    "english": "on time",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 736,
+    "french": "longtemps",
+    "pronunciation": "lohn-TAHN",
+    "english": "a long time",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 737,
+    "french": "ce matin",
+    "pronunciation": "suh mah-TAHN",
+    "english": "this morning",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 738,
+    "french": "ce soir",
+    "pronunciation": "suh SWAHR",
+    "english": "tonight / this evening",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 739,
+    "french": "la semaine prochaine",
+    "pronunciation": "lah suh-MEHN proh-SHEHN",
+    "english": "next week",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 740,
+    "french": "la semaine dernière",
+    "pronunciation": "lah suh-MEHN dehr-NYEHR",
+    "english": "last week",
+    "category": "Common Adverbs & Time"
+  },
+  {
+    "id": 741,
+    "french": "le coin",
+    "pronunciation": "luh KWAHN",
+    "english": "the corner",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 742,
+    "french": "le feu rouge",
+    "pronunciation": "luh fuh ROOZH",
+    "english": "the traffic light",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 743,
+    "french": "le passage piéton",
+    "pronunciation": "luh pah-SAHZH pyay-TOHN",
+    "english": "the crosswalk",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 744,
+    "french": "la station de métro",
+    "pronunciation": "lah stah-SYOHN duh may-TROH",
+    "english": "the metro station",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 745,
+    "french": "le kiosque",
+    "pronunciation": "luh KYUHSK",
+    "english": "the newsstand",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 746,
+    "french": "la fontaine",
+    "pronunciation": "lah fohn-TEHN",
+    "english": "the fountain",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 747,
+    "french": "le panneau",
+    "pronunciation": "luh pah-NOH",
+    "english": "the sign",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 748,
+    "french": "le trottoir",
+    "pronunciation": "luh troh-TWAHR",
+    "english": "the sidewalk",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 749,
+    "french": "la poubelle",
+    "pronunciation": "lah poo-BEHL",
+    "english": "the trash can",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 750,
+    "french": "le banc",
+    "pronunciation": "luh BAHN",
+    "english": "the bench",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 751,
+    "french": "le carrefour",
+    "pronunciation": "luh kahr-FOOR",
+    "english": "the intersection",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 752,
+    "french": "le rond-point",
+    "pronunciation": "luh rohn-PWAHN",
+    "english": "the roundabout",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 753,
+    "french": "le terrain de jeux",
+    "pronunciation": "luh teh-RAHN duh ZHUH",
+    "english": "the playground",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 754,
+    "french": "la station-service",
+    "pronunciation": "lah stah-SYOHN sehr-VEES",
+    "english": "the gas station",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 755,
+    "french": "le distributeur",
+    "pronunciation": "luh dee-stree-boo-TUHR",
+    "english": "the ATM",
+    "category": "Around the Neighborhood"
+  },
+  {
+    "id": 756,
+    "french": "la fraise",
+    "pronunciation": "lah FREHZ",
+    "english": "the strawberry",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 757,
+    "french": "le raisin",
+    "pronunciation": "luh reh-ZAHN",
+    "english": "the grape",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 758,
+    "french": "la pêche",
+    "pronunciation": "lah PEHSH",
+    "english": "the peach",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 759,
+    "french": "la cerise",
+    "pronunciation": "lah suh-REEZ",
+    "english": "the cherry",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 760,
+    "french": "le citron",
+    "pronunciation": "luh see-TROHN",
+    "english": "the lemon",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 761,
+    "french": "l'ail",
+    "pronunciation": "LAH-yuh",
+    "english": "garlic",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 762,
+    "french": "l'oignon",
+    "pronunciation": "loh-NYOHN",
+    "english": "the onion",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 763,
+    "french": "la carotte",
+    "pronunciation": "lah kah-RUHT",
+    "english": "the carrot",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 764,
+    "french": "les haricots",
+    "pronunciation": "lay ah-ree-KOH",
+    "english": "the beans",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 765,
+    "french": "le jambon",
+    "pronunciation": "luh zhahm-BOHN",
+    "english": "ham",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 766,
+    "french": "le bœuf",
+    "pronunciation": "luh BUHF",
+    "english": "beef",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 767,
+    "french": "le porc",
+    "pronunciation": "luh POHR",
+    "english": "pork",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 768,
+    "french": "la crème",
+    "pronunciation": "lah KREHM",
+    "english": "cream",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 769,
+    "french": "le miel",
+    "pronunciation": "luh MYEHL",
+    "english": "honey",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 770,
+    "french": "la confiture",
+    "pronunciation": "lah kohn-fee-TOOR",
+    "english": "jam",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 771,
+    "french": "la farine",
+    "pronunciation": "lah fah-REEN",
+    "english": "flour",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 772,
+    "french": "le plat",
+    "pronunciation": "luh PLAH",
+    "english": "the dish / course",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 773,
+    "french": "l'entrée",
+    "pronunciation": "lahn-TRAY",
+    "english": "the starter",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 774,
+    "french": "le plat principal",
+    "pronunciation": "luh plah prahn-see-PAHL",
+    "english": "the main course",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 775,
+    "french": "le dessert",
+    "pronunciation": "luh deh-SEHR",
+    "english": "dessert",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 776,
+    "french": "la recette",
+    "pronunciation": "lah ruh-SEHT",
+    "english": "the recipe",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 777,
+    "french": "cuire",
+    "pronunciation": "KWEER",
+    "english": "to cook / bake",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 778,
+    "french": "couper",
+    "pronunciation": "koo-PAY",
+    "english": "to cut",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 779,
+    "french": "mélanger",
+    "pronunciation": "may-lahn-ZHAY",
+    "english": "to mix",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 780,
+    "french": "goûter",
+    "pronunciation": "goo-TAY",
+    "english": "to taste",
+    "category": "More Food & Cooking"
+  },
+  {
+    "id": 781,
+    "french": "l'anniversaire",
+    "pronunciation": "lah-nee-vehr-SEHR",
+    "english": "the birthday",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 782,
+    "french": "le mariage",
+    "pronunciation": "luh mah-RYAHZH",
+    "english": "the wedding",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 783,
+    "french": "Noël",
+    "pronunciation": "noh-EHL",
+    "english": "Christmas",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 784,
+    "french": "le Nouvel An",
+    "pronunciation": "luh noo-VEHL AHN",
+    "english": "New Year",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 785,
+    "french": "Pâques",
+    "pronunciation": "PAHK",
+    "english": "Easter",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 786,
+    "french": "la fête nationale",
+    "pronunciation": "lah feht nah-syoh-NAHL",
+    "english": "national holiday",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 787,
+    "french": "le cadeau",
+    "pronunciation": "luh kah-DOH",
+    "english": "the gift",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 788,
+    "french": "la bougie",
+    "pronunciation": "lah boo-ZHEE",
+    "english": "the candle",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 789,
+    "french": "le gâteau d'anniversaire",
+    "pronunciation": "luh gah-TOH dah-nee-vehr-SEHR",
+    "english": "the birthday cake",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 790,
+    "french": "la carte de vœux",
+    "pronunciation": "lah kahrt duh VUH",
+    "english": "the greeting card",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 791,
+    "french": "célébrer",
+    "pronunciation": "say-lay-BRAY",
+    "english": "to celebrate",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 792,
+    "french": "offrir",
+    "pronunciation": "oh-FREER",
+    "english": "to offer / give (gift)",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 793,
+    "french": "souhaiter",
+    "pronunciation": "sweh-TAY",
+    "english": "to wish",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 794,
+    "french": "joyeux",
+    "pronunciation": "zhwah-YUH",
+    "english": "happy / joyful",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 795,
+    "french": "Joyeux Noël",
+    "pronunciation": "zhwah-YUH noh-EHL",
+    "english": "Merry Christmas",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 796,
+    "french": "Bonne année",
+    "pronunciation": "bun ah-NAY",
+    "english": "Happy New Year",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 797,
+    "french": "Joyeux anniversaire",
+    "pronunciation": "zhwah-YUH ah-nee-vehr-SEHR",
+    "english": "Happy birthday",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 798,
+    "french": "la surprise",
+    "pronunciation": "lah soor-PREEZ",
+    "english": "the surprise",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 799,
+    "french": "le spectacle",
+    "pronunciation": "luh spehk-TAH-kluh",
+    "english": "the show",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 800,
+    "french": "le concert",
+    "pronunciation": "luh kohn-SEHR",
+    "english": "the concert",
+    "category": "Events & Celebrations"
+  },
+  {
+    "id": 801,
+    "french": "le basket",
+    "pronunciation": "luh bahs-KEHT",
+    "english": "basketball",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 802,
+    "french": "la course",
+    "pronunciation": "lah KOORS",
+    "english": "running / race",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 803,
+    "french": "le gymnase",
+    "pronunciation": "luh zheem-NAHZ",
+    "english": "the gym",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 804,
+    "french": "l'entraînement",
+    "pronunciation": "lahn-trehn-MAHN",
+    "english": "training / workout",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 805,
+    "french": "le match",
+    "pronunciation": "luh MAHCH",
+    "english": "the match / game",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 806,
+    "french": "l'équipe",
+    "pronunciation": "lay-KEEP",
+    "english": "the team",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 807,
+    "french": "le joueur",
+    "pronunciation": "luh zhoo-UHR",
+    "english": "the player",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 808,
+    "french": "gagner",
+    "pronunciation": "gah-NYAY",
+    "english": "to win",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 809,
+    "french": "perdre",
+    "pronunciation": "PEHR-druh",
+    "english": "to lose",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 810,
+    "french": "le ballon",
+    "pronunciation": "luh bah-LOHN",
+    "english": "the ball",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 811,
+    "french": "le terrain",
+    "pronunciation": "luh teh-RAHN",
+    "english": "the field / court",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 812,
+    "french": "le score",
+    "pronunciation": "luh SKOHR",
+    "english": "the score",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 813,
+    "french": "s'entraîner",
+    "pronunciation": "sahn-treh-NAY",
+    "english": "to train",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 814,
+    "french": "le champion",
+    "pronunciation": "luh shahm-PYOHN",
+    "english": "the champion",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 815,
+    "french": "le ski",
+    "pronunciation": "luh SKEE",
+    "english": "skiing",
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": 816,
+    "french": "soixante-dix",
+    "pronunciation": "swah-sahnt-DEES",
+    "english": "seventy",
+    "category": "Numbers (51-100 & Ordinals)"
+  },
+  {
+    "id": 817,
+    "french": "quatre-vingts",
+    "pronunciation": "kah-truh-VAHN",
+    "english": "eighty",
+    "category": "Numbers (51-100 & Ordinals)"
+  },
+  {
+    "id": 818,
+    "french": "quatre-vingt-dix",
+    "pronunciation": "kah-truh-vahn-DEES",
+    "english": "ninety",
+    "category": "Numbers (51-100 & Ordinals)"
+  },
+  {
+    "id": 819,
+    "french": "troisième",
+    "pronunciation": "trwah-ZYEHM",
+    "english": "third",
+    "category": "Numbers (51-100 & Ordinals)"
+  },
+  {
+    "id": 820,
+    "french": "quatrième",
+    "pronunciation": "kah-tree-YEHM",
+    "english": "fourth",
+    "category": "Numbers (51-100 & Ordinals)"
+  },
+  {
+    "id": 821,
+    "french": "cinquième",
+    "pronunciation": "sahn-KYEHM",
+    "english": "fifth",
+    "category": "Numbers (51-100 & Ordinals)"
+  },
+  {
+    "id": 822,
+    "french": "dixième",
+    "pronunciation": "dee-ZYEHM",
+    "english": "tenth",
+    "category": "Numbers (51-100 & Ordinals)"
+  },
+  {
+    "id": 823,
+    "french": "le nombre",
+    "pronunciation": "luh NOHM-bruh",
+    "english": "the number",
+    "category": "Numbers (51-100 & Ordinals)"
+  },
+  {
+    "id": 824,
+    "french": "zéro",
+    "pronunciation": "zay-ROH",
+    "english": "zero",
+    "category": "Numbers (51-100 & Ordinals)"
+  },
+  {
+    "id": 825,
+    "french": "une paire",
+    "pronunciation": "oon PEHR",
+    "english": "a pair",
+    "category": "Numbers (51-100 & Ordinals)"
+  },
+  {
+    "id": 826,
+    "french": "blond",
+    "pronunciation": "blohn",
+    "english": "blond",
+    "category": "Describing People"
+  },
+  {
+    "id": 827,
+    "french": "brun",
+    "pronunciation": "bruhn",
+    "english": "brown-haired / dark",
+    "category": "Describing People"
+  },
+  {
+    "id": 828,
+    "french": "roux",
+    "pronunciation": "roo",
+    "english": "red-haired",
+    "category": "Describing People"
+  },
+  {
+    "id": 829,
+    "french": "mince",
+    "pronunciation": "mahns",
+    "english": "slim / thin",
+    "category": "Describing People"
+  },
+  {
+    "id": 830,
+    "french": "gros",
+    "pronunciation": "groh",
+    "english": "fat / big",
+    "category": "Describing People"
+  },
+  {
+    "id": 831,
+    "french": "fort",
+    "pronunciation": "fohr",
+    "english": "strong",
+    "category": "Describing People"
+  },
+  {
+    "id": 832,
+    "french": "faible",
+    "pronunciation": "FEH-bluh",
+    "english": "weak",
+    "category": "Describing People"
+  },
+  {
+    "id": 833,
+    "french": "intelligent",
+    "pronunciation": "ahn-teh-lee-ZHAHN",
+    "english": "intelligent",
+    "category": "Describing People"
+  },
+  {
+    "id": 834,
+    "french": "drôle",
+    "pronunciation": "drohl",
+    "english": "funny",
+    "category": "Describing People"
+  },
+  {
+    "id": 835,
+    "french": "sérieux",
+    "pronunciation": "say-RYUH",
+    "english": "serious",
+    "category": "Describing People"
+  },
+  {
+    "id": 836,
+    "french": "sympathique",
+    "pronunciation": "sahm-pah-TEEK",
+    "english": "nice / likeable",
+    "category": "Describing People"
+  },
+  {
+    "id": 837,
+    "french": "amusant",
+    "pronunciation": "ah-moo-ZAHN",
+    "english": "funny / entertaining",
+    "category": "Describing People"
+  },
+  {
+    "id": 838,
+    "french": "bavard",
+    "pronunciation": "bah-VAHR",
+    "english": "talkative",
+    "category": "Describing People"
+  },
+  {
+    "id": 839,
+    "french": "poli",
+    "pronunciation": "poh-LEE",
+    "english": "polite",
+    "category": "Describing People"
+  },
+  {
+    "id": 840,
+    "french": "impoli",
+    "pronunciation": "ahm-poh-LEE",
+    "english": "rude",
+    "category": "Describing People"
+  },
+  {
+    "id": 841,
+    "french": "courageux",
+    "pronunciation": "koo-rah-ZHUH",
+    "english": "brave",
+    "category": "Describing People"
+  },
+  {
+    "id": 842,
+    "french": "paresseux",
+    "pronunciation": "pah-reh-SUH",
+    "english": "lazy",
+    "category": "Describing People"
+  },
+  {
+    "id": 843,
+    "french": "travailleur",
+    "pronunciation": "trah-vah-YUHR",
+    "english": "hardworking",
+    "category": "Describing People"
+  },
+  {
+    "id": 844,
+    "french": "souriant",
+    "pronunciation": "soo-ree-AHN",
+    "english": "smiling",
+    "category": "Describing People"
+  },
+  {
+    "id": 845,
+    "french": "barbu",
+    "pronunciation": "bahr-BOO",
+    "english": "bearded",
+    "category": "Describing People"
+  },
+  {
+    "id": 846,
+    "french": "le papier",
+    "pronunciation": "luh pah-PYAY",
+    "english": "paper",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 847,
+    "french": "le bois",
+    "pronunciation": "luh BWAH",
+    "english": "wood",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 848,
+    "french": "le verre",
+    "pronunciation": "luh VEHR",
+    "english": "glass (material)",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 849,
+    "french": "le métal",
+    "pronunciation": "luh may-TAHL",
+    "english": "metal",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 850,
+    "french": "le plastique",
+    "pronunciation": "luh plahs-TEEK",
+    "english": "plastic",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 851,
+    "french": "le tissu",
+    "pronunciation": "luh tee-SOO",
+    "english": "fabric",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 852,
+    "french": "le cuir",
+    "pronunciation": "luh KWEER",
+    "english": "leather",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 853,
+    "french": "le coton",
+    "pronunciation": "luh koh-TOHN",
+    "english": "cotton",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 854,
+    "french": "l'or",
+    "pronunciation": "LOHR",
+    "english": "gold",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 855,
+    "french": "l'argent",
+    "pronunciation": "lahr-ZHAHN",
+    "english": "silver",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 856,
+    "french": "le parapluie",
+    "pronunciation": "luh pah-rah-PLWEE",
+    "english": "the umbrella",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 857,
+    "french": "les clés",
+    "pronunciation": "lay KLAY",
+    "english": "the keys",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 858,
+    "french": "le portefeuille",
+    "pronunciation": "luh pohrt-FUH-yuh",
+    "english": "the wallet",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 859,
+    "french": "le miroir",
+    "pronunciation": "luh mee-RWAHR",
+    "english": "the mirror",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 860,
+    "french": "la montre",
+    "pronunciation": "lah MOHN-truh",
+    "english": "the watch",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 861,
+    "french": "le savon",
+    "pronunciation": "luh sah-VOHN",
+    "english": "soap",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 862,
+    "french": "la serviette",
+    "pronunciation": "lah sehr-VYEHT",
+    "english": "the towel / napkin",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 863,
+    "french": "la brosse à dents",
+    "pronunciation": "lah bruhs ah DAHN",
+    "english": "the toothbrush",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 864,
+    "french": "le peigne",
+    "pronunciation": "luh PEH-nyuh",
+    "english": "the comb",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 865,
+    "french": "le cadre",
+    "pronunciation": "luh KAH-druh",
+    "english": "the frame",
+    "category": "Materials & Objects"
+  },
+  {
+    "id": 866,
+    "french": "allô",
+    "pronunciation": "ah-LOH",
+    "english": "hello (on phone)",
+    "category": "Telephone & Appointments"
+  },
+  {
+    "id": 867,
+    "french": "rappeler",
+    "pronunciation": "rah-PLAY",
+    "english": "to call back",
+    "category": "Telephone & Appointments"
+  },
+  {
+    "id": 868,
+    "french": "le rendez-vous",
+    "pronunciation": "luh rahn-day-VOO",
+    "english": "the appointment",
+    "category": "Telephone & Appointments"
+  },
+  {
+    "id": 869,
+    "french": "annuler",
+    "pronunciation": "ah-noo-LAY",
+    "english": "to cancel",
+    "category": "Telephone & Appointments"
+  },
+  {
+    "id": 870,
+    "french": "confirmer",
+    "pronunciation": "kohn-feer-MAY",
+    "english": "to confirm",
+    "category": "Telephone & Appointments"
+  },
+  {
+    "id": 871,
+    "french": "laisser un message",
+    "pronunciation": "leh-SAY uhn meh-SAHZH",
+    "english": "to leave a message",
+    "category": "Telephone & Appointments"
+  },
+  {
+    "id": 872,
+    "french": "le numéro de téléphone",
+    "pronunciation": "luh noo-may-ROH duh tay-lay-FUHN",
+    "english": "the phone number",
+    "category": "Telephone & Appointments"
+  },
+  {
+    "id": 873,
+    "french": "décrocher",
+    "pronunciation": "day-kroh-SHAY",
+    "english": "to pick up (phone)",
+    "category": "Telephone & Appointments"
+  },
+  {
+    "id": 874,
+    "french": "raccrocher",
+    "pronunciation": "rah-kroh-SHAY",
+    "english": "to hang up",
+    "category": "Telephone & Appointments"
+  },
+  {
+    "id": 875,
+    "french": "sonner",
+    "pronunciation": "soh-NAY",
+    "english": "to ring",
+    "category": "Telephone & Appointments"
+  },
+  {
+    "id": 876,
+    "french": "rester",
+    "pronunciation": "rehs-TAY",
+    "english": "to stay",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 877,
+    "french": "tomber",
+    "pronunciation": "tohm-BAY",
+    "english": "to fall",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 878,
+    "french": "porter",
+    "pronunciation": "pohr-TAY",
+    "english": "to wear / carry",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 879,
+    "french": "toucher",
+    "pronunciation": "too-SHAY",
+    "english": "to touch",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 880,
+    "french": "sentir",
+    "pronunciation": "sahn-TEER",
+    "english": "to feel / smell",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 881,
+    "french": "sourire",
+    "pronunciation": "soo-REER",
+    "english": "to smile",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 882,
+    "french": "pleurer",
+    "pronunciation": "pluh-RAY",
+    "english": "to cry",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 883,
+    "french": "rire",
+    "pronunciation": "REER",
+    "english": "to laugh",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 884,
+    "french": "crier",
+    "pronunciation": "kree-YAY",
+    "english": "to shout",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 885,
+    "french": "ajouter",
+    "pronunciation": "ah-zhoo-TAY",
+    "english": "to add",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 886,
+    "french": "changer",
+    "pronunciation": "shahn-ZHAY",
+    "english": "to change",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 887,
+    "french": "casser",
+    "pronunciation": "kah-SAY",
+    "english": "to break",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 888,
+    "french": "réparer",
+    "pronunciation": "ray-pah-RAY",
+    "english": "to repair",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 889,
+    "french": "perdre",
+    "pronunciation": "PEHR-druh",
+    "english": "to lose",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 890,
+    "french": "gagner",
+    "pronunciation": "gah-NYAY",
+    "english": "to win / earn",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 891,
+    "french": "emporter",
+    "pronunciation": "ahm-pohr-TAY",
+    "english": "to take (away)",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 892,
+    "french": "apporter",
+    "pronunciation": "ah-pohr-TAY",
+    "english": "to bring",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 893,
+    "french": "remplir",
+    "pronunciation": "rahm-PLEER",
+    "english": "to fill",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 894,
+    "french": "vider",
+    "pronunciation": "vee-DAY",
+    "english": "to empty",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 895,
+    "french": "compter",
+    "pronunciation": "kohn-TAY",
+    "english": "to count",
+    "category": "More Verbs for Daily Life"
+  },
+  {
+    "id": 896,
+    "french": "français",
+    "pronunciation": "frahn-SEH",
+    "english": "French",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 897,
+    "french": "anglais",
+    "pronunciation": "ahn-GLEH",
+    "english": "English",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 898,
+    "french": "américain",
+    "pronunciation": "ah-may-ree-KAHN",
+    "english": "American",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 899,
+    "french": "allemand",
+    "pronunciation": "ahl-MAHN",
+    "english": "German",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 900,
+    "french": "espagnol",
+    "pronunciation": "ehs-pah-NYOHL",
+    "english": "Spanish",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 901,
+    "french": "italien",
+    "pronunciation": "ee-tah-LYEHN",
+    "english": "Italian",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 902,
+    "french": "portugais",
+    "pronunciation": "pohr-too-GEH",
+    "english": "Portuguese",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 903,
+    "french": "chinois",
+    "pronunciation": "shee-NWAH",
+    "english": "Chinese",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 904,
+    "french": "japonais",
+    "pronunciation": "zhah-poh-NEH",
+    "english": "Japanese",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 905,
+    "french": "africain",
+    "pronunciation": "ah-free-KAHN",
+    "english": "African",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 906,
+    "french": "nigérian",
+    "pronunciation": "nee-zhay-RYAHN",
+    "english": "Nigerian",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 907,
+    "french": "canadien",
+    "pronunciation": "kah-nah-DYEHN",
+    "english": "Canadian",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 908,
+    "french": "australien",
+    "pronunciation": "ohs-trah-LYEHN",
+    "english": "Australian",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 909,
+    "french": "luxembourgeois",
+    "pronunciation": "look-sahm-boor-ZHWAH",
+    "english": "Luxembourgish",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 910,
+    "french": "européen",
+    "pronunciation": "uh-roh-pay-AHN",
+    "english": "European",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 911,
+    "french": "étranger",
+    "pronunciation": "ay-trahn-ZHAY",
+    "english": "foreign / foreigner",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 912,
+    "french": "la nationalité",
+    "pronunciation": "lah nah-syoh-nah-lee-TAY",
+    "english": "nationality",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 913,
+    "french": "le drapeau",
+    "pronunciation": "luh drah-POH",
+    "english": "the flag",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 914,
+    "french": "la frontière",
+    "pronunciation": "lah frohn-TYEHR",
+    "english": "the border",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 915,
+    "french": "le visa",
+    "pronunciation": "luh vee-ZAH",
+    "english": "the visa",
+    "category": "Nationalities & Languages"
+  },
+  {
+    "id": 916,
+    "french": "le nom",
+    "pronunciation": "luh NOHM",
+    "english": "the name",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 917,
+    "french": "le prénom",
+    "pronunciation": "luh pray-NOHM",
+    "english": "the first name",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 918,
+    "french": "l'adresse",
+    "pronunciation": "lah-DREHS",
+    "english": "the address",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 919,
+    "french": "le numéro",
+    "pronunciation": "luh noo-may-ROH",
+    "english": "the number",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 920,
+    "french": "la date",
+    "pronunciation": "lah DAHT",
+    "english": "the date",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 921,
+    "french": "la langue",
+    "pronunciation": "lah LAHNGE",
+    "english": "the language",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 922,
+    "french": "le français",
+    "pronunciation": "luh frahn-SEH",
+    "english": "French",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 923,
+    "french": "l'anglais",
+    "pronunciation": "lahn-GLEH",
+    "english": "English",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 924,
+    "french": "le pays",
+    "pronunciation": "luh pay-EE",
+    "english": "the country",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 925,
+    "french": "la France",
+    "pronunciation": "lah FRAHNS",
+    "english": "France",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 926,
+    "french": "le Luxembourg",
+    "pronunciation": "luh look-sahm-BOOR",
+    "english": "Luxembourg",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 927,
+    "french": "la chose",
+    "pronunciation": "lah SHOHZ",
+    "english": "the thing",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 928,
+    "french": "l'idée",
+    "pronunciation": "lee-DAY",
+    "english": "the idea",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 929,
+    "french": "le problème",
+    "pronunciation": "luh proh-BLEHM",
+    "english": "the problem",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 930,
+    "french": "la solution",
+    "pronunciation": "lah soh-loo-SYOHN",
+    "english": "the solution",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 931,
+    "french": "le côté",
+    "pronunciation": "luh koh-TAY",
+    "english": "the side",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 932,
+    "french": "le début",
+    "pronunciation": "luh day-BOO",
+    "english": "the beginning",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 933,
+    "french": "la fin",
+    "pronunciation": "lah FAHN",
+    "english": "the end",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 934,
+    "french": "le moment",
+    "pronunciation": "luh moh-MAHN",
+    "english": "the moment",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 935,
+    "french": "la vie",
+    "pronunciation": "lah VEE",
+    "english": "life",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 936,
+    "french": "le monde",
+    "pronunciation": "luh MOHND",
+    "english": "the world",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 937,
+    "french": "le temps",
+    "pronunciation": "luh TAHN",
+    "english": "time",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 938,
+    "french": "l'eau",
+    "pronunciation": "LOH",
+    "english": "water",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 939,
+    "french": "le feu",
+    "pronunciation": "luh FUH",
+    "english": "fire",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 940,
+    "french": "l'air",
+    "pronunciation": "LEHR",
+    "english": "air",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 941,
+    "french": "le bruit",
+    "pronunciation": "luh BRWEE",
+    "english": "noise",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 942,
+    "french": "le silence",
+    "pronunciation": "luh see-LAHNS",
+    "english": "silence",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 943,
+    "french": "la lettre",
+    "pronunciation": "lah LEH-truh",
+    "english": "the letter",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 944,
+    "french": "le plan",
+    "pronunciation": "luh PLAHN",
+    "english": "the plan",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 945,
+    "french": "la raison",
+    "pronunciation": "lah reh-ZOHN",
+    "english": "the reason",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 946,
+    "french": "le groupe",
+    "pronunciation": "luh GROOP",
+    "english": "the group",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 947,
+    "french": "la place",
+    "pronunciation": "lah PLAHS",
+    "english": "the place / seat",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 948,
+    "french": "la forme",
+    "pronunciation": "lah FOHRM",
+    "english": "the shape / form",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 949,
+    "french": "le type",
+    "pronunciation": "luh TEEP",
+    "english": "the type / kind",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 950,
+    "french": "la partie",
+    "pronunciation": "lah pahr-TEE",
+    "english": "the part",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 951,
+    "french": "le centre",
+    "pronunciation": "luh SAHN-truh",
+    "english": "the center",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 952,
+    "french": "l'entrée",
+    "pronunciation": "lahn-TRAY",
+    "english": "the entrance",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 953,
+    "french": "la sortie",
+    "pronunciation": "lah sohr-TEE",
+    "english": "the exit",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 954,
+    "french": "l'information",
+    "pronunciation": "lahn-fohr-mah-SYOHN",
+    "english": "information",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 955,
+    "french": "le service",
+    "pronunciation": "luh sehr-VEES",
+    "english": "the service",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 956,
+    "french": "la qualité",
+    "pronunciation": "lah kah-lee-TAY",
+    "english": "quality",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 957,
+    "french": "le résultat",
+    "pronunciation": "luh ray-zool-TAH",
+    "english": "the result",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 958,
+    "french": "la différence",
+    "pronunciation": "lah dee-fay-RAHNS",
+    "english": "the difference",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 959,
+    "french": "l'exemple",
+    "pronunciation": "lehg-ZAHM-pluh",
+    "english": "the example",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 960,
+    "french": "le sens",
+    "pronunciation": "luh SAHNS",
+    "english": "the meaning / sense",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 961,
+    "french": "le besoin",
+    "pronunciation": "luh buh-ZWAHN",
+    "english": "the need",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 962,
+    "french": "le choix",
+    "pronunciation": "luh SHWAH",
+    "english": "the choice",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 963,
+    "french": "l'occasion",
+    "pronunciation": "loh-kah-ZYOHN",
+    "english": "the occasion / opportunity",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 964,
+    "french": "la direction",
+    "pronunciation": "lah dee-rehk-SYOHN",
+    "english": "the direction",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 965,
+    "french": "le projet",
+    "pronunciation": "luh proh-ZHEH",
+    "english": "the project",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 966,
+    "french": "la situation",
+    "pronunciation": "lah see-too-ah-SYOHN",
+    "english": "the situation",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 967,
+    "french": "l'expérience",
+    "pronunciation": "lehks-pay-RYAHNS",
+    "english": "the experience",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 968,
+    "french": "la chance",
+    "pronunciation": "lah SHAHNS",
+    "english": "luck / chance",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 969,
+    "french": "le rêve",
+    "pronunciation": "luh REHV",
+    "english": "the dream",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 970,
+    "french": "l'avenir",
+    "pronunciation": "lah-vuh-NEER",
+    "english": "the future",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 971,
+    "french": "le passé",
+    "pronunciation": "luh pah-SAY",
+    "english": "the past",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 972,
+    "french": "le présent",
+    "pronunciation": "luh pray-ZAHN",
+    "english": "the present",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 973,
+    "french": "la paix",
+    "pronunciation": "lah PEH",
+    "english": "peace",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 974,
+    "french": "la liberté",
+    "pronunciation": "lah lee-behr-TAY",
+    "english": "freedom",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 975,
+    "french": "la vérité",
+    "pronunciation": "lah vay-ree-TAY",
+    "english": "the truth",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 976,
+    "french": "le bonheur",
+    "pronunciation": "luh boh-NUHR",
+    "english": "happiness",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 977,
+    "french": "la guerre",
+    "pronunciation": "lah GEHR",
+    "english": "war",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 978,
+    "french": "l'histoire",
+    "pronunciation": "lee-STWAHR",
+    "english": "history / story",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 979,
+    "french": "le gouvernement",
+    "pronunciation": "luh goo-vehr-nuh-MAHN",
+    "english": "the government",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 980,
+    "french": "la loi",
+    "pronunciation": "lah LWAH",
+    "english": "the law",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 981,
+    "french": "le droit",
+    "pronunciation": "luh DRWAH",
+    "english": "the right / law",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 982,
+    "french": "la société",
+    "pronunciation": "lah soh-see-ay-TAY",
+    "english": "society",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 983,
+    "french": "l'environnement",
+    "pronunciation": "lahn-vee-ruhn-MAHN",
+    "english": "the environment",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 984,
+    "french": "la nature",
+    "pronunciation": "lah nah-TOOR",
+    "english": "nature",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 985,
+    "french": "la terre",
+    "pronunciation": "lah TEHR",
+    "english": "the earth / ground",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 986,
+    "french": "le sable",
+    "pronunciation": "luh SAH-bluh",
+    "english": "sand",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 987,
+    "french": "l'étoile",
+    "pronunciation": "lay-TWAHL",
+    "english": "the star",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 988,
+    "french": "la lune",
+    "pronunciation": "lah LOON",
+    "english": "the moon",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 989,
+    "french": "l'île",
+    "pronunciation": "LEEL",
+    "english": "the island",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 990,
+    "french": "la campagne",
+    "pronunciation": "lah kahm-PAH-nyuh",
+    "english": "the countryside",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 991,
+    "french": "la colline",
+    "pronunciation": "lah koh-LEEN",
+    "english": "the hill",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 992,
+    "french": "le fleuve",
+    "pronunciation": "luh FLUHV",
+    "english": "the river (major)",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 993,
+    "french": "la vallée",
+    "pronunciation": "lah vah-LAY",
+    "english": "the valley",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 994,
+    "french": "le désert",
+    "pronunciation": "luh day-ZEHR",
+    "english": "the desert",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 995,
+    "french": "le volcan",
+    "pronunciation": "luh vohl-KAHN",
+    "english": "the volcano",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 996,
+    "french": "la cascade",
+    "pronunciation": "lah kahs-KAHD",
+    "english": "the waterfall",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 997,
+    "french": "le paysage",
+    "pronunciation": "luh pay-ee-ZAHZH",
+    "english": "the landscape",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 998,
+    "french": "la pierre",
+    "pronunciation": "lah PYEHR",
+    "english": "the stone",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 999,
+    "french": "la glace",
+    "pronunciation": "lah GLAHS",
+    "english": "ice",
+    "category": "Additional Useful Nouns"
+  },
+  {
+    "id": 1000,
+    "french": "le rocher",
+    "pronunciation": "luh roh-SHAY",
+    "english": "the rock",
+    "category": "Additional Useful Nouns"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "French A1",
+    "slug": "FrenchA1App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#131F24"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tobi.frencha1"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#131F24"
+      },
+      "package": "com.tobi.frencha1",
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-secure-store"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "6d787685-a6a8-40a6-bd8a-f8205e4f8ebd"
+      }
+    }
+  }
+}
