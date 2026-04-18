@@ -1,7 +1,14 @@
 import React, { createContext, useContext, useReducer, useEffect, useRef } from 'react';
 import * as FileSystem from 'expo-file-system';
 import { LEVELS, BADGES } from '../utils/theme';
-import { OPENAI_API_KEY } from '../config';
+// Try to load API key from config file (local dev), fallback to empty
+let OPENAI_API_KEY = '';
+try {
+  const config = require('../config');
+  OPENAI_API_KEY = config.OPENAI_API_KEY || '';
+} catch (e) {
+  // config.js not present (EAS build) — user can set key in app settings
+}
 
 const AppContext = createContext();
 
