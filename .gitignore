@@ -2,3 +2,4 @@ node_modules/
 .expo/
 dist/
 *.hbc
+src/config.js
