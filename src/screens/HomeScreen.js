@@ -2,10 +2,9 @@ import React, { useEffect, useState } from 'react';
 import {
   View, Text, StyleSheet, ScrollView, TouchableOpacity, Dimensions,
 } from 'react-native';
-import { COLORS, FONTS, SPACING, RADIUS, SHADOWS, LEVELS, BADGES } from '../utils/theme';
+import { COLORS, FONTS, SPACING, RADIUS, SHADOWS, LEVELS } from '../utils/theme';
 import { useApp } from '../context/AppContext';
 import ProgressBar from '../components/ProgressBar';
-import LivesDisplay from '../components/LivesDisplay';
 import vocabData from '../data/vocab_data.json';
 
 const { width } = Dimensions.get('window');
@@ -16,7 +15,6 @@ export default function HomeScreen({ navigation }) {
 
   useEffect(() => {
     dispatch({ type: 'UPDATE_STREAK' });
-    // Word of the day
     const today = new Date().toDateString();
     if (state.wordOfDayDate !== today) {
       const dayOfYear = Math.floor((Date.now() - new Date(new Date().getFullYear(), 0, 0)) / 86400000);
@@ -34,25 +32,23 @@ export default function HomeScreen({ navigation }) {
     ? ((state.xp - currentLevel.xpRequired) / (nextLevel.xpRequired - currentLevel.xpRequired)) * 100
     : 100;
 
-  const earnedBadges = BADGES.filter(b => state.badges.includes(b.id));
-
   const features = [
-    { title: 'Flashcards', icon: '🃏', desc: 'SRS-powered vocab', screen: 'FlashcardCategories', color: COLORS.primary },
-    { title: 'Quiz', icon: '🧠', desc: 'Test your knowledge', screen: 'QuizMenu', color: COLORS.secondary },
+    { title: 'Cartes', icon: '🃏', desc: 'Flashcards', screen: 'FlashcardCategories', color: COLORS.primary },
+    { title: 'Quiz', icon: '🎯', desc: 'Test knowledge', screen: 'QuizMenu', color: COLORS.secondary },
     { title: 'Composer', icon: '✍️', desc: 'Build sentences', screen: 'SentenceComposer', color: COLORS.accent },
-    { title: 'Grammar', icon: '📚', desc: 'Learn the rules', screen: 'GrammarList', color: '#A560FF' },
-    { title: 'Dialogues', icon: '💬', desc: 'Real conversations', screen: 'DialogueList', color: '#FF6B9D' },
-    { title: 'Pronunciation', icon: '🗣️', desc: 'Sound it out', screen: 'Pronunciation', color: '#00C9A7' },
-    { title: 'Dictionary', icon: '📖', desc: 'Search 2,000+ words', screen: 'Dictionary', color: '#E08600' },
-    { title: 'Audio Practice', icon: '🎙️', desc: 'Record & compare', screen: 'AudioPractice', color: '#FF4B4B' },
-    { title: 'Challenges', icon: '🎯', desc: 'Themed quizzes', screen: 'ThemedChallenge', color: '#FFC800' },
-    { title: 'Progress', icon: '📊', desc: 'Track your stats', screen: 'ProgressCharts', color: '#A560FF' },
+    { title: 'Grammaire', icon: '📚', desc: 'Learn rules', screen: 'GrammarList', color: COLORS.xp },
+    { title: 'Dialogues', icon: '💬', desc: 'Conversations', screen: 'DialogueList', color: COLORS.feminine },
+    { title: 'Prononciation', icon: '🗣️', desc: 'Sound it out', screen: 'Pronunciation', color: '#00C9A7' },
+    { title: 'Dictionnaire', icon: '📖', desc: '2,000+ mots', screen: 'Dictionary', color: COLORS.accent },
+    { title: 'Audio', icon: '🎙️', desc: 'Record & compare', screen: 'AudioPractice', color: COLORS.wrong },
+    { title: 'Défis', icon: '🎯', desc: 'Themed quizzes', screen: 'ThemedChallenge', color: COLORS.gold },
+    { title: 'Progrès', icon: '📊', desc: 'Your stats', screen: 'ProgressCharts', color: COLORS.xp },
   ];
 
   if (!state.isLoaded) {
     return (
       <View style={[styles.container, { justifyContent: 'center', alignItems: 'center' }]}>
-        <Text style={styles.loadingText}>Loading...</Text>
+        <Text style={{ color: COLORS.text, fontSize: 18 }}>Loading...</Text>
       </View>
     );
   }
@@ -61,126 +57,148 @@ export default function HomeScreen({ navigation }) {
     <ScrollView style={styles.container} contentContainerStyle={styles.content}>
       {/* Header */}
       <View style={styles.header}>
-        <View style={styles.headerLeft}>
-          <Text style={styles.greeting}>Bonjour! 🇫🇷</Text>
-          <Text style={styles.subtitle}>Let's learn French today</Text>
-        </View>
-        <LivesDisplay lives={state.lives} />
-      </View>
-
-      {/* Level & XP Card */}
-      <View style={[styles.card, styles.levelCard]}>
-        <View style={styles.levelRow}>
-          <Text style={styles.levelIcon}>{currentLevel.icon}</Text>
-          <View style={styles.levelInfo}>
-            <Text style={styles.levelName}>Level {currentLevel.level} - {currentLevel.name}</Text>
-            <Text style={styles.xpText}>{state.xp} XP {nextLevel ? `/ ${nextLevel.xpRequired} XP` : '(MAX)'}</Text>
-          </View>
-          <View style={styles.streakBadge}>
-            <Text style={styles.streakIcon}>🔥</Text>
-            <Text style={styles.streakNum}>{state.streak}</Text>
-          </View>
-        </View>
-        <ProgressBar progress={xpProgress} color={COLORS.xp} style={{ marginTop: 8 }} />
-      </View>
-
-      {/* Word of the Day */}
-      {wordOfDay && (
-        <TouchableOpacity style={[styles.card, styles.wodCard]} activeOpacity={0.8}>
-          <Text style={styles.wodLabel}>Word of the Day</Text>
-          <Text style={styles.wodFrench}>{wordOfDay.french}</Text>
-          <Text style={styles.wodPronunciation}>[{wordOfDay.pronunciation}]</Text>
-          <Text style={styles.wodEnglish}>{wordOfDay.english}</Text>
-        </TouchableOpacity>
-      )}
-
-      {/* Daily Challenge */}
-      <TouchableOpacity
-        style={[styles.card, styles.dailyCard, state.dailyChallengeCompleted && state.dailyChallengeDate === new Date().toDateString() && styles.dailyDone]}
-        onPress={() => navigation.navigate('DailyChallenge')}
-        activeOpacity={0.8}
-      >
-        <View style={styles.dailyRow}>
-          <Text style={styles.dailyIcon}>
-            {state.dailyChallengeCompleted && state.dailyChallengeDate === new Date().toDateString() ? '✅' : '⚡'}
+        <View>
+          <Text style={styles.greeting}>Bonjour!</Text>
+          <Text style={styles.subtitle}>
+            {new Date().toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' })}
           </Text>
-          <View>
-            <Text style={styles.dailyTitle}>Daily Challenge</Text>
-            <Text style={styles.dailyDesc}>
-              {state.dailyChallengeCompleted && state.dailyChallengeDate === new Date().toDateString()
-                ? 'Completed! Come back tomorrow'
-                : '10 mixed questions for bonus XP'}
+        </View>
+        {/* Hearts */}
+        <View style={styles.heartsRow}>
+          {[1, 2, 3, 4, 5].map(i => (
+            <Text key={i} style={{ fontSize: 14, opacity: i <= state.lives ? 1 : 0.3 }}>
+              {i <= state.lives ? '❤️' : '🖤'}
             </Text>
+          ))}
+        </View>
+      </View>
+
+      {/* Streak + XP row */}
+      <View style={styles.statsRow}>
+        <View style={styles.statCard}>
+          <View style={[styles.statIcon, { backgroundColor: COLORS.streakBg }]}>
+            <Text style={{ fontSize: 18 }}>🔥</Text>
           </View>
-          <Text style={styles.dailyXP}>+50 XP</Text>
+          <View>
+            <Text style={styles.statNum}>{state.streak}</Text>
+            <Text style={styles.statLabel}>jours</Text>
+          </View>
+        </View>
+        <View style={styles.statCard}>
+          <View style={[styles.statIcon, { backgroundColor: 'rgba(180, 135, 255, 0.12)' }]}>
+            <Text style={{ fontSize: 18 }}>⚡</Text>
+          </View>
+          <View>
+            <Text style={styles.statNum}>{state.xp}</Text>
+            <Text style={styles.statLabel}>XP · Niv. {state.level}</Text>
+          </View>
+        </View>
+      </View>
+
+      {/* Daily lesson hero card */}
+      <TouchableOpacity
+        style={styles.heroCard}
+        onPress={() => navigation.navigate('DailyChallenge')}
+        activeOpacity={0.85}
+      >
+        <View style={styles.heroContent}>
+          <Text style={styles.heroLabel}>LECON DU JOUR</Text>
+          <Text style={styles.heroTitle}>
+            {state.dailyChallengeCompleted && state.dailyChallengeDate === new Date().toDateString()
+              ? 'Terminé !' : 'Défi quotidien'}
+          </Text>
+          <Text style={styles.heroDesc}>10 questions mélangées · 8 min</Text>
+          <View style={styles.heroBottom}>
+            <View style={{ flex: 1 }}>
+              <ProgressBar
+                progress={state.dailyChallengeCompleted ? 100 : 0}
+                color="#fff"
+                height={5}
+              />
+            </View>
+            <View style={styles.heroBadge}>
+              <Text style={styles.heroBadgeText}>+50 XP</Text>
+            </View>
+          </View>
         </View>
       </TouchableOpacity>
 
-      {/* Quick Stats */}
-      <View style={styles.statsRow}>
-        <View style={styles.statBox}>
-          <Text style={styles.statNum}>{state.wordsLearned}</Text>
-          <Text style={styles.statLabel}>Words</Text>
+      {/* Word of the day — editorial card */}
+      {wordOfDay && (
+        <View style={styles.wodCard}>
+          <View style={styles.wodHeader}>
+            <Text style={styles.wodLabel}>MOT DU JOUR</Text>
+            <Text style={{ fontSize: 16 }}>🔊</Text>
+          </View>
+          <Text style={styles.wodFrench}>{wordOfDay.french}</Text>
+          <Text style={styles.wodPron}>[{wordOfDay.pronunciation}]</Text>
+          <Text style={styles.wodEnglish}>{wordOfDay.english}</Text>
         </View>
-        <View style={styles.statBox}>
-          <Text style={styles.statNum}>{state.quizzesCompleted}</Text>
-          <Text style={styles.statLabel}>Quizzes</Text>
-        </View>
-        <View style={styles.statBox}>
-          <Text style={styles.statNum}>{state.flashcardsReviewed}</Text>
-          <Text style={styles.statLabel}>Reviews</Text>
-        </View>
-        <View style={styles.statBox}>
-          <Text style={styles.statNum}>{state.streak}</Text>
-          <Text style={styles.statLabel}>Streak</Text>
-        </View>
+      )}
+
+      {/* Continue learning */}
+      <Text style={styles.sectionLabel}>CONTINUER</Text>
+      <View style={styles.continueCard}>
+        {[
+          { icon: '🃏', fr: 'Cartes mémoire', en: 'Flashcards', pct: Math.min(100, (state.wordsLearned / 10) * 100), screen: 'FlashcardCategories' },
+          { icon: '💬', fr: 'Dialogue', en: 'Conversations', pct: Math.min(100, (state.dialoguesCompleted / 8) * 100), screen: 'DialogueList' },
+          { icon: '📚', fr: 'Grammaire', en: 'Les articles', pct: Math.min(100, (state.grammarCompleted / 20) * 100), screen: 'GrammarList' },
+        ].map((r, i, arr) => (
+          <TouchableOpacity
+            key={i}
+            style={[styles.continueRow, i < arr.length - 1 && styles.continueRowBorder]}
+            onPress={() => navigation.navigate(r.screen)}
+            activeOpacity={0.7}
+          >
+            <View style={styles.continueIcon}>
+              <Text style={{ fontSize: 20 }}>{r.icon}</Text>
+            </View>
+            <View style={{ flex: 1 }}>
+              <Text style={styles.continueFr}>{r.fr}</Text>
+              <Text style={styles.continueEn}>{r.en}</Text>
+              <View style={{ marginTop: 6 }}>
+                <ProgressBar progress={r.pct} color={r.pct >= 100 ? COLORS.correct : COLORS.primary} height={3} />
+              </View>
+            </View>
+            <View style={[styles.continuePill, r.pct >= 100 && styles.continuePillDone]}>
+              <Text style={[styles.continuePillText, r.pct >= 100 && { color: COLORS.correct }]}>
+                {r.pct >= 100 ? 'Terminé' : 'En cours'}
+              </Text>
+            </View>
+          </TouchableOpacity>
+        ))}
       </View>
 
       {/* Feature Grid */}
-      <Text style={styles.sectionTitle}>Learn</Text>
+      <Text style={styles.sectionLabel}>APPRENDRE</Text>
       <View style={styles.featureGrid}>
         {features.map((f, i) => (
           <TouchableOpacity
             key={i}
-            style={[styles.featureCard, { borderColor: f.color }]}
+            style={[styles.featureCard, { borderLeftWidth: 3, borderLeftColor: f.color }]}
             onPress={() => navigation.navigate(f.screen)}
             activeOpacity={0.7}
           >
-            <Text style={styles.featureIcon}>{f.icon}</Text>
+            <Text style={{ fontSize: 26, marginBottom: 6 }}>{f.icon}</Text>
             <Text style={styles.featureTitle}>{f.title}</Text>
             <Text style={styles.featureDesc}>{f.desc}</Text>
           </TouchableOpacity>
         ))}
       </View>
 
-      {/* Mistakes Review */}
+      {/* Mistakes review */}
       {state.mistakes.length > 0 && (
         <TouchableOpacity
-          style={[styles.card, styles.mistakeCard]}
+          style={styles.mistakeCard}
           onPress={() => navigation.navigate('MistakesReview')}
           activeOpacity={0.8}
         >
-          <Text style={styles.mistakeIcon}>🔄</Text>
-          <View>
-            <Text style={styles.mistakeTitle}>Review Mistakes</Text>
-            <Text style={styles.mistakeDesc}>{state.mistakes.length} items to review</Text>
+          <Text style={{ fontSize: 24, marginRight: 12 }}>🔄</Text>
+          <View style={{ flex: 1 }}>
+            <Text style={{ color: COLORS.text, fontSize: 14, fontWeight: '700' }}>Revoir les erreurs</Text>
+            <Text style={{ color: COLORS.textSecondary, fontSize: 12, marginTop: 2 }}>{state.mistakes.length} items</Text>
           </View>
         </TouchableOpacity>
-      )}
-
-      {/* Recent Badges */}
-      {earnedBadges.length > 0 && (
-        <View style={styles.badgeSection}>
-          <Text style={styles.sectionTitle}>Badges Earned</Text>
-          <ScrollView horizontal showsHorizontalScrollIndicator={false}>
-            {earnedBadges.map((b, i) => (
-              <View key={i} style={styles.badgeItem}>
-                <Text style={styles.badgeIcon}>{b.icon}</Text>
-                <Text style={styles.badgeName}>{b.name}</Text>
-              </View>
-            ))}
-          </ScrollView>
-        </View>
       )}
 
       <View style={{ height: 40 }} />
@@ -191,57 +209,94 @@ export default function HomeScreen({ navigation }) {
 const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: COLORS.bg },
   content: { padding: SPACING.md },
-  loadingText: { color: COLORS.text, fontSize: FONTS.size.lg },
-  header: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: SPACING.md },
-  headerLeft: {},
-  greeting: { color: COLORS.text, fontSize: FONTS.size.xxl, fontWeight: 'bold' },
-  subtitle: { color: COLORS.textSecondary, fontSize: FONTS.size.sm, marginTop: 2 },
-  card: { backgroundColor: COLORS.bgCard, borderRadius: RADIUS.lg, padding: SPACING.md, marginBottom: SPACING.md, ...SHADOWS.card },
-  levelCard: { borderLeftWidth: 4, borderLeftColor: COLORS.xp },
-  levelRow: { flexDirection: 'row', alignItems: 'center' },
-  levelIcon: { fontSize: 32, marginRight: SPACING.sm },
-  levelInfo: { flex: 1 },
-  levelName: { color: COLORS.text, fontSize: FONTS.size.lg, fontWeight: 'bold' },
-  xpText: { color: COLORS.xp, fontSize: FONTS.size.sm, marginTop: 2 },
-  streakBadge: { alignItems: 'center', backgroundColor: COLORS.streakBg, paddingHorizontal: 12, paddingVertical: 6, borderRadius: RADIUS.md },
-  streakIcon: { fontSize: 20 },
-  streakNum: { color: COLORS.streak, fontSize: FONTS.size.md, fontWeight: 'bold' },
-  wodCard: { borderLeftWidth: 4, borderLeftColor: COLORS.gold, alignItems: 'center', paddingVertical: SPACING.lg },
-  wodLabel: { color: COLORS.gold, fontSize: FONTS.size.xs, fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: 2 },
-  wodFrench: { color: COLORS.text, fontSize: FONTS.size.xxl, fontWeight: 'bold', marginTop: 8 },
-  wodPronunciation: { color: COLORS.textSecondary, fontSize: FONTS.size.sm, marginTop: 4, fontStyle: 'italic' },
-  wodEnglish: { color: COLORS.primary, fontSize: FONTS.size.lg, marginTop: 4 },
-  dailyCard: { borderLeftWidth: 4, borderLeftColor: COLORS.accent },
-  dailyDone: { opacity: 0.6 },
-  dailyRow: { flexDirection: 'row', alignItems: 'center' },
-  dailyIcon: { fontSize: 28, marginRight: SPACING.sm },
-  dailyTitle: { color: COLORS.text, fontSize: FONTS.size.md, fontWeight: 'bold' },
-  dailyDesc: { color: COLORS.textSecondary, fontSize: FONTS.size.sm },
-  dailyXP: { color: COLORS.accent, fontWeight: 'bold', fontSize: FONTS.size.md, flex: 0, paddingLeft: 12 },
-  statsRow: { flexDirection: 'row', justifyContent: 'space-between', marginBottom: SPACING.md },
-  statBox: { flex: 1, backgroundColor: COLORS.bgCard, borderRadius: RADIUS.md, padding: SPACING.sm, alignItems: 'center', marginHorizontal: 4 },
-  statNum: { color: COLORS.text, fontSize: FONTS.size.xl, fontWeight: 'bold' },
-  statLabel: { color: COLORS.textSecondary, fontSize: FONTS.size.xs, marginTop: 2 },
-  sectionTitle: { color: COLORS.text, fontSize: FONTS.size.xl, fontWeight: 'bold', marginBottom: SPACING.md, marginTop: SPACING.sm },
+  // Header
+  header: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: SPACING.md, paddingTop: SPACING.sm },
+  greeting: { color: COLORS.text, fontSize: 34, fontWeight: 'bold', fontStyle: 'italic' },
+  subtitle: { color: COLORS.textSecondary, fontSize: FONTS.size.sm, marginTop: 4 },
+  heartsRow: { flexDirection: 'row' },
+  // Stats
+  statsRow: { flexDirection: 'row', marginBottom: SPACING.md },
+  statCard: {
+    flex: 1,
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: COLORS.bgCard,
+    borderRadius: RADIUS.xl,
+    padding: 14,
+    marginHorizontal: 4,
+    borderWidth: 1,
+    borderColor: COLORS.borderSoft,
+  },
+  statIcon: { width: 36, height: 36, borderRadius: 10, justifyContent: 'center', alignItems: 'center', marginRight: 10 },
+  statNum: { color: COLORS.text, fontSize: 22, fontWeight: '800', lineHeight: 24 },
+  statLabel: { color: COLORS.textMuted, fontSize: 11, marginTop: 1 },
+  // Hero
+  heroCard: {
+    backgroundColor: COLORS.primary,
+    borderRadius: RADIUS.xxl,
+    padding: 18,
+    marginBottom: SPACING.md,
+    ...SHADOWS.card,
+  },
+  heroContent: {},
+  heroLabel: { fontSize: 10, fontWeight: '700', color: 'rgba(255,255,255,0.85)', letterSpacing: 1.5 },
+  heroTitle: { fontSize: 28, fontWeight: 'bold', fontStyle: 'italic', color: '#fff', marginTop: 6, lineHeight: 30 },
+  heroDesc: { fontSize: 13, color: 'rgba(255,255,255,0.9)', marginTop: 4 },
+  heroBottom: { flexDirection: 'row', alignItems: 'center', marginTop: 14 },
+  heroBadge: { backgroundColor: 'rgba(0,0,0,0.18)', paddingHorizontal: 10, paddingVertical: 5, borderRadius: RADIUS.full, marginLeft: 10 },
+  heroBadgeText: { color: '#fff', fontSize: 11, fontWeight: '700' },
+  // Word of day
+  wodCard: {
+    backgroundColor: COLORS.bgElev,
+    borderRadius: RADIUS.xl,
+    padding: 18,
+    marginBottom: SPACING.md,
+    borderTopWidth: 2,
+    borderTopColor: COLORS.gold,
+    borderWidth: 1,
+    borderColor: COLORS.borderSoft,
+  },
+  wodHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 10 },
+  wodLabel: { fontSize: 10, fontWeight: '700', color: COLORS.gold, letterSpacing: 2 },
+  wodFrench: { color: COLORS.text, fontSize: FONTS.size.display, fontWeight: 'bold', fontStyle: 'italic', letterSpacing: -1, lineHeight: 44 },
+  wodPron: { color: COLORS.textSecondary, fontSize: FONTS.size.sm, fontStyle: 'italic', marginTop: 6 },
+  wodEnglish: { color: COLORS.text, fontSize: 14, marginTop: 10, lineHeight: 20 },
+  // Section
+  sectionLabel: { fontSize: 11, fontWeight: '700', color: COLORS.textMuted, letterSpacing: 1.5, marginTop: 8, marginBottom: 10, marginLeft: 4 },
+  // Continue
+  continueCard: { backgroundColor: COLORS.bgCard, borderRadius: RADIUS.xl, borderWidth: 1, borderColor: COLORS.borderSoft, marginBottom: SPACING.md, overflow: 'hidden' },
+  continueRow: { flexDirection: 'row', alignItems: 'center', padding: 14 },
+  continueRowBorder: { borderBottomWidth: 1, borderBottomColor: COLORS.borderSoft },
+  continueIcon: { width: 42, height: 42, borderRadius: 12, backgroundColor: COLORS.bgCardHi, justifyContent: 'center', alignItems: 'center', marginRight: 12 },
+  continueFr: { color: COLORS.text, fontSize: 17, fontWeight: '600', fontStyle: 'italic' },
+  continueEn: { color: COLORS.textMuted, fontSize: 12, marginTop: 1 },
+  continuePill: { backgroundColor: COLORS.bgCardHi, paddingHorizontal: 8, paddingVertical: 3, borderRadius: RADIUS.full },
+  continuePillDone: { backgroundColor: 'rgba(88,204,2,0.12)' },
+  continuePillText: { color: COLORS.textSecondary, fontSize: 11, fontWeight: '600' },
+  // Feature grid
   featureGrid: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'space-between' },
   featureCard: {
     width: (width - SPACING.md * 2 - SPACING.sm) / 2,
     backgroundColor: COLORS.bgCard,
-    borderRadius: RADIUS.lg,
+    borderRadius: RADIUS.xl,
     padding: SPACING.md,
     marginBottom: SPACING.sm,
     borderWidth: 1,
-    ...SHADOWS.card,
+    borderColor: COLORS.borderSoft,
   },
-  featureIcon: { fontSize: 32, marginBottom: 8 },
-  featureTitle: { color: COLORS.text, fontSize: FONTS.size.md, fontWeight: 'bold' },
-  featureDesc: { color: COLORS.textSecondary, fontSize: FONTS.size.xs, marginTop: 4 },
-  mistakeCard: { flexDirection: 'row', alignItems: 'center', borderLeftWidth: 4, borderLeftColor: COLORS.wrong },
-  mistakeIcon: { fontSize: 28, marginRight: SPACING.sm },
-  mistakeTitle: { color: COLORS.text, fontSize: FONTS.size.md, fontWeight: 'bold' },
-  mistakeDesc: { color: COLORS.textSecondary, fontSize: FONTS.size.sm },
-  badgeSection: { marginTop: SPACING.sm },
-  badgeItem: { alignItems: 'center', marginRight: SPACING.md, backgroundColor: COLORS.bgCard, padding: SPACING.sm, borderRadius: RADIUS.md, minWidth: 80 },
-  badgeIcon: { fontSize: 28 },
-  badgeName: { color: COLORS.text, fontSize: FONTS.size.xs, marginTop: 4, textAlign: 'center' },
+  featureTitle: { color: COLORS.text, fontSize: FONTS.size.md, fontWeight: '700' },
+  featureDesc: { color: COLORS.textMuted, fontSize: 11, marginTop: 3 },
+  // Mistakes
+  mistakeCard: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: COLORS.bgCard,
+    borderRadius: RADIUS.xl,
+    padding: SPACING.md,
+    marginTop: SPACING.sm,
+    borderLeftWidth: 3,
+    borderLeftColor: COLORS.wrong,
+    borderWidth: 1,
+    borderColor: COLORS.borderSoft,
+  },
 });

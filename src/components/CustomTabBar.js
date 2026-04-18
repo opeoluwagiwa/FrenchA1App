@@ -3,11 +3,11 @@ import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 import { COLORS, FONTS, RADIUS } from '../utils/theme';
 
 const TABS = [
-  { key: 'home', label: 'Home', icon: '🏠' },
-  { key: 'learn', label: 'Learn', icon: '🃏' },
-  { key: 'quiz', label: 'Quiz', icon: '🧠' },
-  { key: 'ai', label: 'AI Tutor', icon: '🤖' },
-  { key: 'profile', label: 'Profile', icon: '👤' },
+  { key: 'home', label: 'Accueil', icon: '🏠' },
+  { key: 'learn', label: 'Apprendre', icon: '📖' },
+  { key: 'quiz', label: 'Quiz', icon: '🎯' },
+  { key: 'ai', label: 'Tuteur', icon: '✨' },
+  { key: 'profile', label: 'Profil', icon: '👤' },
 ];
 
 export default function CustomTabBar({ activeTab, onTabPress }) {
@@ -28,6 +28,7 @@ export default function CustomTabBar({ activeTab, onTabPress }) {
             <Text style={[styles.label, isActive && styles.labelActive]}>
               {tab.label}
             </Text>
+            {isActive && <View style={[styles.indicator, { backgroundColor: COLORS.primary }]} />}
           </TouchableOpacity>
         );
       })}
@@ -38,32 +39,43 @@ export default function CustomTabBar({ activeTab, onTabPress }) {
 const styles = StyleSheet.create({
   container: {
     flexDirection: 'row',
-    backgroundColor: COLORS.bgCard,
+    backgroundColor: COLORS.bg,
     borderTopWidth: 1,
-    borderTopColor: COLORS.border,
-    paddingBottom: 8,
-    paddingTop: 6,
-    height: 65,
+    borderTopColor: COLORS.borderSoft,
+    paddingBottom: 10,
+    paddingTop: 8,
+    height: 68,
   },
   tab: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+    position: 'relative',
   },
   icon: {
-    fontSize: 22,
-    opacity: 0.5,
+    fontSize: 20,
+    opacity: 0.45,
   },
   iconActive: {
-    fontSize: 26,
+    fontSize: 24,
     opacity: 1,
   },
   label: {
     color: COLORS.textMuted,
-    fontSize: 11,
-    marginTop: 2,
+    fontSize: 10,
+    marginTop: 3,
+    fontWeight: '500',
+    letterSpacing: 0.1,
   },
   labelActive: {
     color: COLORS.primary,
+    fontWeight: '600',
+  },
+  indicator: {
+    position: 'absolute',
+    top: -1,
+    width: 24,
+    height: 2,
+    borderRadius: 1,
   },
 });

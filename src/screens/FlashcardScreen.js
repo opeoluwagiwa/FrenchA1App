@@ -2,7 +2,7 @@ import React, { useState, useMemo, useRef, useCallback } from 'react';
 import {
   View, Text, StyleSheet, TouchableOpacity, Animated, Dimensions, PanResponder,
 } from 'react-native';
-import { COLORS, FONTS, SPACING, RADIUS, SHADOWS } from '../utils/theme';
+import { COLORS, FONTS, SPACING, RADIUS } from '../utils/theme';
 import { useApp } from '../context/AppContext';
 import { calculateNextReview, getDueCards } from '../utils/srs';
 import { speakFrench, speakSlow } from '../utils/speech';
@@ -14,6 +14,23 @@ import sentencesData from '../data/sentences_data.json';
 const { width, height } = Dimensions.get('window');
 const SWIPE_THRESHOLD = 80;
 
+function RatingButton({ color, emoji, label, hint, days, onPress }) {
+  return (
+    <TouchableOpacity style={{ flex: 1, alignItems: 'center' }} onPress={onPress} activeOpacity={0.7}>
+      <View style={[styles.ratingBtnInner, { backgroundColor: color }]}>
+        <Text style={styles.ratingEmoji}>{emoji}</Text>
+        <Text style={styles.ratingLabel}>{label}</Text>
+      </View>
+      <View style={styles.ratingHintRow}>
+        <View style={styles.ratingHintBadge}>
+          <Text style={styles.ratingHintKey}>{hint}</Text>
+        </View>
+        <Text style={styles.ratingHintDays}>{days}</Text>
+      </View>
+    </TouchableOpacity>
+  );
+}
+
 export default function FlashcardScreen({ route, navigation }) {
   const { category, type } = route.params;
   const { state, dispatch } = useApp();
@@ -21,43 +38,34 @@ export default function FlashcardScreen({ route, navigation }) {
   const [isFlipped, setIsFlipped] = useState(false);
   const [showXP, setShowXP] = useState(false);
   const [sessionStats, setSessionStats] = useState({ reviewed: 0, correct: 0 });
-
   const pan = useRef(new Animated.ValueXY()).current;
 
   const data = type === 'vocab' ? vocabData : sentencesData;
   const prefix = type === 'vocab' ? 'v_' : 's_';
 
   const categoryItems = useMemo(() => {
-    const items = data.filter(d => d.category === category);
-    return items.map(item => ({
+    return data.filter(d => d.category === category).map(item => ({
       ...item,
       cardId: `${prefix}${item.id}`,
       ...(state.cardStates[`${prefix}${item.id}`] || {}),
     }));
   }, [category, type]);
 
-  const dueCards = useMemo(() => {
-    return getDueCards(categoryItems, 20);
-  }, [categoryItems]);
-
+  const dueCards = useMemo(() => getDueCards(categoryItems, 20), [categoryItems]);
   const cards = dueCards.length > 0 ? dueCards : categoryItems.slice(0, 20);
   const currentCard = cards[currentIndex];
 
   const flipCard = useCallback(() => {
     setIsFlipped(prev => {
-      if (!prev && currentCard) {
-        speakFrench(currentCard.french);
-      }
+      if (!prev && currentCard) speakFrench(currentCard.french);
       return !prev;
     });
   }, [currentCard]);
 
   const handleSwipe = useCallback((quality) => {
     if (!currentCard) return;
-
     const updated = calculateNextReview(
-      state.cardStates[currentCard.cardId] || { id: currentCard.cardId },
-      quality
+      state.cardStates[currentCard.cardId] || { id: currentCard.cardId }, quality
     );
     dispatch({ type: 'UPDATE_CARD_STATE', payload: updated });
     dispatch({ type: 'INCREMENT_STAT', payload: { stat: 'flashcardsReviewed' } });
@@ -74,11 +82,7 @@ export default function FlashcardScreen({ route, navigation }) {
       dispatch({ type: 'ADD_MISTAKE', payload: { id: currentCard.cardId, french: currentCard.french, english: currentCard.english, pronunciation: currentCard.pronunciation } });
     }
 
-    setSessionStats(prev => ({
-      reviewed: prev.reviewed + 1,
-      correct: prev.correct + (quality >= 3 ? 1 : 0),
-    }));
-
+    setSessionStats(prev => ({ reviewed: prev.reviewed + 1, correct: prev.correct + (quality >= 3 ? 1 : 0) }));
     setIsFlipped(false);
     pan.setValue({ x: 0, y: 0 });
 
@@ -100,13 +104,11 @@ export default function FlashcardScreen({ route, navigation }) {
       onPanResponderRelease: (_, gesture) => {
         if (gesture.dx > SWIPE_THRESHOLD) {
           Animated.timing(pan, { toValue: { x: width, y: 0 }, duration: 200, useNativeDriver: false }).start(() => {
-            pan.setValue({ x: 0, y: 0 });
-            handleSwipe(5);
+            pan.setValue({ x: 0, y: 0 }); handleSwipe(5);
           });
         } else if (gesture.dx < -SWIPE_THRESHOLD) {
           Animated.timing(pan, { toValue: { x: -width, y: 0 }, duration: 200, useNativeDriver: false }).start(() => {
-            pan.setValue({ x: 0, y: 0 });
-            handleSwipe(1);
+            pan.setValue({ x: 0, y: 0 }); handleSwipe(1);
           });
         } else {
           Animated.spring(pan, { toValue: { x: 0, y: 0 }, useNativeDriver: false }).start();
@@ -118,102 +120,84 @@ export default function FlashcardScreen({ route, navigation }) {
   if (!currentCard) {
     return (
       <View style={[styles.container, { justifyContent: 'center', alignItems: 'center' }]}>
-        <Text style={styles.emoji}>🎉</Text>
-        <Text style={styles.doneTitle}>All caught up!</Text>
-        <Text style={styles.doneText}>No cards due for review in this category.</Text>
+        <Text style={{ fontSize: 60 }}>🎉</Text>
+        <Text style={styles.doneTitle}>Tout est revu !</Text>
+        <Text style={styles.doneText}>Pas de cartes à revoir dans cette catégorie.</Text>
         <TouchableOpacity style={styles.backBtn} onPress={() => navigation.goBack()}>
-          <Text style={styles.backBtnText}>Go Back</Text>
+          <Text style={styles.backBtnText}>Retour</Text>
         </TouchableOpacity>
       </View>
     );
   }
 
-  const genderColor = currentCard.french.startsWith('le ') || currentCard.french.startsWith('un ')
-    ? COLORS.masculine
-    : currentCard.french.startsWith('la ') || currentCard.french.startsWith('une ')
-      ? COLORS.feminine : null;
+  const isMasc = currentCard.french.startsWith('le ') || currentCard.french.startsWith('un ');
+  const isFem = currentCard.french.startsWith('la ') || currentCard.french.startsWith('une ');
 
   return (
     <View style={styles.container}>
-      {/* Progress */}
+      {/* Top bar */}
       <View style={styles.topBar}>
-        <TouchableOpacity onPress={() => navigation.goBack()}>
-          <Text style={styles.closeBtn}>✕</Text>
+        <TouchableOpacity onPress={() => navigation.goBack()} style={styles.closeBtn}>
+          <Text style={styles.closeBtnText}>✕</Text>
         </TouchableOpacity>
-        <View style={{ flex: 1, marginHorizontal: SPACING.md }}>
-          <ProgressBar progress={(currentIndex / cards.length) * 100} />
+        <View style={{ flex: 1, marginHorizontal: 12 }}>
+          <ProgressBar progress={(currentIndex / cards.length) * 100} height={10} />
         </View>
-        <Text style={styles.counter}>{currentIndex + 1}/{cards.length}</Text>
+        <Text style={styles.counter}>{currentIndex + 1}<Text style={{ color: COLORS.textFaint }}>/{cards.length}</Text></Text>
       </View>
 
       <XPBadge amount={10} visible={showXP} />
 
       {/* Swipe hints */}
       <View style={styles.swipeHints}>
-        <Text style={[styles.swipeHint, { color: COLORS.wrong }]}>← Hard</Text>
-        <Text style={[styles.swipeHint, { color: COLORS.textMuted }]}>Tap to flip</Text>
-        <Text style={[styles.swipeHint, { color: COLORS.correct }]}>Easy →</Text>
+        <Text style={[styles.swipeHint, { color: COLORS.wrong }]}>← Difficile</Text>
+        <Text style={[styles.swipeHint, { color: COLORS.textMuted }]}>Touchez pour retourner</Text>
+        <Text style={[styles.swipeHint, { color: COLORS.correct }]}>Facile →</Text>
       </View>
 
-      {/* Card - simple flip using conditional render */}
+      {/* Card */}
       <View style={styles.cardContainer}>
-        <Animated.View
-          {...panResponder.panHandlers}
-          style={[styles.card, { transform: [{ translateX: pan.x }] }]}
-        >
-          <TouchableOpacity activeOpacity={0.9} onPress={flipCard} style={styles.cardTouchable}>
+        <Animated.View {...panResponder.panHandlers} style={[styles.cardOuter, { transform: [{ translateX: pan.x }] }]}>
+          <TouchableOpacity activeOpacity={0.9} onPress={flipCard} style={{ flex: 1 }}>
             {!isFlipped ? (
-              /* Front - French */
               <View style={styles.cardFace}>
-                {genderColor && (
-                  <View style={[styles.genderTag, { backgroundColor: genderColor }]}>
-                    <Text style={styles.genderText}>
-                      {currentCard.french.startsWith('le ') || currentCard.french.startsWith('un ') ? 'Masculine' : 'Feminine'}
-                    </Text>
+                {/* Gender tag */}
+                {(isMasc || isFem) && (
+                  <View style={[styles.genderTag, { backgroundColor: isMasc ? COLORS.masculine : COLORS.feminine }]}>
+                    <Text style={styles.genderText}>{isMasc ? 'MASCULIN' : 'FEMININ'}</Text>
                   </View>
                 )}
-                <Text style={styles.categoryTag}>{category}</Text>
-                <Text style={styles.frenchText}>{currentCard.french}</Text>
-                <Text style={styles.pronunciationText}>[{currentCard.pronunciation}]</Text>
+                <Text style={styles.categoryLabel}>{category}</Text>
+                <Text style={styles.frenchWord}>{currentCard.french}</Text>
+                <Text style={styles.pronunciation}>[{currentCard.pronunciation}]</Text>
                 <View style={styles.speakRow}>
-                  <TouchableOpacity style={styles.speakBtn} onPress={() => speakSlow(currentCard.french)}>
-                    <Text style={styles.speakIcon}>🐢</Text>
+                  <TouchableOpacity style={styles.speakCircle} onPress={() => speakFrench(currentCard.french)}>
+                    <Text style={{ fontSize: 22 }}>🔊</Text>
                   </TouchableOpacity>
-                  <TouchableOpacity style={styles.speakBtn} onPress={() => speakFrench(currentCard.french)}>
-                    <Text style={styles.speakIcon}>🔊</Text>
+                  <TouchableOpacity style={styles.speakCircle} onPress={() => speakSlow(currentCard.french)}>
+                    <Text style={{ fontSize: 22 }}>🐢</Text>
                   </TouchableOpacity>
                 </View>
-                <Text style={styles.tapHint}>Tap to reveal</Text>
+                <Text style={styles.revealHint}>TOUCHEZ POUR REVELER</Text>
               </View>
             ) : (
-              /* Back - English */
               <View style={[styles.cardFace, styles.cardBack]}>
-                <Text style={styles.categoryTag}>{category}</Text>
-                <Text style={styles.frenchTextSmall}>{currentCard.french}</Text>
+                <Text style={styles.categoryLabel}>{category}</Text>
+                <Text style={styles.frenchWordSmall}>{currentCard.french}</Text>
                 <View style={styles.divider} />
-                <Text style={styles.englishText}>{currentCard.english}</Text>
-                <Text style={styles.pronunciationText}>[{currentCard.pronunciation}]</Text>
-                <Text style={styles.tapHint}>Tap to flip back</Text>
+                <Text style={styles.englishWord}>{currentCard.english}</Text>
+                <Text style={styles.pronunciation}>[{currentCard.pronunciation}]</Text>
               </View>
             )}
           </TouchableOpacity>
         </Animated.View>
       </View>
 
-      {/* Rating Buttons */}
+      {/* 3D Rating buttons */}
       <View style={styles.ratingRow}>
-        <TouchableOpacity style={[styles.ratingBtn, { backgroundColor: COLORS.wrong }]} onPress={() => handleSwipe(1)}>
-          <Text style={styles.ratingEmoji}>😣</Text>
-          <Text style={styles.ratingLabel}>Hard</Text>
-        </TouchableOpacity>
-        <TouchableOpacity style={[styles.ratingBtn, { backgroundColor: COLORS.accent }]} onPress={() => handleSwipe(3)}>
-          <Text style={styles.ratingEmoji}>🤔</Text>
-          <Text style={styles.ratingLabel}>Good</Text>
-        </TouchableOpacity>
-        <TouchableOpacity style={[styles.ratingBtn, { backgroundColor: COLORS.correct }]} onPress={() => handleSwipe(5)}>
-          <Text style={styles.ratingEmoji}>😄</Text>
-          <Text style={styles.ratingLabel}>Easy</Text>
-        </TouchableOpacity>
+        <RatingButton color={COLORS.wrong} emoji="😣" label="DUR" hint="1" days="< 1 min" onPress={() => handleSwipe(1)} />
+        <RatingButton color="#FF9600" emoji="🤔" label="CORRECT" hint="2" days="10 min" onPress={() => handleSwipe(3)} />
+        <RatingButton color={COLORS.correct} emoji="😄" label="FACILE" hint="3" days="4 jours" onPress={() => handleSwipe(5)} />
       </View>
     </View>
   );
@@ -222,46 +206,64 @@ export default function FlashcardScreen({ route, navigation }) {
 const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: COLORS.bg },
   topBar: { flexDirection: 'row', alignItems: 'center', padding: SPACING.md, paddingTop: SPACING.xl },
-  closeBtn: { color: COLORS.textSecondary, fontSize: FONTS.size.xl },
-  counter: { color: COLORS.textSecondary, fontSize: FONTS.size.sm },
-  swipeHints: { flexDirection: 'row', justifyContent: 'space-between', paddingHorizontal: SPACING.xl, marginBottom: SPACING.sm },
-  swipeHint: { fontSize: FONTS.size.xs },
-  cardContainer: { flex: 1, alignItems: 'center', justifyContent: 'center', paddingHorizontal: SPACING.md },
-  card: { width: width - SPACING.md * 2, height: height * 0.45 },
-  cardTouchable: { flex: 1 },
+  closeBtn: { width: 32, height: 32, borderRadius: RADIUS.full, backgroundColor: COLORS.bgCard, justifyContent: 'center', alignItems: 'center' },
+  closeBtnText: { color: COLORS.textSecondary, fontSize: 14 },
+  counter: { fontSize: 13, fontWeight: '700', color: COLORS.textSecondary },
+  swipeHints: { flexDirection: 'row', justifyContent: 'space-between', paddingHorizontal: SPACING.lg, marginBottom: 6 },
+  swipeHint: { fontSize: 11, fontWeight: '600' },
+  cardContainer: { flex: 1, alignItems: 'center', justifyContent: 'center', paddingHorizontal: 20 },
+  cardOuter: { width: width - 40, height: height * 0.42 },
   cardFace: {
     flex: 1,
-    borderRadius: RADIUS.xl,
-    padding: SPACING.lg,
+    backgroundColor: COLORS.bgCard,
+    borderRadius: 26,
+    padding: 28,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: COLORS.bgCard,
+    borderWidth: 1,
+    borderColor: COLORS.borderSoft,
     shadowColor: '#000',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.3,
-    shadowRadius: 8,
-    elevation: 6,
+    shadowOffset: { width: 0, height: 8 },
+    shadowOpacity: 0.4,
+    shadowRadius: 20,
+    elevation: 10,
   },
-  cardBack: { backgroundColor: COLORS.bgLight },
-  genderTag: { position: 'absolute', top: SPACING.md, right: SPACING.md, paddingHorizontal: 10, paddingVertical: 4, borderRadius: RADIUS.full },
-  genderText: { color: '#fff', fontSize: FONTS.size.xs, fontWeight: 'bold' },
-  categoryTag: { color: COLORS.textMuted, fontSize: FONTS.size.xs, textTransform: 'uppercase', letterSpacing: 1, marginBottom: SPACING.sm },
-  frenchText: { color: COLORS.text, fontSize: FONTS.size.hero, fontWeight: 'bold', textAlign: 'center' },
-  frenchTextSmall: { color: COLORS.textSecondary, fontSize: FONTS.size.lg, textAlign: 'center' },
-  pronunciationText: { color: COLORS.textSecondary, fontSize: FONTS.size.md, fontStyle: 'italic', marginTop: 8 },
-  englishText: { color: COLORS.primary, fontSize: FONTS.size.xxl, fontWeight: 'bold', textAlign: 'center' },
+  cardBack: { backgroundColor: COLORS.bgElev },
+  genderTag: { position: 'absolute', top: 18, right: 18, paddingHorizontal: 10, paddingVertical: 4, borderRadius: RADIUS.full },
+  genderText: { color: '#fff', fontSize: 10, fontWeight: '700', letterSpacing: 1 },
+  categoryLabel: { color: COLORS.textMuted, fontSize: 10, fontWeight: '700', textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 12 },
+  frenchWord: { color: COLORS.text, fontSize: 52, fontWeight: 'bold', fontStyle: 'italic', textAlign: 'center', lineHeight: 56, letterSpacing: -1.5 },
+  frenchWordSmall: { color: COLORS.textSecondary, fontSize: 20, fontStyle: 'italic', textAlign: 'center' },
+  pronunciation: { color: COLORS.textSecondary, fontSize: 15, fontStyle: 'italic', marginTop: 12 },
+  englishWord: { color: COLORS.primary, fontSize: 28, fontWeight: 'bold', textAlign: 'center' },
   divider: { width: 60, height: 2, backgroundColor: COLORS.border, marginVertical: SPACING.md },
-  speakRow: { flexDirection: 'row', marginTop: SPACING.lg },
-  speakBtn: { marginHorizontal: 12 },
-  speakIcon: { fontSize: 28 },
-  tapHint: { color: COLORS.textMuted, fontSize: FONTS.size.xs, position: 'absolute', bottom: SPACING.md },
-  ratingRow: { flexDirection: 'row', justifyContent: 'space-around', padding: SPACING.md, paddingBottom: SPACING.xl },
-  ratingBtn: { alignItems: 'center', paddingVertical: 12, paddingHorizontal: 24, borderRadius: RADIUS.lg, minWidth: 90 },
-  ratingEmoji: { fontSize: 24 },
-  ratingLabel: { color: '#fff', fontSize: FONTS.size.sm, fontWeight: 'bold', marginTop: 4 },
-  emoji: { fontSize: 60 },
-  doneTitle: { color: COLORS.text, fontSize: FONTS.size.xxl, fontWeight: 'bold', marginTop: SPACING.md },
-  doneText: { color: COLORS.textSecondary, fontSize: FONTS.size.md, marginTop: SPACING.sm },
+  speakRow: { flexDirection: 'row', marginTop: 24 },
+  speakCircle: { width: 50, height: 50, borderRadius: RADIUS.full, backgroundColor: COLORS.bgCardHi, justifyContent: 'center', alignItems: 'center', marginHorizontal: 8 },
+  revealHint: { position: 'absolute', bottom: 16, color: COLORS.textFaint, fontSize: 11, letterSpacing: 1 },
+  // Rating buttons
+  ratingRow: { flexDirection: 'row', paddingHorizontal: SPACING.md, paddingBottom: SPACING.xl, marginTop: SPACING.md },
+  ratingBtnInner: {
+    width: '100%',
+    borderRadius: 16,
+    paddingVertical: 12,
+    paddingHorizontal: 8,
+    alignItems: 'center',
+    marginHorizontal: 5,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 5 },
+    shadowOpacity: 0.3,
+    shadowRadius: 0,
+    elevation: 5,
+  },
+  ratingEmoji: { fontSize: 26, lineHeight: 30 },
+  ratingLabel: { fontSize: 13, fontWeight: '800', color: '#fff', letterSpacing: 1.2, marginTop: 4 },
+  ratingHintRow: { flexDirection: 'row', alignItems: 'center', marginTop: 6 },
+  ratingHintBadge: { backgroundColor: COLORS.bgCard, paddingHorizontal: 5, paddingVertical: 1, borderRadius: 4, borderWidth: 1, borderColor: COLORS.borderSoft, marginRight: 5 },
+  ratingHintKey: { color: COLORS.textSecondary, fontSize: 9, fontWeight: '700' },
+  ratingHintDays: { color: COLORS.textMuted, fontSize: 10, fontWeight: '600' },
+  // Done state
+  doneTitle: { color: COLORS.text, fontSize: 24, fontWeight: 'bold', marginTop: SPACING.md },
+  doneText: { color: COLORS.textSecondary, fontSize: 15, marginTop: SPACING.sm },
   backBtn: { backgroundColor: COLORS.primary, paddingHorizontal: 32, paddingVertical: 14, borderRadius: RADIUS.lg, marginTop: SPACING.lg },
-  backBtnText: { color: '#fff', fontSize: FONTS.size.md, fontWeight: 'bold' },
+  backBtnText: { color: '#fff', fontSize: 15, fontWeight: '700' },
 });

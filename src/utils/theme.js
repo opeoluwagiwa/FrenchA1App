@@ -1,16 +1,32 @@
-// Duolingo-inspired color theme
+// Design tokens — refined from Claude Design handoff
+// Palette: deep dark teal ground, Duolingo-green primary,
+// French editorial accent system
+
 export const COLORS = {
-  // Primary
-  primary: '#58CC02',       // Duolingo green
+  // Base surfaces
+  bg: '#0E171C',
+  bgElev: '#16232A',
+  bgCard: '#1B2B33',
+  bgCardHi: '#23373F',
+  bgInput: '#0A1216',
+  bgLight: '#235264',
+
+  // Borders
+  border: '#2D4049',
+  borderSoft: '#243339',
+  borderStrong: '#3D5662',
+
+  // Primary accent
+  primary: '#58CC02',
   primaryDark: '#46A302',
-  primaryLight: '#89E219',
+  primaryGlow: 'rgba(88, 204, 2, 0.35)',
 
   // Secondary
-  secondary: '#1CB0F6',     // Duolingo blue
+  secondary: '#1CB0F6',
   secondaryDark: '#0095D9',
 
   // Accent
-  accent: '#FF9600',        // Orange
+  accent: '#FF9600',
   accentDark: '#E08600',
 
   // Feedback
@@ -18,49 +34,41 @@ export const COLORS = {
   wrong: '#FF4B4B',
   warning: '#FFC800',
 
-  // Gender colors (for articles)
-  masculine: '#1CB0F6',     // Blue for le/un
-  feminine: '#FF6B9D',      // Pink for la/une
+  // Gender colors
+  masculine: '#3BA9F5',
+  feminine: '#FF6B9D',
 
   // XP / Gold
   gold: '#FFC800',
-  xp: '#A560FF',            // Purple for XP
+  xp: '#B487FF',
 
-  // Backgrounds
-  bg: '#131F24',            // Dark background
-  bgCard: '#1B2B33',
-  bgLight: '#235264',
-  bgInput: '#0D1B21',
+  // Streak
+  streak: '#FF8A3D',
+  streakBg: '#2E1507',
+
+  // Heart / Lives
+  heart: '#FF4B4B',
 
   // Text
   text: '#FFFFFF',
-  textSecondary: '#AFAFAF',
-  textMuted: '#6B7B82',
-
-  // Borders
-  border: '#37464F',
-  borderLight: '#4A5C66',
-
-  // Streak
-  streak: '#FF9600',
-  streakBg: '#4A2800',
-
-  // Hearts/Lives
-  heart: '#FF4B4B',
-  heartEmpty: '#3C1414',
+  textSecondary: '#A7BAC2',
+  textMuted: '#6B7E86',
+  textFaint: '#4C5F67',
 };
 
 export const FONTS = {
-  regular: 'System',
-  bold: 'System',
+  // Instrument Serif for French/display, system for UI
+  serif: 'System', // Falls back to system serif on device
+  ui: 'System',
   size: {
-    xs: 12,
-    sm: 14,
-    md: 16,
+    xs: 10,
+    sm: 13,
+    md: 15,
     lg: 18,
     xl: 22,
     xxl: 28,
     hero: 36,
+    display: 42,
   }
 };
 
@@ -76,7 +84,8 @@ export const RADIUS = {
   sm: 8,
   md: 12,
   lg: 16,
-  xl: 24,
+  xl: 18,
+  xxl: 22,
   full: 999,
 };
 
@@ -88,13 +97,20 @@ export const SHADOWS = {
     shadowRadius: 8,
     elevation: 6,
   },
-  button: {
+  glow: (color) => ({
+    shadowColor: color,
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.4,
+    shadowRadius: 16,
+    elevation: 8,
+  }),
+  button3D: (color) => ({
     shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.25,
-    shadowRadius: 4,
-    elevation: 4,
-  },
+    shadowOffset: { width: 0, height: 5 },
+    shadowOpacity: 0.3,
+    shadowRadius: 0,
+    elevation: 5,
+  }),
 };
 
 // Level thresholds
